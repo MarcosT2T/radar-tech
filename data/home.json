@@ -226,6 +226,66 @@
         "https://openclassrooms.com/en/courses/5667431-learn-programming-with-java",
         "https://learn.microsoft.com/pt-br/java/"
       ]
+    },
+    {
+      "data": "2026-10-23",
+      "titulo": "Java — segunda rodada: cursos brasileiros, Spring Boot e IA",
+      "resumo": "Foram identificados e adicionados nove registros Java ao Radar Tech, totalizando 79 oportunidades. Destaques para Loiane Training, Test Automation University, Spring Academy, JetBrains Academy, Google Codelabs e Great Learning. A gratuidade de certificado foi diferenciada da gratuidade do conteúdo.",
+      "destaques": [
+        {
+          "titulo": "Loiane Training — Java Básico e Intermediário",
+          "tipo": "Curso com certificado gratuito",
+          "descricao": "Cursos em português e certificados de participação gratuitos; Java Intermediário tem 50 aulas e 8h50.",
+          "url": "https://loiane.training/"
+        },
+        {
+          "titulo": "Test Automation University — Java Programming",
+          "tipo": "Curso com certificado",
+          "descricao": "Formação gratuita de Java com Angie Jones e certificado de conclusão na plataforma.",
+          "url": "https://testautomationu.applitools.com/java-programming-course/"
+        },
+        {
+          "titulo": "Spring Academy — trilha Spring Certified Professional",
+          "tipo": "Preparação",
+          "descricao": "Quatro cursos sobre Spring Framework, Spring Boot e APIs REST; certificação profissional por exame separado.",
+          "url": "https://spring.academy/paths"
+        },
+        {
+          "titulo": "Google — agentes de IA com Java",
+          "tipo": "Laboratório gratuito",
+          "descricao": "Codelab prático com Agent Development Kit para Java; não é exame de certificação.",
+          "url": "https://codelabs.developers.google.com/"
+        },
+        {
+          "titulo": "Great Learning — Java Programming",
+          "tipo": "Curso gratuito, certificado pago",
+          "descricao": "Aulas gratuitas, mas FAQ oficial informa taxa para emissão do certificado.",
+          "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 79,
+        "novos_registros": 9
+      },
+      "observacoes": [
+        "Os cursos da Loiane Training anunciam certificado gratuito de participação.",
+        "Test Automation University disponibiliza cursos e certificados gratuitos, mas não certificação Oracle Java.",
+        "Spring Certified Professional é certificação distinta de cursos preparatórios.",
+        "JetBrains Academy oferece trilhas marcadas Free; não confundir com trilhas pagas ou avaliação temporária.",
+        "Great Learning: curso gratuito, certificado pago.",
+        "Alguns registros Spring Academy têm gratuidade de acesso integral ainda não confirmada."
+      ],
+      "fontes": [
+        "https://loiane.training/",
+        "https://loiane.training/curso/java-intermediario",
+        "https://testautomationu.applitools.com/",
+        "https://testautomationu.applitools.com/java-programming-course/",
+        "https://spring.academy/paths",
+        "https://spring.academy/courses",
+        "https://www.jetbrains.com/pt-br/academy/faq/",
+        "https://codelabs.developers.google.com/",
+        "https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming"
+      ]
     }
   ]
 }
