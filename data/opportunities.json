@@ -1,6 +1,6 @@
 {
   "atualizado_em": "2026-10-24",
-  "nota": "Auditoria 24/10/2026: fontes oficiais consultadas. Vigente só para benefício ou exame explicitamente disponível; 'A confirmar' para vagas DIO sem matrícula testada e lançamentos futuros. Exames profissionais, badges, cursos e vouchers são distintos. Histórico de campanhas encerradas preservado.",
+  "nota": "Atualização incremental 24/10: Pearson Global Retake, PMI-DF hackathon, DIO AI-103 e CompTIA Emerging Store. Exame pago, segunda tentativa grátis, voucher condicionado e certificado de participação não são equivalentes. Não foi confirmado voucher CompTIA gratuito nem desconto acadêmico para universidade brasileira.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -114,17 +114,19 @@
       "categoria": "Redes e Cibersegurança",
       "tipo": "Certificação oficial",
       "status": "A confirmar",
-      "descricao": "Certificações A+, Network+ e Security+; verifique preços e elegibilidade de descontos.",
+      "descricao": "Certificações oficiais CompTIA (A+, Network+, Security+, Linux+, Cloud+, CySA+, PenTest+, SecurityX, Data+ etc.). Exames pagos; descontos acadêmicos brasileiros não confirmados. Verificar preços no Emerging Store e versões antes da compra.",
       "url": "https://www.comptia.org/certifications",
       "origem": "CompTIA",
       "brasil": "Conferir elegibilidade e condições no portal oficial",
       "beneficio": "Sem promoção confirmada",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": null,
-      "evidencias": [],
+      "verificado_em": "2026-10-24",
+      "evidencias": [
+        "https://pt.linkedin.com/posts/comptia-brasil_comptia-brasil-novos-pre%C3%A7os-voc%C3%AA-activity-7346934649895497728-t7jv"
+      ],
       "grupo": "Certificação oficial",
-      "resumo": "Certificações A+, Network+ e Security+.",
+      "resumo": "Certificações oficiais CompTIA (A+, Network+, Security+, Linux+, Cloud+, CySA+, PenTest+, SecurityX, Data+ etc.). Exames pagos; descontos acadêmicos brasileiros não confirmados. Verificar preços no Emerging Store e versões antes da compra.",
       "certificado_curso": null
     },
     {
@@ -2588,6 +2590,96 @@
       "verificado_em": "2026-10-24",
       "evidencias": [
         "https://blogs.oracle.com/oracleuniversity/propel-your-career-forward-oracle-fusion-cloud-applications-certificationfree-and-professional-paths-for-every-ambition"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-117",
+      "nome": "Pearson VUE Global Retake 2026 — segunda tentativa gratuita",
+      "fabricante": "Pearson VUE",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "status": "Vigente",
+      "resumo": "Para exames elegíveis comprados e realizados entre 29/09 e 17/11/2026, a reprovação pode dar direito a uma repetição gratuita entre 04/01 e 07/04/2027. Participam AWS, Microsoft, Cisco CCST, Fortinet, IBM e outros; CompTIA não está na lista. A primeira prova é paga, exige adesão e código. AWS tem 50% na primeira tentativa para exames participantes; exclusões incluem ANS, MLA, SAP, DVA e betas. Microsoft ESI excluído; Cisco apenas CCST Networking/Cybersecurity/IT Specialist.",
+      "descricao": "Para exames elegíveis comprados e realizados entre 29/09 e 17/11/2026, a reprovação pode dar direito a uma repetição gratuita entre 04/01 e 07/04/2027. Participam AWS, Microsoft, Cisco CCST, Fortinet, IBM e outros; CompTIA não está na lista. A primeira prova é paga, exige adesão e código. AWS tem 50% na primeira tentativa para exames participantes; exclusões incluem ANS, MLA, SAP, DVA e betas. Microsoft ESI excluído; Cisco apenas CCST Networking/Cybersecurity/IT Specialist.",
+      "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+      "origem": "Pearson VUE",
+      "brasil": "Termos globais não excluem Brasil, mas resgate e disponibilidade devem ser confirmados no checkout Pearson VUE",
+      "beneficio": "Retake gratuito condicionado; primeira prova paga; AWS elegíveis 50% na primeira tentativa",
+      "inscricao_ate": "2026-11-17",
+      "voucher_ate": "2027-04-07",
+      "verificado_em": "2026-10-24",
+      "evidencias": [
+        "https://www.pearsonvue.com/us/en/test-takers/free-retake.html"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-118",
+      "nome": "Hackathon Impacto Social — IA e Gestão de Projetos 2026",
+      "fabricante": "PMI-DF",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Evento e desafio",
+      "grupo": "Evento e desafio",
+      "status": "Vigente",
+      "resumo": "Hackathon 100% online e gratuito para estudantes de graduação/pós-graduação residentes no Brasil, maiores de 18 anos, em equipes de 4–5 pessoas. Inscrições 19/10–09/11/2026; 15 primeiras equipes elegíveis selecionadas; hackathon em 12/12; certificado até 19/12. Página apresenta data de início geral 07/11, mas cronograma detalha hackathon 12/12.",
+      "descricao": "Hackathon 100% online e gratuito para estudantes de graduação/pós-graduação residentes no Brasil, maiores de 18 anos, em equipes de 4–5 pessoas. Inscrições 19/10–09/11/2026; 15 primeiras equipes elegíveis selecionadas; hackathon em 12/12; certificado até 19/12. Página apresenta data de início geral 07/11, mas cronograma detalha hackathon 12/12.",
+      "url": "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075",
+      "origem": "PMI-DF",
+      "brasil": "Elegibilidade explícita: estudantes de graduação ou pós-graduação de todo o Brasil, 18+, equipes de 4 a 5",
+      "beneficio": "Participação gratuita e certificado de participação; seleção limitada",
+      "inscricao_ate": "2026-11-09",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-24",
+      "evidencias": [
+        "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075"
+      ],
+      "certificado_curso": "Certificado de participação até 19/12/2026"
+    },
+    {
+      "id": "rt-119",
+      "nome": "DIO + Microsoft — Aceleração AI-103 e sorteio de 100 vouchers",
+      "fabricante": "DIO",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "A confirmar",
+      "resumo": "Quatro workshops gratuitos de Microsoft Foundry, RAG e agentes ocorreram em 19–22/10/2026. A página ainda exibe formulário de matrícula e anuncia 100 vouchers gratuitos para o exame AI-103, mas prazo, regras de seleção e acesso após o evento não foram confirmados. Exame oficial AI-103 disponível em português brasileiro, com preço regional.",
+      "descricao": "Quatro workshops gratuitos de Microsoft Foundry, RAG e agentes ocorreram em 19–22/10/2026. A página ainda exibe formulário de matrícula e anuncia 100 vouchers gratuitos para o exame AI-103, mas prazo, regras de seleção e acesso após o evento não foram confirmados. Exame oficial AI-103 disponível em português brasileiro, com preço regional.",
+      "url": "https://www.dio.me/acceleration/microsoft-ai-103-certification",
+      "origem": "DIO",
+      "brasil": "Página de inscrição em português com telefone +55; resgate de voucher depende de critérios ainda não verificados",
+      "beneficio": "Preparação gratuita anunciada; 100 vouchers condicionados e não garantidos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-24",
+      "evidencias": [
+        "https://www.dio.me/acceleration/microsoft-ai-103-certification",
+        "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-120",
+      "nome": "CompTIA Emerging Store — preços regionais para o Brasil",
+      "fabricante": "CompTIA",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "status": "A confirmar",
+      "resumo": "Canal regional de aquisição de vouchers e materiais CompTIA para Brasil/América Latina, divulgado pela CompTIA Brasil com preços reduzidos frente ao mercado norte-americano. Não há voucher gratuito confirmado; valores atuais e regras da Academic Store para universidades brasileiras não puderam ser validados no checkout.",
+      "descricao": "Canal regional de aquisição de vouchers e materiais CompTIA para Brasil/América Latina, divulgado pela CompTIA Brasil com preços reduzidos frente ao mercado norte-americano. Não há voucher gratuito confirmado; valores atuais e regras da Academic Store para universidades brasileiras não puderam ser validados no checkout.",
+      "url": "https://emerging-store.comptia.org/",
+      "origem": "CompTIA",
+      "brasil": "CompTIA Brasil anunciou classificação regional como Mercado Emergente; verificar preço e aceitação no carrinho",
+      "beneficio": "Possível preço regional reduzido; valores e elegibilidade acadêmica não confirmados",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-24",
+      "evidencias": [
+        "https://pt.linkedin.com/posts/comptia-brasil_comptia-brasil-novos-pre%C3%A7os-voc%C3%AA-activity-7346934649895497728-t7jv",
+        "https://emerging-store.comptia.org/"
       ],
       "certificado_curso": null
     }
