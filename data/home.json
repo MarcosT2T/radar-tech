@@ -167,6 +167,65 @@
         "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions",
         "https://www.isc2.org/landing/1mcc"
       ]
+    },
+    {
+      "data": "2026-10-23",
+      "titulo": "Java — cursos gratuitos, certificados e certificações profissionais",
+      "resumo": "Pesquisa em fontes oficiais Oracle, Oracle Academy, Universidade de Helsinque, Saylor University, OpenClassrooms e Microsoft Learn. Foram adicionados 15 registros específicos de Java, elevando o catálogo a 70 registros. Separação entre badges gratuitos, certificados de conclusão, currículos institucionais e exames profissionais pagos ou não confirmados como gratuitos.",
+      "destaques": [
+        {
+          "titulo": "Oracle Java Explorer",
+          "tipo": "Badge gratuito",
+          "descricao": "15 módulos gratuitos e avaliação para obter badge digital Oracle.",
+          "url": "https://dev.java/learn/ou/"
+        },
+        {
+          "titulo": "Helsinque — Java Programming I e II",
+          "tipo": "Certificados gratuitos",
+          "descricao": "Dois cursos universitários gratuitos com certificados separados após 80% dos pontos em cada parte; conteúdo legado.",
+          "url": "https://java-programming.mooc.fi/"
+        },
+        {
+          "titulo": "Oracle Academy — Java Fundamentals / Foundations / Programming",
+          "tipo": "Currículo institucional",
+          "descricao": "Três currículos de 90h; acesso gratuito para instituições participantes, não matrícula pública automática.",
+          "url": "https://academy.oracle.com/pt-br/solutions-curriculum-java.html"
+        },
+        {
+          "titulo": "Saylor CS102",
+          "tipo": "Certificado gratuito",
+          "descricao": "Curso de 51h de Java, C++ e POO com exame final e certificado de conclusão gratuitos.",
+          "url": "https://learn.saylor.org/course/cs102?section=0"
+        },
+        {
+          "titulo": "Oracle Java Foundations Associate 1Z0-811",
+          "tipo": "Certificação profissional",
+          "descricao": "Exame de certificação Oracle; não há confirmação de gratuidade do exame.",
+          "url": "https://academy.oracle.com/pt-br/resources-oracle-certifications.html"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 70,
+        "novos_registros": 15,
+        "registros_java_agregadores_esclarecidos": 2
+      },
+      "observacoes": [
+        "O exame Oracle Java SE profissional não deve ser anunciado como gratuito.",
+        "Oracle Academy é um programa para instituições e educadores participantes; verificar acesso por meio da instituição de ensino.",
+        "O MOOC Java da Universidade de Helsinque não recebe atualizações e não oferece mais créditos ECTS, mas mantém a possibilidade de certificado de conclusão.",
+        "OpenClassrooms tem curso Java gratuito; certificado gratuito não foi confirmado.",
+        "O catálogo Java está disponível junto aos demais itens no filtro Desenvolvimento e DevOps e na busca por Java."
+      ],
+      "fontes": [
+        "https://dev.java/learn/ou/",
+        "https://academy.oracle.com/pt-br/solutions-curriculum-java.html",
+        "https://academy.oracle.com/pt-br/resources-oracle-certifications.html",
+        "https://java-programming.mooc.fi/",
+        "https://java-programming.mooc.fi/grading-and-exams/",
+        "https://learn.saylor.org/course/cs102?section=0",
+        "https://openclassrooms.com/en/courses/5667431-learn-programming-with-java",
+        "https://learn.microsoft.com/pt-br/java/"
+      ]
     }
   ]
 }
