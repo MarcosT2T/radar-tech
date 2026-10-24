@@ -1,0 +1,53 @@
+{
+  "atualizado_em": "2026-10-23",
+  "analises": [
+    {
+      "data": "2026-10-23",
+      "titulo": "Revisão inicial — cursos, programas e certificações",
+      "resumo": "Consolidação do catálogo com oportunidades e programas discutidos entre 23/09 e 23/10/2026. Foram adicionados cursos oficiais de preparação e preservadas campanhas históricas com seus estados corretos. Benefícios não confirmados não são apresentados como vigentes.",
+      "destaques": [
+        {
+          "titulo": "Preparação AZ-900",
+          "descricao": "Guia oficial e simulados Microsoft disponíveis gratuitamente. Isso não inclui o exame de certificação.",
+          "url": "https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900",
+          "tipo": "Preparação"
+        },
+        {
+          "titulo": "Cisco Networking Academy",
+          "descricao": "Cursos gratuitos de redes, cibersegurança e dados, incluindo Networking Basics (22h), Data Analytics Essentials (30h) e Introduction to Data Science (6h).",
+          "url": "https://www.netacad.com/pt/catalogs/learn",
+          "tipo": "Cursos"
+        },
+        {
+          "titulo": "Microsoft Applied Skills",
+          "descricao": "Credenciais práticas baseadas em avaliações de laboratório; não confundir com certificações baseadas em exame.",
+          "url": "https://learn.microsoft.com/pt-br/credentials/applied-skills/",
+          "tipo": "Credenciais"
+        },
+        {
+          "titulo": "Programas históricos",
+          "descricao": "A maratona Cisco de outubro e o Microsoft AI Agents Hack permanecem no histórico, sem indicação de inscrições abertas.",
+          "url": "https://www.netacad.com/",
+          "tipo": "Encerrados"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 27,
+        "novos_registros": 15,
+        "registros_conferidos_nesta_revisao": 7
+      },
+      "observacoes": [
+        "As fontes consultadas confirmam cursos e materiais de preparação, mas não comprovam vouchers gratuitos para os exames profissionais.",
+        "Itens discutidos anteriormente sem confirmação atual permanecem como 'A confirmar' ou 'Encerrada'.",
+        "A próxima revisão deve priorizar páginas específicas de campanhas e elegibilidade no Brasil."
+      ],
+      "fontes": [
+        "https://learn.microsoft.com/pt-br/credentials/certifications/practice-assessments-for-microsoft-certifications",
+        "https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900",
+        "https://learn.microsoft.com/pt-br/credentials/applied-skills/",
+        "https://www.netacad.com/pt/catalogs/learn",
+        "https://www.netacad.com/"
+      ]
+    }
+  ]
+}
