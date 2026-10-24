@@ -41,3 +41,11 @@ Não há chave de API, banco de dados, serviço pago ou processo agendado no Git
 - Verificar se benefícios são aplicáveis a residentes no Brasil.
 - Registrar somente condições efetivamente comprovadas.
 - Preservar histórico e contexto das alterações.
+
+## Página inicial e histórico diário
+
+A aba **Início** lê `data/home.json`, que mantém um histórico de análises. A aba **Oportunidades** lê `data/opportunities.json`, que contém o catálogo pesquisável. Ambos os arquivos são independentes: uma análise publicada não altera automaticamente o catálogo.
+
+Em cada revisão, conferir as fontes e atualizar o catálogo apenas quando houver informação comprovada. Registrar em `home.json` uma análise com `data`, `titulo`, `resumo`, `destaques` (título, descrição, URL e tipo), `alteracoes`, `observacoes` e `fontes`. Preservar as análises anteriores e informar quando não houver novidades. A tarefa diária de ChatGPT está configurada para tentar manter os dois arquivos sincronizados e apresentar o mesmo resumo na conversa; a publicação depende do acesso efetivo ao GitHub.
+
+O acervo inicial reúne registros das pesquisas de setembro e outubro de 2026. As informações de cursos reconsultadas em fontes oficiais são diferenciadas de programas históricos e oportunidades ainda pendentes de confirmação. **Não interpretar a data do catálogo como verificação individual de todos os registros.**
