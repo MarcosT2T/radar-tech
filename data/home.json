@@ -453,6 +453,61 @@
         "https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/legal/terms-conditions.html",
         "https://learn.microsoft.com/en-us/credentials/microsoft-credentials-ai-challenge"
       ]
+    },
+    {
+      "data": "2026-10-24",
+      "titulo": "Complemento de 24/10 — retake Pearson, hackathon PMI e CompTIA Brasil",
+      "resumo": "Complemento incremental da pesquisa do dia: quatro oportunidades ainda ausentes no catálogo, elevando-o de 116 para 120. Pearson VUE oferece retake gratuito em exames selecionados, com 50% na primeira tentativa AWS participante; hackathon PMI-DF aceita estudantes brasileiros até 09/11; DIO AI-103 divulga 100 vouchers condicionais, mas o evento ocorreu em 19–22/10; CompTIA Emerging Store apresenta preços regionais, sem confirmação de voucher gratuito ou desconto acadêmico brasileiro.",
+      "destaques": [
+        {
+          "titulo": "Pearson VUE — Global Retake 2026",
+          "tipo": "Campanha vigente; primeira tentativa paga",
+          "descricao": "Adesão e exame inicial elegível de 29/09 a 17/11; retake gratuito de 04/01 a 07/04/2027 se houver reprovação. AWS: 50% na primeira tentativa participante; Microsoft e Cisco CCST também participam. CompTIA não listada.",
+          "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html"
+        },
+        {
+          "titulo": "PMI-DF — Hackathon Impacto Social, IA e Gestão de Projetos",
+          "tipo": "Inscrições abertas até 09/11",
+          "descricao": "Evento gratuito, online, para estudantes brasileiros 18+ em equipes de 4–5 pessoas; apenas 15 equipes elegíveis; hackathon em 12/12, certificado até 19/12.",
+          "url": "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075"
+        },
+        {
+          "titulo": "DIO + Microsoft — Aceleração AI-103",
+          "tipo": "Voucher condicionado; matrícula a confirmar",
+          "descricao": "Quatro encontros ocorreram de 19 a 22/10; página ainda oferece cadastro e menciona 100 vouchers gratuitos AI-103, mas elegibilidade e acesso posterior não verificados.",
+          "url": "https://www.dio.me/acceleration/microsoft-ai-103-certification"
+        },
+        {
+          "titulo": "CompTIA Emerging Store — Brasil",
+          "tipo": "Preço regional; sem voucher gratuito confirmado",
+          "descricao": "Canal regional divulgado pela CompTIA Brasil. Descontos acadêmicos para estudantes matriculados em instituições brasileiras não foram comprovados; confirmar preço final antes de pagar.",
+          "url": "https://emerging-store.comptia.org/"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 116,
+        "catalogo_total": 120,
+        "novos_registros": 4,
+        "registros_existentes_revisados": 1,
+        "nova_campanha_universal_exame_gratuito_confirmada": false
+      },
+      "observacoes": [
+        "A campanha Pearson VUE não inclui CompTIA entre os programas participantes; não associar o retake à CompTIA.",
+        "O prazo da primeira tentativa aparece como 17/11/2026 na chamada e como antes de 17/11 em cláusula específica; por segurança, concluir até 16/11.",
+        "A elegibilidade regional da Pearson para residentes brasileiros não foi testada em conta autenticada; termos globais não trazem exclusão explícita do Brasil.",
+        "O hackathon PMI-DF anuncia inscrições até 09/11, mas seleção limitada às 15 primeiras equipes elegíveis.",
+        "A página DIO AI-103 continua mostrando formulário, mas as sessões ao vivo terminaram em 22/10; voucher não garantido.",
+        "A CompTIA Emerging Store foi divulgada pela representação CompTIA Brasil; preços e elegibilidade acadêmica não foram confirmados diretamente.",
+        "Não foi identificada campanha oficial CompTIA de voucher gratuito aberta a residentes brasileiros nesta varredura."
+      ],
+      "fontes": [
+        "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+        "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075",
+        "https://www.dio.me/acceleration/microsoft-ai-103-certification",
+        "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/",
+        "https://pt.linkedin.com/posts/comptia-brasil_comptia-brasil-novos-pre%C3%A7os-voc%C3%AA-activity-7346934649895497728-t7jv",
+        "https://emerging-store.comptia.org/"
+      ]
     }
   ]
 }
