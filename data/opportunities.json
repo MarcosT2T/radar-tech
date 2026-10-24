@@ -1,6 +1,6 @@
 {
   "atualizado_em": "2026-10-23",
-  "nota": "Catálogo de certificações e preparação. A data de verificação só se aplica à informação efetivamente conferida em fonte oficial. Programas históricos não são ofertas vigentes.",
+  "nota": "Grupos distinguem exame profissional, maratona, curso com certificado de conclusão, material preparatório, programa, credencial prática, evento e voucher. A classificação não confirma gratuidade ou disponibilidade.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -17,7 +17,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Credencial prática",
+      "resumo": "Avaliações práticas de competências técnicas.",
+      "certificado_curso": null
     },
     {
       "id": "rt-002",
@@ -34,7 +37,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Exames de certificação Azure.",
+      "certificado_curso": null
     },
     {
       "id": "rt-003",
@@ -51,7 +57,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Certificações AWS Foundational, Associate, Professional e Specialty.",
+      "certificado_curso": null
     },
     {
       "id": "rt-004",
@@ -68,7 +77,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Catálogo de trilhas e exames Oracle, não um exame individual.",
+      "certificado_curso": null
     },
     {
       "id": "rt-005",
@@ -85,7 +97,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Certificações de redes e segurança, incluindo CCNA.",
+      "certificado_curso": null
     },
     {
       "id": "rt-006",
@@ -102,7 +117,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Certificações A+, Network+ e Security+.",
+      "certificado_curso": null
     },
     {
       "id": "rt-007",
@@ -119,7 +137,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Exame de entrada em cibersegurança.",
+      "certificado_curso": null
     },
     {
       "id": "rt-008",
@@ -136,7 +157,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Plataforma de certificações Neo4j, com diferentes avaliações.",
+      "certificado_curso": null
     },
     {
       "id": "rt-009",
@@ -153,7 +177,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Certificações MongoDB.",
+      "certificado_curso": null
     },
     {
       "id": "rt-010",
@@ -170,7 +197,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Certificações em engenharia de dados e machine learning.",
+      "certificado_curso": null
     },
     {
       "id": "rt-011",
@@ -187,7 +217,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Certificação oficial",
+      "resumo": "Certificações Linux e Kubernetes, como CKA e CKAD.",
+      "certificado_curso": null
     },
     {
       "id": "rt-012",
@@ -204,7 +237,10 @@
       "inscricao_ate": null,
       "voucher_ate": null,
       "verificado_em": null,
-      "evidencias": []
+      "evidencias": [],
+      "grupo": "Programa de formação",
+      "resumo": "Benefícios educacionais para estudantes elegíveis.",
+      "certificado_curso": null
     },
     {
       "id": "rt-013",
@@ -224,7 +260,10 @@
       "evidencias": [
         "https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-900"
       ],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Preparação e simulados",
+      "resumo": "Materiais para estudar AZ-900; não concedem certificação.",
+      "certificado_curso": null
     },
     {
       "id": "rt-014",
@@ -244,7 +283,10 @@
       "evidencias": [
         "https://learn.microsoft.com/pt-br/credentials/certifications/practice-assessments-for-microsoft-certifications"
       ],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Preparação e simulados",
+      "resumo": "Questões de prática para provas Microsoft; não são exame oficial.",
+      "certificado_curso": null
     },
     {
       "id": "rt-015",
@@ -264,7 +306,10 @@
       "evidencias": [
         "https://www.netacad.com/pt/catalogs/learn"
       ],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Curso com certificado",
+      "resumo": "Fundamentos de redes e comunicação entre dispositivos.",
+      "certificado_curso": "Conclusão ou badge da plataforma; verificar requisitos"
     },
     {
       "id": "rt-016",
@@ -284,7 +329,10 @@
       "evidencias": [
         "https://www.netacad.com/"
       ],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Curso com certificado",
+      "resumo": "Conceitos iniciais de ameaças e proteção digital.",
+      "certificado_curso": "Conclusão ou badge da plataforma; verificar requisitos"
     },
     {
       "id": "rt-017",
@@ -304,7 +352,10 @@
       "evidencias": [
         "https://www.netacad.com/pt/catalogs/learn"
       ],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Curso com certificado",
+      "resumo": "Análise e interpretação de dados com ferramentas digitais.",
+      "certificado_curso": "Conclusão ou badge da plataforma; verificar requisitos"
     },
     {
       "id": "rt-018",
@@ -324,7 +375,10 @@
       "evidencias": [
         "https://www.netacad.com/pt/catalogs/learn"
       ],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Curso com certificado",
+      "resumo": "Introdução a conceitos e aplicações de ciência de dados.",
+      "certificado_curso": "Conclusão ou badge da plataforma; verificar requisitos"
     },
     {
       "id": "rt-019",
@@ -344,7 +398,10 @@
       "evidencias": [
         "https://www.netacad.com/pt/catalogs/learn/cisco-packet-tracer"
       ],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Curso com certificado",
+      "resumo": "Introdução ao simulador de redes Packet Tracer.",
+      "certificado_curso": "Conclusão ou badge da plataforma; verificar requisitos"
     },
     {
       "id": "rt-020",
@@ -362,7 +419,10 @@
       "voucher_ate": null,
       "verificado_em": null,
       "evidencias": [],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Curso com certificado",
+      "resumo": "Introdução à programação Java e fundamentos da linguagem.",
+      "certificado_curso": "Emissão e critérios a confirmar"
     },
     {
       "id": "rt-021",
@@ -380,7 +440,10 @@
       "voucher_ate": null,
       "verificado_em": null,
       "evidencias": [],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Curso com certificado",
+      "resumo": "Exercícios práticos de programação Java; emissão de certificado a confirmar.",
+      "certificado_curso": "Emissão e critérios a confirmar"
     },
     {
       "id": "rt-022",
@@ -398,7 +461,10 @@
       "voucher_ate": null,
       "verificado_em": null,
       "evidencias": [],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Curso com certificado",
+      "resumo": "Cursos introdutórios de programação Java; oferta e certificado a confirmar.",
+      "certificado_curso": "Emissão e critérios a confirmar"
     },
     {
       "id": "rt-023",
@@ -416,7 +482,10 @@
       "voucher_ate": null,
       "verificado_em": null,
       "evidencias": [],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Programa de formação",
+      "resumo": "Programas de bolsas e bootcamps; não equivalem a exame oficial.",
+      "certificado_curso": null
     },
     {
       "id": "rt-024",
@@ -434,7 +503,10 @@
       "voucher_ate": null,
       "verificado_em": null,
       "evidencias": [],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Maratona para certificação",
+      "resumo": "Maratona brasileira de capacitação em cibersegurança; etapa histórica encerrada.",
+      "certificado_curso": null
     },
     {
       "id": "rt-025",
@@ -452,7 +524,10 @@
       "voucher_ate": null,
       "verificado_em": null,
       "evidencias": [],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Evento e desafio",
+      "resumo": "Evento e desafio sobre agentes de IA; não é maratona de preparação para certificação.",
+      "certificado_curso": null
     },
     {
       "id": "rt-026",
@@ -470,7 +545,10 @@
       "voucher_ate": null,
       "verificado_em": null,
       "evidencias": [],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Campanha de voucher",
+      "resumo": "Campanha histórica de acesso a exame ISC2 CC.",
+      "certificado_curso": null
     },
     {
       "id": "rt-027",
@@ -488,7 +566,10 @@
       "voucher_ate": null,
       "verificado_em": null,
       "evidencias": [],
-      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23"
+      "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
+      "grupo": "Certificação oficial",
+      "resumo": "Exame de certificação aposentado; mantido para referência histórica.",
+      "certificado_curso": null
     }
   ]
 }
