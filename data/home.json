@@ -286,6 +286,72 @@
         "https://codelabs.developers.google.com/",
         "https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming"
       ]
+    },
+    {
+      "data": "2026-10-23",
+      "titulo": "POO e Redes — cursos gratuitos, badges e certificações",
+      "resumo": "Pesquisa específica em fontes oficiais Cisco, Harvard CS50, Open University, Microsoft Learn e Linux Foundation. Adicionados 13 registros ao catálogo, que agora soma 92. Inclui cursos gratuitos com badges e certificados, materiais de POO e exames oficiais Cisco pagos.",
+      "destaques": [
+        {
+          "titulo": "Open University — análise e projeto orientados a objetos",
+          "tipo": "Curso com declaração gratuita",
+          "descricao": "Curso de 8h com declaração de participação gratuita; conteúdo legado.",
+          "url": "https://www.open.edu/openlearn/digital-computing/software-development-enterprise-systems/content-section-0"
+        },
+        {
+          "titulo": "Harvard CS50P — POO em Python",
+          "tipo": "Certificado CS50 gratuito",
+          "descricao": "Curso gratuito com classes, objetos e projeto; certificado CS50 mediante 70% em cada exercício e no projeto final.",
+          "url": "https://cs50.harvard.edu/python/"
+        },
+        {
+          "titulo": "Cisco Networking Devices and Initial Configuration",
+          "tipo": "Curso com badge",
+          "descricao": "22h, 19 laboratórios; redes Ethernet, IP, ARP, DNS, DHCP e Cisco IOS.",
+          "url": "https://www.netacad.com/pt/courses/networking-devices-and-initial-configuration?courseLang=pt-BR"
+        },
+        {
+          "titulo": "Cisco Network Addressing and Basic Troubleshooting",
+          "tipo": "Curso com badge",
+          "descricao": "14h e 8 laboratórios de IPv6, roteamento e troubleshooting.",
+          "url": "https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting"
+        },
+        {
+          "titulo": "Linux Foundation — Introduction to free5GC",
+          "tipo": "Certificado e badge gratuitos",
+          "descricao": "Curso de 4h sobre arquitetura de redes móveis 5G Core.",
+          "url": "https://training.linuxfoundation.org/training/introduction-to-free5gc-lfs114/"
+        },
+        {
+          "titulo": "Cisco CCST Networking e CCNA",
+          "tipo": "Certificações oficiais pagas",
+          "descricao": "Exames de referência US$ 125 e US$ 300, respectivamente, separados dos cursos gratuitos.",
+          "url": "https://www.cisco.com/site/us/en/learn/training-certifications/exams/index.html"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 92,
+        "novos_registros": 13,
+        "registros_existentes_revisados": 1
+      },
+      "observacoes": [
+        "Certificado de conclusão, declaração de participação, badge digital e certificação profissional são comprovações distintas.",
+        "Cisco CCNA: Introduction to Networks é curso conduzido por instrutor; matrícula depende de academia ofertante.",
+        "Exames Cisco CCST e CCNA não são gratuitos: preços oficiais em USD antes de impostos.",
+        "CS50P emite certificado CS50 gratuito; certificado verificado da edX é diferente.",
+        "A página de cursos Cisco pode listar badges sem garantir certificado individual de conclusão em todas as trilhas."
+      ],
+      "fontes": [
+        "https://www.open.edu/openlearn/digital-computing/software-development-enterprise-systems/content-section-0",
+        "https://learn.microsoft.com/pt-br/training/modules/create-classes-objects-c-sharp/",
+        "https://cs50.harvard.edu/python/",
+        "https://cs50.harvard.edu/python/certificate/",
+        "https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting",
+        "https://www.netacad.com/pt/courses/network-support-security?courseLang=en-US",
+        "https://www.netacad.com/pt/courses/networking-devices-and-initial-configuration?courseLang=pt-BR",
+        "https://training.linuxfoundation.org/training/introduction-to-free5gc-lfs114/",
+        "https://www.cisco.com/site/us/en/learn/training-certifications/exams/index.html"
+      ]
     }
   ]
 }
