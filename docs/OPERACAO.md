@@ -1,30 +1,43 @@
-# Operação e manutenção
+# Operação
 
 ## Publicação
-Ative GitHub Pages em **Settings → Pages → Deploy from a branch**, com branch `main` e pasta `/(root)`.
 
-## Custos
-O site é estático. Os scripts utilizam apenas a biblioteca padrão do Python; não é necessária chave de API. O workflow agendado usa GitHub Actions no repositório público, sujeito às políticas e limites gratuitos do GitHub. Não há garantia contratual de custo zero se as regras da plataforma mudarem; acompanhe as configurações de cobrança.
+Em **Settings → Pages**, selecione **Deploy from a branch**, branch `main` e pasta `/(root)`. A atualização do site acompanha os commits publicados nessa branch.
 
-## Duas rotinas complementares
-1. **Checagem de links:** o workflow `daily-check.yml` roda diariamente por volta das 8h15 de Brasília. Ele verifica respostas HTTP e produz um resumo em **Actions**. Um link ativo não comprova que um desconto ou voucher está vigente.
-2. **Revisão editorial:** novas oportunidades e mudanças em ofertas precisam de conferência da fonte oficial, condições brasileiras e datas. Essa revisão pode ser auxiliada por uma tarefa recorrente no ChatGPT, com escrita no GitHub quando a integração estiver disponível. Não há serviço de IA pago executado pelo repositório.
+## Fluxo de manutenção
 
-## Como editar
-Edite `data/opportunities.json`, mantendo a estrutura. O status `Vigente` exige uma data real em `verificado_em` e evidência oficial; use `A confirmar` se não foi possível verificar. Datas desconhecidas são `null`. Separe o encerramento da inscrição da validade do voucher.
+1. Pesquisar programas e campanhas em páginas oficiais, priorizando elegibilidade no Brasil.
+2. Confirmar natureza da credencial, custo, requisitos e datas. Um link acessível não comprova que uma promoção continua válida.
+3. Editar `data/opportunities.json` com as informações verificadas.
+4. Executar `python scripts/validate.py` e `node --check assets/app.js`.
+5. Publicar um commit descritivo e conferir o resultado no site.
 
-Antes de publicar, execute:
+Uma tarefa recorrente de pesquisa pode auxiliar nas etapas 1–3 e, quando houver integração GitHub disponível, enviar as alterações. A execução diária e o acesso de escrita não são garantidos pelo repositório.
 
-```bash
-python scripts/validate.py
-node --check assets/app.js
-```
+## Campos importantes
 
-O workflow `quality.yml` repete essas verificações em alterações no GitHub.
+- `categoria`: área técnica.
+- `tipo`: exame oficial, credencial prática ou programa educacional.
+- `status`: `Vigente`, `A confirmar` ou `Encerrada`.
+- `inscricao_ate`: encerramento das inscrições.
+- `voucher_ate`: validade do benefício.
+- `verificado_em`: data da conferência efetiva da oferta.
+- `url` e `origem`: referência oficial.
 
-## Critérios
-- Preferir páginas oficiais e termos de campanha específicos.
-- Não confundir cursos, credenciais práticas e exames de certificação.
-- Não inferir elegibilidade brasileira a partir de campanhas de outros países.
-- Não afirmar gratuidade ou prazos sem evidência.
-- Registrar mudanças significativas em commits descritivos.
+Não inventar datas nem condições de elegibilidade. Registros `Vigente` exigem data de verificação. A ausência de prazo não significa disponibilidade permanente.
+
+## Verificação técnica
+
+O workflow `quality.yml` é acionado em push e pull request. Ele confere a estrutura do catálogo e a sintaxe JavaScript. Não realiza pesquisa, scraping nem monitoramento de links.
+
+## Custos e privacidade
+
+Não há chave de API, banco de dados, serviço pago ou processo agendado no GitHub. A publicação estática e os workflows de qualidade seguem as condições de uso do GitHub. O site não coleta dados pessoais.
+
+## Critérios editoriais
+
+- Usar fontes oficiais e preferir páginas específicas de campanhas.
+- Diferenciar exame de certificação, credencial prática e certificado de curso.
+- Verificar se benefícios são aplicáveis a residentes no Brasil.
+- Registrar somente condições efetivamente comprovadas.
+- Preservar histórico e contexto das alterações.
