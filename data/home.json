@@ -98,6 +98,75 @@
         "https://www.isc2.org/landing/1mcc",
         "https://www.netacad.com/"
       ]
+    },
+    {
+      "data": "2026-10-23",
+      "titulo": "Auditoria ampliada — 11 ecossistemas de formação e certificação",
+      "resumo": "Varredura temática em fontes oficiais de Oracle, Microsoft, AWS, Cisco, Google Cloud, IBM, GitHub, MongoDB, Fortinet, Linux Foundation, ISC2 e ENAP. Foram adicionados 22 registros específicos, totalizando 55. Corrigido o Microsoft Credentials AI Challenge para encerrado em 02/03/2026. Cursos, badges, exames profissionais, vouchers e créditos educacionais permanecem classificados separadamente.",
+      "destaques": [
+        {
+          "titulo": "GitHub Student Pack — voucher GH-900 ou GH-300",
+          "tipo": "Voucher condicionado",
+          "descricao": "Estudantes verificados podem concluir a trilha GitHub Foundations pelo DataCamp e receber voucher para um dos dois exames.",
+          "url": "https://learn.github.com/certifications"
+        },
+        {
+          "titulo": "AWS — microcredenciais de IA agêntica",
+          "tipo": "Credencial prática gratuita",
+          "descricao": "Duas avaliações práticas gratuitas: segurança de identidades de agentes e bancos de dados para agentes.",
+          "url": "https://aws.amazon.com/blogs/training-and-certification/prove-your-agentic-ai-skills-two-new-microcredentials-now-available/"
+        },
+        {
+          "titulo": "Google Skills — créditos de aprendizagem",
+          "tipo": "Programa educacional",
+          "descricao": "GEAR oferece 35 créditos mensais; estudantes elegíveis podem solicitar 200 créditos.",
+          "url": "https://cloud.google.com/learn/training?hl=pt-BR"
+        },
+        {
+          "titulo": "ENAP — Fundamentos de TI, Dados e IA",
+          "tipo": "Curso com certificado",
+          "descricao": "Programa gratuito de 169 horas, aberto ao público, com certificado sujeito à aprovação.",
+          "url": "https://www.mooc.escolavirtual.gov.br/programa/313"
+        },
+        {
+          "titulo": "Fortinet NSE — formação gratuita",
+          "tipo": "Preparação",
+          "descricao": "Aulas teóricas autoinstrucionais gratuitas; laboratórios e exames podem ter custos.",
+          "url": "https://www.fortinet.com/training-certification"
+        },
+        {
+          "titulo": "Microsoft AI Challenge — encerrado",
+          "tipo": "Campanha encerrada",
+          "descricao": "Sorteio de vouchers de 50% ocorreu entre janeiro e março de 2026, não está aberto.",
+          "url": "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 55,
+        "novos_registros": 22,
+        "registros_corrigidos": 1
+      },
+      "observacoes": [
+        "Cobertura ampla por fabricante e área, mas não exaustiva de todos os cursos de cada catálogo; alguns portais possuem centenas ou milhares de módulos.",
+        "Vouchers GitHub/DataCamp e MongoDB Student Pack exigem elegibilidade e cumprimento de regras; não são universais.",
+        "A disponibilidade de certificado individual em alguns cursos deve ser confirmada na página específica.",
+        "As ofertas não foram testadas com cadastro de usuário brasileiro; elegibilidade regional pode variar.",
+        "ISC2 1MCC não aceita novas inscrições; códigos anteriores válidos até 31/12/2026."
+      ],
+      "fontes": [
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://aws.amazon.com/blogs/training-and-certification/prove-your-agentic-ai-skills-two-new-microcredentials-now-available/",
+        "https://learn.github.com/certifications",
+        "https://education.github.com/pack",
+        "https://cloud.google.com/learn/training?hl=pt-BR",
+        "https://www.netacad.com/",
+        "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
+        "https://www.fortinet.com/training-certification",
+        "https://training.linuxfoundation.org/resources/?_sft_content_type=free-course",
+        "https://www.mooc.escolavirtual.gov.br/programa/313",
+        "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions",
+        "https://www.isc2.org/landing/1mcc"
+      ]
     }
   ]
 }
