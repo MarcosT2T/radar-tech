@@ -1,6 +1,6 @@
 {
   "atualizado_em": "2026-10-23",
-  "nota": "Grupos distinguem exame profissional, maratona, curso com certificado de conclusão, material preparatório, programa, credencial prática, evento e voucher. A classificação não confirma gratuidade ou disponibilidade.",
+  "nota": "Pesquisa em fontes oficiais em 23/10/2026. Gratuidade de curso, avaliação prática e exame profissional são benefícios diferentes. Campanhas de voucher não implicam novas inscrições abertas.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -8,18 +8,20 @@
       "fabricante": "Microsoft",
       "categoria": "Cloud e Infraestrutura",
       "tipo": "Credencial prática",
-      "status": "A confirmar",
-      "descricao": "Avaliações práticas de competências técnicas; confirme a avaliação disponível e as condições atuais.",
+      "status": "Vigente",
+      "descricao": "Credenciais práticas Microsoft Applied Skills com avaliação gratuita baseada em laboratório; não são exames de certificação Microsoft Certified.",
       "url": "https://learn.microsoft.com/pt-br/credentials/browse/?credential_types=applied%20skills",
       "origem": "Microsoft",
       "brasil": "Conferir elegibilidade e condições no portal oficial",
-      "beneficio": "Sem promoção confirmada",
+      "beneficio": "Avaliações práticas gratuitas",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": null,
-      "evidencias": [],
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://learn.microsoft.com/en-us/credentials/support/microsoft-applied-skills-sweepstakes-faq"
+      ],
       "grupo": "Credencial prática",
-      "resumo": "Avaliações práticas de competências técnicas.",
+      "resumo": "Credenciais práticas obtidas em avaliações interativas gratuitas.",
       "certificado_curso": null
     },
     {
@@ -68,18 +70,21 @@
       "fabricante": "Oracle",
       "categoria": "Cloud e Infraestrutura",
       "tipo": "Certificação oficial",
-      "status": "A confirmar",
-      "descricao": "Trilhas e exames Oracle Cloud Infrastructure; verifique as regras atuais de gratuidade por exame.",
+      "status": "Vigente",
+      "descricao": "Portal Oracle de certificações. Foundations e OCI Architect Associate possuem treinamento e exame gratuitos conforme anúncio oficial de 2026; outras trilhas podem ser pagas.",
       "url": "https://mylearn.oracle.com/",
       "origem": "Oracle",
       "brasil": "Conferir elegibilidade e condições no portal oficial",
-      "beneficio": "Sem promoção confirmada",
+      "beneficio": "Foundations e OCI Architect Associate gratuitos; demais exames consultar",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": null,
-      "evidencias": [],
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://www.oracle.com/br/education/certification/"
+      ],
       "grupo": "Certificação oficial",
-      "resumo": "Catálogo de trilhas e exames Oracle, não um exame individual.",
+      "resumo": "Catálogo Oracle com certificações gratuitas e pagas; consultar cada exame.",
       "certificado_curso": null
     },
     {
@@ -536,18 +541,20 @@
       "categoria": "Redes e Cibersegurança",
       "tipo": "Campanha de voucher",
       "status": "Encerrada",
-      "descricao": "Campanha anterior de códigos de exame CC. Novas inscrições foram relatadas como encerradas; validade de códigos já emitidos precisa ser confirmada nos termos oficiais.",
+      "descricao": "Novas inscrições no programa 1 Million CC encerradas em maio de 2026. Códigos de exame já emitidos e não expirados podem ser usados até 31/12/2026.",
       "url": "https://www.isc2.org/certifications/cc",
       "origem": "ISC2",
       "brasil": "Verificar regras e elegibilidade",
       "beneficio": "Novos códigos não confirmados",
       "inscricao_ate": null,
-      "voucher_ate": null,
-      "verificado_em": null,
-      "evidencias": [],
+      "voucher_ate": "2026-12-31",
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.isc2.org/landing/1mcc"
+      ],
       "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
       "grupo": "Campanha de voucher",
-      "resumo": "Campanha histórica de acesso a exame ISC2 CC.",
+      "resumo": "Campanha encerrada para novos inscritos; códigos anteriores podem continuar válidos.",
       "certificado_curso": null
     },
     {
@@ -569,6 +576,138 @@
       "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
       "grupo": "Certificação oficial",
       "resumo": "Exame de certificação aposentado; mantido para referência histórica.",
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-028",
+      "nome": "Oracle OCI Architect Associate — gratuito",
+      "fabricante": "Oracle",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Formação e exame Associate de arquitetura OCI gratuitos na oferta de 2026.",
+      "descricao": "Oracle confirmou acesso gratuito ao curso e ao exame OCI Architect Associate na atualização de 2026.",
+      "url": "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+      "origem": "Oracle",
+      "brasil": "Oferta online internacional; confirmar requisitos de conta e disponibilidade regional",
+      "beneficio": "Curso e certificação gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-029",
+      "nome": "Oracle OCI Foundations Associate — gratuito",
+      "fabricante": "Oracle",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Fundamentos de infraestrutura em nuvem Oracle; treinamento e certificação gratuitos.",
+      "descricao": "Certificação de fundamentos OCI disponibilizada sem custo pela Oracle.",
+      "url": "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+      "origem": "Oracle",
+      "brasil": "Oferta online internacional; confirmar requisitos de conta e disponibilidade regional",
+      "beneficio": "Curso e certificação gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-030",
+      "nome": "Oracle AI Foundations — gratuito",
+      "fabricante": "Oracle",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Fundamentos de IA em Oracle Cloud, com curso e certificação gratuitos.",
+      "descricao": "Parte das trilhas Foundations gratuitas anunciadas pela Oracle.",
+      "url": "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+      "origem": "Oracle",
+      "brasil": "Oferta online internacional; confirmar requisitos de conta e disponibilidade regional",
+      "beneficio": "Curso e certificação gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-031",
+      "nome": "Oracle Agentic AI Foundations — gratuito",
+      "fabricante": "Oracle",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Fundamentos de agentes de IA e padrões agênticos; certificação gratuita.",
+      "descricao": "Trilha Agentic AI Foundations incluída na oferta gratuita de 2026.",
+      "url": "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+      "origem": "Oracle",
+      "brasil": "Oferta online internacional; confirmar requisitos de conta e disponibilidade regional",
+      "beneficio": "Curso e certificação gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-032",
+      "nome": "IBM SkillsBuild — catálogo gratuito",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Cursos gratuitos em IA, segurança, dados, nuvem e desenvolvimento; credenciais dependem do curso.",
+      "descricao": "Catálogo IBM SkillsBuild em português brasileiro; não confundir conclusão de curso com exame profissional.",
+      "url": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
+      "origem": "IBM",
+      "brasil": "Oferta online internacional; confirmar requisitos de conta e disponibilidade regional",
+      "beneficio": "Cursos gratuitos; credenciais conforme trilha",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-033",
+      "nome": "Microsoft Credentials AI Challenge",
+      "fabricante": "Microsoft",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Desafios de aprendizagem em IA; avaliações Applied Skills gratuitas e sorteio de desconto em exame sujeito a regras.",
+      "descricao": "Programa de desafios Microsoft com aprendizagem e avaliação prática; descontos de exame dependem de seleção e elegibilidade.",
+      "url": "https://learn.microsoft.com/pt-br/credentials/microsoft-credentials-ai-challenge",
+      "origem": "Microsoft",
+      "brasil": "Oferta online internacional; confirmar requisitos de conta e disponibilidade regional",
+      "beneficio": "Avaliações gratuitas; desconto não garantido",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://learn.microsoft.com/pt-br/credentials/microsoft-credentials-ai-challenge"
+      ],
       "certificado_curso": null
     }
   ]
