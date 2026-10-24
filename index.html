@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0c1425">
+<meta name="description" content="Catálogo independente de certificações oficiais em tecnologia, com fontes, filtros e oportunidades de exame.">
+<title>Radar Tech — Certificações em tecnologia</title>
+<link rel="stylesheet" href="./assets/styles.css">
+<script src="./assets/app.js" defer></script>
+</head>
+<body>
+<header class="top"><div class="wrap head">
+<a class="brand" href="./" aria-label="Radar Tech, início"><span class="logo">R<span class="dot">.</span></span><span>Radar<span class="accent">Tech</span></span></a>
+<span class="headnote">Certificações & oportunidades</span>
+</div></header>
+<main class="wrap">
+<section class="intro"><div class="kicker">SEU MAPA DE CERTIFICAÇÕES</div><h1>Oportunidades em tecnologia, <span class="accent">sem complicação.</span></h1><p>Encontre certificações, exames e programas de formação. Compare opções e consulte as condições diretamente na fonte oficial.</p></section>
+<section class="stats" aria-label="Resumo"><div class="metric"><span>Registros</span><strong id="total">—</strong></div><div class="metric"><span>Áreas</span><strong id="areas">—</strong></div><div class="metric"><span>Verificados</span><strong id="verified">—</strong></div><div class="metric"><span>Catálogo atualizado</span><strong id="updated" class="date">—</strong></div></section>
+<section class="catalog" aria-label="Catálogo de oportunidades">
+<div class="sectionhead"><div><h2>Explore o catálogo</h2><p id="count">Carregando registros…</p></div><div class="tabs" role="group" aria-label="Modo de exibição"><button id="tableBtn" type="button" aria-pressed="true">Tabela</button><button id="cardsBtn" type="button" aria-pressed="false">Cartões</button></div></div>
+<div class="filters"><label class="search"><span>Buscar</span><input id="search" type="search" placeholder="Ex.: Azure, redes, dados…" autocomplete="off"></label><label><span>Categoria</span><select id="category"><option value="">Todas as áreas</option></select></label><label><span>Organização</span><select id="vendor"><option value="">Todas</option></select></label><label><span>Situação</span><select id="status"><option value="">Todas</option><option>A confirmar</option><option>Vigente</option><option>Encerrada</option></select></label></div>
+<p id="notice" class="notice" role="status">As condições podem mudar. Registros sem conferência recente não representam promoções confirmadas.</p>
+<div id="tableView" class="tablewrap"><table><thead><tr><th data-key="nome" scope="col"><button>Certificação ↕</button></th><th data-key="categoria" scope="col"><button>Área ↕</button></th><th data-key="fabricante" scope="col"><button>Organização ↕</button></th><th data-key="tipo" scope="col"><button>Modalidade ↕</button></th><th data-key="status" scope="col"><button>Situação ↕</button></th><th data-key="inscricao_ate" scope="col"><button>Prazo ↕</button></th><th scope="col">Fonte</th></tr></thead><tbody id="tableBody"><tr><td colspan="7">Carregando…</td></tr></tbody></table></div>
+<div id="cardsView" class="cards" hidden></div>
+</section>
+<footer><span>Radar Tech · Projeto independente</span><span>Informações para consulta. Confira os requisitos na origem antes de se inscrever.</span><a href="https://github.com/MarcosT2T/radar-tech" target="_blank" rel="noopener noreferrer">Repositório ↗</a></footer>
+</main></body></html>
