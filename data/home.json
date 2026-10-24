@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-23",
+  "atualizado_em": "2026-10-24",
   "analises": [
     {
       "data": "2026-10-23",
@@ -351,6 +351,107 @@
         "https://www.netacad.com/pt/courses/networking-devices-and-initial-configuration?courseLang=pt-BR",
         "https://training.linuxfoundation.org/training/introduction-to-free5gc-lfs114/",
         "https://www.cisco.com/site/us/en/learn/training-certifications/exams/index.html"
+      ]
+    },
+    {
+      "data": "2026-10-24",
+      "titulo": "Radar Tech — 24/10: novas trilhas AWS e bolsas DIO; prazos AWS e Oracle",
+      "resumo": "Pesquisa concluída em fontes oficiais de AWS, DIO, Oracle, Databricks, Cisco, ISC2, Microsoft, GitHub, MongoDB e Neo4j. O catálogo passou de 92 para 116 registros: 24 oportunidades individualizadas e 6 registros existentes revisados. Destaques: dois cursos AWS gratuitos lançados em 20/10, sete microcredenciais AWS gratuitas, três mudanças de exames AWS, oito programas DIO com matrícula gratuita anunciada (vagas não confirmadas após login) e vouchers restritos a participantes anteriores de Oracle e Databricks. Não foi identificada nova campanha universal de exame profissional gratuito com inscrição aberta nesta varredura.",
+      "destaques": [
+        {
+          "titulo": "AWS — dois cursos digitais gratuitos publicados em 20/10",
+          "tipo": "Curso preparatório gratuito",
+          "descricao": "IA em hardware AWS (2h) e otimização de EKS com Graviton/Spot (1h30). Certificado de conclusão não confirmado.",
+          "url": "https://aws.amazon.com/blogs/training-and-certification/new-digital-courses-for-how-to-optimize-ai-compute-and-containers-on-aws/"
+        },
+        {
+          "titulo": "AWS — sete microcredenciais práticas gratuitas",
+          "tipo": "Credencial prática",
+          "descricao": "Serverless, Agentic AI, Application Networking, Incident Response, Data Streaming, Data Lakehouse e Data Visualization. São badges por avaliação prática, não certificações profissionais AWS.",
+          "url": "https://aws.amazon.com/blogs/training-and-certification/microcredentials-from-aws-are-now-free-heres-why-that-matters/"
+        },
+        {
+          "titulo": "AWS SAP-C03 e DVA-C03 — inscrições previstas em 27/10",
+          "tipo": "Certificação oficial paga",
+          "descricao": "SAP-C03: US$300, prova a partir de 17/11; DVA-C03: US$150, prova a partir de 01/12. Inscrição ainda futura em 24/10; gratuidade não anunciada.",
+          "url": "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/"
+        },
+        {
+          "titulo": "AWS MLA-C02 — exame beta por US$75",
+          "tipo": "Certificação oficial paga",
+          "descricao": "Inscrição desde 01/09/2026 e aplicação beta em inglês desde 29/09. Versão geral prevista para 14/01/2027.",
+          "url": "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/"
+        },
+        {
+          "titulo": "DIO + CI&T — Java AI Copilot",
+          "tipo": "Bolsa de formação; vaga a confirmar",
+          "descricao": "Java, POO, Spring Boot, Spring Security e GitHub Copilot. Página exibe inscrição gratuita, mas matrícula efetiva e prazo não foram testados.",
+          "url": "https://www.dio.me/bootcamp/ci-t-java-ai-copilot"
+        },
+        {
+          "titulo": "DIO + DXC — IA do Zero ao Primeiro Agente",
+          "tipo": "Bolsa de formação; vaga a confirmar",
+          "descricao": "Python, LLMs, prompts, NotebookLM e agentes autônomos. Página anuncia vagas gratuitas; disponibilidade após login não verificada.",
+          "url": "https://www.dio.me/bootcamp/dxc-ia-do-zero-ao-primeiro-agente"
+        },
+        {
+          "titulo": "Oracle Race to Certification 2025 — crédito até 31/10/2026",
+          "tipo": "Campanha encerrada; resgate para participantes",
+          "descricao": "Não há novas inscrições desde 2025. Tentativas concedidas a participantes elegíveis do nível 3 ou Top 500 podem valer até 31/10/2026.",
+          "url": "https://blogs.oracle.com/oracleuniversity/announcing-race-to-certification-2025"
+        },
+        {
+          "titulo": "Databricks Advanced Learning Festival — vouchers anteriores",
+          "tipo": "Campanha encerrada",
+          "descricao": "Trilhas precisavam ser concluídas até 14/10/2026; voucher de 50% enviado a elegíveis em 19/10, utilizável antes de 17/01/2027.",
+          "url": "https://community.databricks.com/t5/databricks-academy-learners/faq-for-advanced-learning-festival-september-16-october-14-2026/m-p/166151"
+        },
+        {
+          "titulo": "GitHub Student Pack e MongoDB — vouchers para estudantes",
+          "tipo": "Voucher condicionado; benefícios existentes revisados",
+          "descricao": "GitHub GH-900/GH-300 após trilha DataCamp; MongoDB certificação gratuita após verificar Student Pack e concluir trilha. Não são vouchers universais.",
+          "url": "https://www.mongodb.com/students"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 92,
+        "catalogo_total": 116,
+        "novos_registros": 24,
+        "registros_existentes_revisados": 6,
+        "pesquisa": "Concluída; houve novas oportunidades individualizadas e correções",
+        "nova_campanha_universal_exame_gratuito_confirmada": false
+      },
+      "observacoes": [
+        "Os 24 registros são novos no Radar Tech; nem todos são lançamentos ocorridos hoje. Os dois cursos AWS foram publicados em 20/10/2026.",
+        "Oito páginas DIO exibem inscrição gratuita, mas não foi realizada matrícula autenticada: todos esses registros permanecem A confirmar, sem inventar data-limite.",
+        "Não foi confirmada nova campanha universal de exame profissional gratuito aberta a qualquer candidato brasileiro.",
+        "Neo4j informa que seus exames são gratuitos, mas a página individual mostra aviso de certificações em breve; disponibilidade específica permanece A confirmar.",
+        "ISC2 One Million CC: inscrições encerradas em 20/05/2026; códigos antigos válidos até 31/12/2026, se não expirados antes.",
+        "Microsoft Credentials AI Challenge: sorteio encerrado em 02/03/2026 e prazo de resgate até 30/06/2026; não reaberto.",
+        "Cisco CiberEducação 13ª edição: inscrições encerradas em 04/10/2026; fase profissionalizante para selecionados continua até fevereiro de 2027.",
+        "Oracle Race to Certification 2025: somente tentativas elegíveis emitidas anteriormente podem continuar válidas até 31/10/2026.",
+        "Databricks Festival 2026: participação encerrada em 14/10; voucher de 50% apenas a quem concluiu trilha no prazo; exame não é gratuito.",
+        "GitHub Student Developer Pack e MongoDB exigem comprovação estudantil; nenhuma elegibilidade individual foi verificada.",
+        "Fontes públicas foram consultadas; nenhum resgate, inscrição, pagamento ou login foi realizado."
+      ],
+      "fontes": [
+        "https://aws.amazon.com/blogs/training-and-certification/new-digital-courses-for-how-to-optimize-ai-compute-and-containers-on-aws/",
+        "https://aws.amazon.com/blogs/training-and-certification/microcredentials-from-aws-are-now-free-heres-why-that-matters/",
+        "https://aws.amazon.com/blogs/training-and-certification/prove-your-data-analytics-skills-three-new-microcredentials-now-available/",
+        "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
+        "https://www.dio.me/bootcamp",
+        "https://www.dio.me/bootcamp/ci-t-java-ai-copilot",
+        "https://www.dio.me/bootcamp/dxc-ia-do-zero-ao-primeiro-agente",
+        "https://www.dio.me/bootcamp/neo4j-certification",
+        "https://www.dio.me/bootcamp/bradesco-agentes-de-ia-do-zero-a-pratica",
+        "https://blogs.oracle.com/oracleuniversity/announcing-race-to-certification-2025",
+        "https://community.databricks.com/t5/databricks-academy-learners/faq-for-advanced-learning-festival-september-16-october-14-2026/m-p/166151",
+        "https://www.mongodb.com/students",
+        "https://learn.github.com/certifications",
+        "https://graphacademy.neo4j.com/certifications",
+        "https://www.isc2.org/landing/1mcc",
+        "https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/legal/terms-conditions.html",
+        "https://learn.microsoft.com/en-us/credentials/microsoft-credentials-ai-challenge"
       ]
     }
   ]
