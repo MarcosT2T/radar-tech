@@ -17,7 +17,14 @@ function render(){
  $('cardsView').innerHTML=rows.map(x=>'<article class="card"><div>'+pill(x.status)+'</div><h3>'+escapeHTML(x.nome)+'</h3><div class="meta">'+escapeHTML(x.categoria)+' · '+escapeHTML(x.fabricante)+'</div><p>'+escapeHTML(x.descricao)+'</p><div class="meta">Modalidade: '+escapeHTML(x.tipo)+'</div><div class="meta">Inscrição: '+dateLabel(x.inscricao_ate)+' · Voucher: '+dateLabel(x.voucher_ate)+'</div><div class="meta">Brasil: '+escapeHTML(x.brasil)+' · Conferido: '+dateLabel(x.verificado_em)+'</div><a href="'+escapeHTML(x.url)+'" target="_blank" rel="noopener noreferrer">Ver fonte oficial ↗</a></article>').join('')||'<p class="empty">Nenhum resultado encontrado.</p>';
 }
 function view(mode){state.view=mode;$('tableView').hidden=mode!=='table';$('cardsView').hidden=mode!=='cards';$('tableBtn').setAttribute('aria-pressed',String(mode==='table'));$('cardsBtn').setAttribute('aria-pressed',String(mode==='cards'));}
+function section(name){const home=name==='home';$('homeSection').hidden=!home;$('catalogSection').hidden=home;$('homeNav').setAttribute('aria-current',home?'page':'false');$('catalogNav').setAttribute('aria-current',home?'false':'page');location.hash=home?'inicio':'oportunidades';}
+async function loadHome(){
+ try{const r=await fetch('./data/home.json',{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();
+ $('homeFeed').innerHTML=(data.analises||[]).slice().reverse().map(a=>'<article class="report"><div class="meta">'+dateLabel(a.data)+'</div><h3>'+escapeHTML(a.titulo)+'</h3><p>'+escapeHTML(a.resumo)+'</p><div class="reportgrid">'+(a.destaques||[]).map(d=>'<div class="reportitem"><span class="pill">'+escapeHTML(d.tipo)+'</span><h4>'+escapeHTML(d.titulo)+'</h4><p>'+escapeHTML(d.descricao)+'</p><a href="'+escapeHTML(d.url)+'" target="_blank" rel="noopener noreferrer">Fonte oficial ↗</a></div>').join('')+'</div><h4>Notas da revisão</h4><ul>'+(a.observacoes||[]).map(t=>'<li>'+escapeHTML(t)+'</li>').join('')+'</ul></article>').join('')||'<p>Nenhuma análise publicada.</p>';
+ }catch(e){$('homeFeed').textContent='Não foi possível carregar as análises.';}
+}
 async function init(){
+ $('homeNav').addEventListener('click',()=>section('home'));$('catalogNav').addEventListener('click',()=>section('catalog'));section(location.hash==='#oportunidades'?'catalog':'home');loadHome();
  $('tableBtn').addEventListener('click',()=>view('table'));$('cardsBtn').addEventListener('click',()=>view('cards'));
  for(const id of ['search','category','vendor','status'])$(id).addEventListener('input',render);
  document.querySelectorAll('th[data-key] button').forEach(button=>button.addEventListener('click',()=>{const key=button.closest('th').dataset.key;state.direction=state.sort===key?-state.direction:1;state.sort=key;render();}));
