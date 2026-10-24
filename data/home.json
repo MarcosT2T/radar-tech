@@ -48,6 +48,56 @@
         "https://www.netacad.com/pt/catalogs/learn",
         "https://www.netacad.com/"
       ]
+    },
+    {
+      "data": "2026-10-23",
+      "titulo": "Varredura de oportunidades — Oracle, IBM, Microsoft e ISC2",
+      "resumo": "Pesquisa em fontes oficiais identificou seis novos registros no catálogo. Destaque para certificações gratuitas Oracle Foundations e OCI Architect Associate. IBM SkillsBuild oferece cursos gratuitos, Microsoft Applied Skills oferece avaliações práticas gratuitas e ISC2 encerrou novas inscrições no programa de exame CC gratuito.",
+      "destaques": [
+        {
+          "titulo": "Oracle OCI Architect Associate",
+          "tipo": "Certificação oficial gratuita",
+          "descricao": "Curso e exame gratuitos confirmados pela Oracle na atualização de 2026.",
+          "url": "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+        },
+        {
+          "titulo": "Oracle Agentic AI Foundations",
+          "tipo": "Certificação oficial gratuita",
+          "descricao": "Formação introdutória e certificação gratuitas em agentes de IA.",
+          "url": "https://www.oracle.com/br/education/certification/"
+        },
+        {
+          "titulo": "IBM SkillsBuild",
+          "tipo": "Cursos gratuitos",
+          "descricao": "Catálogo em português com IA, cibersegurança, dados e desenvolvimento; certificados variam conforme a trilha.",
+          "url": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br"
+        },
+        {
+          "titulo": "ISC2 CC — inscrições encerradas",
+          "tipo": "Campanha encerrada",
+          "descricao": "Novos códigos não são emitidos; participantes com códigos válidos podem fazer exame até 31/12/2026.",
+          "url": "https://www.isc2.org/landing/1mcc"
+        }
+      ],
+      "alteracoes": {
+        "novos_registros": 6,
+        "catalogo_total": 33,
+        "registros_existentes_revisados": 3
+      },
+      "observacoes": [
+        "Cursos gratuitos não equivalem automaticamente a exames de certificação gratuitos.",
+        "Microsoft AI Challenge inclui avaliações Applied Skills gratuitas; sorteios de descontos dependem de regras e elegibilidade.",
+        "ISC2 CC: prazo de 31/12/2026 é apenas para códigos emitidos anteriormente e ainda válidos.",
+        "A pesquisa cobre fontes selecionadas, não garante exaustividade de todas as campanhas da internet."
+      ],
+      "fontes": [
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://www.oracle.com/br/education/certification/",
+        "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
+        "https://learn.microsoft.com/pt-br/credentials/microsoft-credentials-ai-challenge",
+        "https://www.isc2.org/landing/1mcc",
+        "https://www.netacad.com/"
+      ]
     }
   ]
 }
