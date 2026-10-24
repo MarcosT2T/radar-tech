@@ -1,6 +1,6 @@
 {
   "atualizado_em": "2026-10-23",
-  "nota": "Java: certificados de conclusão, badges digitais, currículos institucionais e exames Oracle são diferentes. Gratuidade do exame Oracle Java não foi confirmada; não anunciar como gratuito. MOOC Helsinki é legado.",
+  "nota": "Pesquisa temática POO e redes: certificado CS50, declarações OpenLearn, badges Cisco e exames profissionais CCST/CCNA são categorias distintas. Exames Cisco pagos; alguns cursos com acesso institucional. Valores em USD sem tributos.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -300,8 +300,8 @@
       "categoria": "Redes e Cibersegurança",
       "tipo": "Curso preparatório",
       "status": "Vigente",
-      "descricao": "Curso gratuito de fundamentos de redes, com carga informada de 22 horas no catálogo oficial. Não inclui exame CCNA.",
-      "url": "https://www.netacad.com/pt/catalogs/learn",
+      "descricao": "22h e 13 laboratórios de fundamentos de redes, IP, protocolos e serviços; badge digital Cisco.",
+      "url": "https://www.netacad.com/courses/networking-basics/how-routers-work?courseLang=en-US",
       "origem": "Cisco",
       "brasil": "Conteúdo online; condições da plataforma se aplicam",
       "beneficio": "Curso gratuito",
@@ -309,12 +309,12 @@
       "voucher_ate": null,
       "verificado_em": "2026-10-23",
       "evidencias": [
-        "https://www.netacad.com/pt/catalogs/learn"
+        "https://www.netacad.com/courses/networking-basics/how-routers-work?courseLang=en-US"
       ],
       "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
       "grupo": "Curso com certificado",
-      "resumo": "Fundamentos de redes e comunicação entre dispositivos.",
-      "certificado_curso": "Conclusão ou badge da plataforma; verificar requisitos"
+      "resumo": "22h e 13 laboratórios de fundamentos de redes, IP, protocolos e serviços; badge digital Cisco.",
+      "certificado_curso": "Badge digital Cisco"
     },
     {
       "id": "rt-016",
@@ -1760,6 +1760,292 @@
       ],
       "certificado_curso": "Certificado pago",
       "linguagem": "Java"
+    },
+    {
+      "id": "rt-080",
+      "nome": "Open University — Software Development for Enterprise Systems",
+      "fabricante": "Open University",
+      "categoria": "Programação Orientada a Objetos",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "8h sobre análise e projeto orientados a objetos, reutilização e desenvolvimento empresarial; conteúdo legado.",
+      "descricao": "8h sobre análise e projeto orientados a objetos, reutilização e desenvolvimento empresarial; conteúdo legado.",
+      "url": "https://www.open.edu/openlearn/digital-computing/software-development-enterprise-systems/content-section-0",
+      "origem": "Open University",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Curso e declaração de participação gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.open.edu/openlearn/digital-computing/software-development-enterprise-systems/content-section-0"
+      ],
+      "certificado_curso": "Declaração gratuita de participação"
+    },
+    {
+      "id": "rt-081",
+      "nome": "Open University — An Introduction to Software Development",
+      "fabricante": "Open University",
+      "categoria": "Programação Orientada a Objetos",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "6h sobre engenharia de software, modelagem e fundamentos de abordagem orientada a objetos.",
+      "descricao": "6h sobre engenharia de software, modelagem e fundamentos de abordagem orientada a objetos.",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-software-development",
+      "origem": "Open University",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Curso e declaração de participação gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.open.edu/openlearn/science-maths-technology/an-introduction-software-development"
+      ],
+      "certificado_curso": "Declaração gratuita de participação"
+    },
+    {
+      "id": "rt-082",
+      "nome": "Microsoft Learn — Classes e objetos em C#",
+      "fabricante": "Microsoft",
+      "categoria": "Programação Orientada a Objetos",
+      "tipo": "Preparação e simulados",
+      "grupo": "Preparação e simulados",
+      "status": "Vigente",
+      "resumo": "Módulo gratuito de 1h11 com classes, instâncias, construtores e tipos por referência.",
+      "descricao": "Módulo gratuito de 1h11 com classes, instâncias, construtores e tipos por referência.",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/create-classes-objects-c-sharp/",
+      "origem": "Microsoft",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Conteúdo gratuito; registro de conclusão no Learn, sem exame profissional",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://learn.microsoft.com/pt-br/training/modules/create-classes-objects-c-sharp/"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-083",
+      "nome": "Harvard CS50P — POO em Python",
+      "fabricante": "Harvard",
+      "categoria": "Programação Orientada a Objetos",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso completo de Python com classes, objetos, métodos e propriedades; certificado CS50 gratuito com nota mínima de 70% em cada exercício e projeto.",
+      "descricao": "Curso completo de Python com classes, objetos, métodos e propriedades; certificado CS50 gratuito com nota mínima de 70% em cada exercício e projeto.",
+      "url": "https://cs50.harvard.edu/python/",
+      "origem": "Harvard",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Curso e certificado CS50 gratuitos; edX verificado é pago",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://cs50.harvard.edu/python/"
+      ],
+      "certificado_curso": "Certificado CS50 gratuito, distinto do edX"
+    },
+    {
+      "id": "rt-084",
+      "nome": "Cisco Networking Devices and Initial Configuration",
+      "fabricante": "Cisco",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "22h e 19 laboratórios: Ethernet, IPv4, ARP, DNS, DHCP, TCP/UDP, Cisco IOS e configuração de redes.",
+      "descricao": "22h e 19 laboratórios: Ethernet, IPv4, ARP, DNS, DHCP, TCP/UDP, Cisco IOS e configuração de redes.",
+      "url": "https://www.netacad.com/pt/courses/networking-devices-and-initial-configuration?courseLang=pt-BR",
+      "origem": "Cisco",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Curso e badges gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.netacad.com/pt/courses/networking-devices-and-initial-configuration?courseLang=pt-BR"
+      ],
+      "certificado_curso": "Badges digitais Cisco"
+    },
+    {
+      "id": "rt-085",
+      "nome": "Cisco Network Addressing and Basic Troubleshooting",
+      "fabricante": "Cisco",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "14h e 8 laboratórios: IPv6, roteamento, cabos, switches e troubleshooting.",
+      "descricao": "14h e 8 laboratórios: IPv6, roteamento, cabos, switches e troubleshooting.",
+      "url": "https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting",
+      "origem": "Cisco",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Curso e badges gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting"
+      ],
+      "certificado_curso": "Badges digitais Cisco"
+    },
+    {
+      "id": "rt-086",
+      "nome": "Cisco Network Support and Security",
+      "fabricante": "Cisco",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "12h: help desk, suporte a endpoints, troubleshooting e segurança de rede.",
+      "descricao": "12h: help desk, suporte a endpoints, troubleshooting e segurança de rede.",
+      "url": "https://www.netacad.com/pt/courses/network-support-security?courseLang=en-US",
+      "origem": "Cisco",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Curso e badges gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.netacad.com/pt/courses/network-support-security?courseLang=en-US"
+      ],
+      "certificado_curso": "Badges digitais Cisco"
+    },
+    {
+      "id": "rt-087",
+      "nome": "Cisco CCNA: Introduction to Networks",
+      "fabricante": "Cisco",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Preparação e simulados",
+      "grupo": "Preparação e simulados",
+      "status": "A confirmar",
+      "resumo": "Primeiro curso de 70h da trilha CCNA, com instrutor; aborda modelos de rede, Ethernet, IPv4/IPv6 e laboratórios.",
+      "descricao": "Primeiro curso de 70h da trilha CCNA, com instrutor; aborda modelos de rede, Ethernet, IPv4/IPv6 e laboratórios.",
+      "url": "https://www.netacad.com/pt/catalogs/learn",
+      "origem": "Cisco",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Formação via academia/instrutor; exame CCNA separado e pago",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.netacad.com/pt/catalogs/learn"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-088",
+      "nome": "Cisco CCST Networking — exame oficial",
+      "fabricante": "Cisco",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Exame profissional de entrada em redes, preço de referência US$ 125, distinto dos cursos gratuitos da NetAcad.",
+      "descricao": "Exame profissional de entrada em redes, preço de referência US$ 125, distinto dos cursos gratuitos da NetAcad.",
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/exams/index.html",
+      "origem": "Cisco",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Exame pago: US$ 125, antes de impostos e conversão",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.cisco.com/site/us/en/learn/training-certifications/exams/index.html"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-089",
+      "nome": "Cisco CCNA 200-301 — exame oficial",
+      "fabricante": "Cisco",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Exame profissional de redes, 120 minutos, preço de referência US$ 300; materiais preparatórios não incluem exame.",
+      "descricao": "Exame profissional de redes, 120 minutos, preço de referência US$ 300; materiais preparatórios não incluem exame.",
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html",
+      "origem": "Cisco",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Exame pago: US$ 300, antes de impostos e conversão",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-090",
+      "nome": "Linux Foundation — Introduction to free5GC (LFS114)",
+      "fabricante": "Linux Foundation",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "4h sobre arquitetura 5G Core, funções AMF/SMF/UPF e troubleshooting; certificado e badge gratuitos.",
+      "descricao": "4h sobre arquitetura 5G Core, funções AMF/SMF/UPF e troubleshooting; certificado e badge gratuitos.",
+      "url": "https://training.linuxfoundation.org/training/introduction-to-free5gc-lfs114/",
+      "origem": "Linux Foundation",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Curso, certificado e badge gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://training.linuxfoundation.org/training/introduction-to-free5gc-lfs114/"
+      ],
+      "certificado_curso": "Certificado e badge digitais"
+    },
+    {
+      "id": "rt-091",
+      "nome": "Cisco — Exploring Networking with Packet Tracer",
+      "fabricante": "Cisco",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "3h de laboratórios virtuais de instalação, gerenciamento e monitoramento de rede de filial.",
+      "descricao": "3h de laboratórios virtuais de instalação, gerenciamento e monitoramento de rede de filial.",
+      "url": "https://www.netacad.com/pt/catalogs/learn",
+      "origem": "Cisco",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Curso gratuito; badge/certificado individual a confirmar",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.netacad.com/pt/catalogs/learn"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-092",
+      "nome": "Cisco — Exploring IoT with Packet Tracer",
+      "fabricante": "Cisco",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "3h para configurar dispositivos IoT e redes domésticas inteligentes no Packet Tracer.",
+      "descricao": "3h para configurar dispositivos IoT e redes domésticas inteligentes no Packet Tracer.",
+      "url": "https://www.netacad.com/pt/catalogs/learn",
+      "origem": "Cisco",
+      "brasil": "Disponível online; confirmar critérios individuais e idioma no cadastro",
+      "beneficio": "Curso gratuito; badge/certificado individual a confirmar",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-23",
+      "evidencias": [
+        "https://www.netacad.com/pt/catalogs/learn"
+      ],
+      "certificado_curso": null
     }
   ]
 }
