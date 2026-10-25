@@ -1,6 +1,6 @@
 {
   "atualizado_em": "2026-10-25",
-  "nota": "Auditoria 25/10/2026: 7 cursos da Missão Cisco com prazo 22/11, ENAP Oxford gratuito com certificado, promoção Linux Foundation 16–23/10 encerrada e HTB CDEP pago. Não confundir curso, badge, certificado e exame profissional; validar elegibilidade individual antes de pagamento.",
+  "nota": "25/10/2026: três cursos Santander com certificado gratuito e elegibilidade brasileira; exame MS-102 pago e com aposentadoria oficial em 30/11. Descontos CompTIA estudantis brasileiros continuam não confirmados; não anunciar voucher gratuito.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -2916,6 +2916,96 @@
         "https://academy.hackthebox.com/news/introducing-htb-cdep-certified-detection-engineering-principal"
       ],
       "certificado_curso": null
+    },
+    {
+      "id": "rt-131",
+      "nome": "Santander + Microsoft/Founderz — Domine a IA com prompting responsável",
+      "fabricante": "Santander Open Academy",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso assíncrono de 2 horas em português sobre prompts, Copilot e uso responsável de IA. Gratuito, com certificado de conclusão; aberto até 31/12/2026 para pessoas de 16+ de qualquer país.",
+      "descricao": "Curso assíncrono de 2 horas em português sobre prompts, Copilot e uso responsável de IA. Gratuito, com certificado de conclusão; aberto até 31/12/2026 para pessoas de 16+ de qualquer país.",
+      "url": "https://www.santanderopenacademy.com/pt_br/courses/master-ai-with-responsible-prompting.html/index.html",
+      "origem": "Santander Open Academy",
+      "brasil": "Elegibilidade de residentes no Brasil confirmada na página oficial",
+      "beneficio": "Curso e certificado gratuitos",
+      "inscricao_ate": "2026-12-31",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-25",
+      "evidencias": [
+        "https://www.santanderopenacademy.com/pt_br/courses/master-ai-with-responsible-prompting.html/index.html"
+      ],
+      "certificado_curso": "Certificado de conclusão Santander Open Academy"
+    },
+    {
+      "id": "rt-132",
+      "nome": "Santander Open Academy — IA segura, justa e legal",
+      "fabricante": "Santander Open Academy",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso gratuito de 8 horas em português sobre riscos, vieses, privacidade e conformidade no uso de IA. Aberto até 31/12/2026 para maiores de 16 anos de qualquer país; certificado após conclusão.",
+      "descricao": "Curso gratuito de 8 horas em português sobre riscos, vieses, privacidade e conformidade no uso de IA. Aberto até 31/12/2026 para maiores de 16 anos de qualquer país; certificado após conclusão.",
+      "url": "https://www.santanderopenacademy.com/pt_br/courses/safe-fair-legal-how-to-use-ai-right.html.html",
+      "origem": "Santander Open Academy",
+      "brasil": "Elegibilidade de residentes no Brasil confirmada na página oficial",
+      "beneficio": "Curso e certificado gratuitos",
+      "inscricao_ate": "2026-12-31",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-25",
+      "evidencias": [
+        "https://www.santanderopenacademy.com/pt_br/courses/safe-fair-legal-how-to-use-ai-right.html.html"
+      ],
+      "certificado_curso": "Certificado de conclusão Santander Open Academy"
+    },
+    {
+      "id": "rt-133",
+      "nome": "Santander + Google — Domine IA com Gemini",
+      "fabricante": "Santander Open Academy",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso online gratuito de IA aplicada com Gemini, multimodalidade, Workspace e Deep Research, para brasileiros a partir de 16 anos, sem exigência de conta bancária. Plataforma anuncia oferta até 31/12/2026.",
+      "descricao": "Curso online gratuito de IA aplicada com Gemini, multimodalidade, Workspace e Deep Research, para brasileiros a partir de 16 anos, sem exigência de conta bancária. Plataforma anuncia oferta até 31/12/2026.",
+      "url": "https://www.santanderopenacademy.com/pt_br/courses/master-ai-with-gemini.html",
+      "origem": "Santander Open Academy",
+      "brasil": "Divulgação oficial Santander Brasil confirma residentes brasileiros 16+; não precisa ser correntista",
+      "beneficio": "Curso e certificado gratuitos",
+      "inscricao_ate": "2026-12-31",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-25",
+      "evidencias": [
+        "https://www.santanderopenacademy.com/en/index.html",
+        "https://www.publicnow.com/view/CAB26884821887177AFDEDC3E803F2CA8C7F15DB"
+      ],
+      "certificado_curso": "Certificado de conclusão Santander Open Academy"
+    },
+    {
+      "id": "rt-134",
+      "nome": "Microsoft MS-102 — aposentadoria em 30/11/2026",
+      "fabricante": "Microsoft",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Exame Microsoft 365 Administrator Expert (MS-102) será aposentado em 30/11/2026. Não poderá ser realizado depois; a credencial já obtida permanece no histórico. Exame profissional pago, não é curso gratuito.",
+      "descricao": "Exame Microsoft 365 Administrator Expert (MS-102) será aposentado em 30/11/2026. Não poderá ser realizado depois; a credencial já obtida permanece no histórico. Exame profissional pago, não é curso gratuito.",
+      "url": "https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams",
+      "origem": "Microsoft",
+      "brasil": "Exame Microsoft disponível conforme região e centro Pearson VUE; confirmar agenda e valor em BRL",
+      "beneficio": "Exame pago; prazo de aposentadoria confirmado",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-25",
+      "evidencias": [
+        "https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams"
+      ],
+      "certificado_curso": null,
+      "aposentadoria_em": "2026-11-30"
     }
   ]
 }
