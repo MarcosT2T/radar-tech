@@ -586,6 +586,54 @@
         "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions",
         "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-september-16-october-14/ev-p/166157"
       ]
+    },
+    {
+      "data": "2026-10-25",
+      "titulo": "Complemento de 25/10 — três cursos gratuitos Santander e aposentadoria Microsoft MS-102",
+      "resumo": "Foram identificados três cursos online gratuitos com certificados e elegibilidade brasileira explícita: Microsoft/Founderz sobre prompting (2h), Santander sobre uso legal e ético de IA (8h) e Google sobre Gemini. Inscrições abertas até 31/12/2026. A Microsoft confirmou aposentadoria do exame MS-102 em 30/11/2026. Quatro registros inéditos adicionados ao catálogo, total de 134. Nenhum voucher CompTIA gratuito com elegibilidade brasileira comprovada foi identificado nesta rodada.",
+      "destaques": [
+        {
+          "titulo": "Santander + Microsoft/Founderz — prompting responsável",
+          "tipo": "Curso com certificado gratuito",
+          "descricao": "2h, português, 16+ e qualquer país de residência; aberto até 31/12/2026. Não é exame Microsoft Certified.",
+          "url": "https://www.santanderopenacademy.com/pt_br/courses/master-ai-with-responsible-prompting.html/index.html"
+        },
+        {
+          "titulo": "Santander — IA segura, justa e legal",
+          "tipo": "Curso com certificado gratuito",
+          "descricao": "8h, português, 16+ e qualquer país de residência; aberto até 31/12/2026.",
+          "url": "https://www.santanderopenacademy.com/pt_br/courses/safe-fair-legal-how-to-use-ai-right.html.html"
+        },
+        {
+          "titulo": "Santander + Google — Domine IA com Gemini",
+          "tipo": "Curso com certificado gratuito",
+          "descricao": "Curso de IA aplicada, multimodalidade e Gemini; gratuito para brasileiros 16+ sem conta Santander; oferta exibida até 31/12/2026.",
+          "url": "https://www.santanderopenacademy.com/pt_br/courses/master-ai-with-gemini.html"
+        },
+        {
+          "titulo": "Microsoft MS-102 — aposentadoria confirmada",
+          "tipo": "Alteração material de exame oficial",
+          "descricao": "Exame Microsoft 365 Administrator Expert será aposentado em 30/11/2026; exame pago, não é oportunidade de voucher.",
+          "url": "https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 134,
+        "novos_registros": 4
+      },
+      "observacoes": [
+        "Os cursos Santander concedem certificado de conclusão, não certificação profissional Microsoft ou Google.",
+        "O MS-102 é um exame profissional pago; a data de aposentadoria exige atenção de quem já se prepara para ele.",
+        "Nenhum voucher CompTIA gratuito válido para residentes brasileiros foi confirmado nesta varredura.",
+        "As páginas CompTIA sobre transição Security+ e CySA+ não puderam ser acessadas diretamente para validação primária de todas as datas; essas informações não foram adicionadas como confirmadas."
+      ],
+      "fontes": [
+        "https://www.santanderopenacademy.com/pt_br/courses/master-ai-with-responsible-prompting.html/index.html",
+        "https://www.santanderopenacademy.com/pt_br/courses/safe-fair-legal-how-to-use-ai-right.html.html",
+        "https://www.santanderopenacademy.com/en/index.html",
+        "https://www.publicnow.com/view/CAB26884821887177AFDEDC3E803F2CA8C7F15DB",
+        "https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams"
+      ]
     }
   ]
 }
