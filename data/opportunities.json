@@ -1,6 +1,6 @@
 {
   "atualizado_em": "2026-10-26",
-  "nota": "26/10/2026: certificações Neo4j gratuitas verificadas em páginas individuais; cursos Santander gratuitos com certificado e prazo 31/12/2026; bootcamp Aoop com inscrições encerradas em 23/10/2026. Não confundir certificado de curso, certificação profissional, simulado e voucher.",
+  "nota": "Em 26/10/2026 foram incluídas oportunidades de capacitação DIO/Microsoft DP-700 e Santander/DIO Assistente de IA. O voucher DP-700 é apenas uma possibilidade sujeita a regras; curso com certificado não equivale à certificação profissional Microsoft.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -3209,6 +3209,60 @@
         "https://br.nttdata-solutions.com/shark-in-servicenow"
       ],
       "certificado_curso": "Certificado Shark Academy com 70% de presença e desafio"
+    },
+    {
+      "id": "rt-144",
+      "nome": "DIO + Microsoft — Aceleração DP-700 Fabric e chance de 100 vouchers",
+      "fabricante": "Microsoft / DIO",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Preparação e simulados",
+      "grupo": "Preparação e simulados",
+      "status": "Vigente",
+      "resumo": "Quatro workshops gratuitos de 09 a 12/11/2026 sobre engenharia de dados no Microsoft Fabric e preparação DP-700; chance condicionada de um entre 100 vouchers para exame oficial.",
+      "descricao": "A DIO oferece inscrição gratuita e quatro workshops ao vivo sobre arquitetura, ingestão, segurança, operação e otimização no Fabric. O exame DP-700 é certificação profissional Microsoft Certified: Fabric Data Engineer Associate; voucher não é garantido. A Microsoft atualizou o conteúdo do exame em 19/10/2026 e disponibiliza prova em português brasileiro. Regulamento de distribuição dos 100 vouchers não detalhado na página pública consultada.",
+      "url": "https://www.dio.me/acceleration/microsoft-dp-700-certification",
+      "origem": "DIO e Microsoft",
+      "brasil": "Inscrição DIO com telefone +55; exame Microsoft disponível em português brasileiro e agendável pela Pearson VUE. Regras específicas de elegibilidade aos vouchers precisam ser conferidas.",
+      "beneficio": "Preparação gratuita; possibilidade de 100 vouchers de exame gratuito, sujeitos a seleção",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://www.dio.me/es/acceleration/microsoft-dp-700-certification",
+        "https://learn.microsoft.com/pt-br/credentials/certifications/fabric-data-engineer-associate/",
+        "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-700"
+      ],
+      "certificado_curso": "Certificado de participação DIO conforme conclusão; certificação Microsoft depende de aprovação no exame",
+      "inicio_em": "2026-11-09",
+      "fim_em": "2026-11-12",
+      "exame": "DP-700",
+      "voucher_garantido": false
+    },
+    {
+      "id": "rt-145",
+      "nome": "Santander + DIO — Crie seu Assistente de IA (15 mil bolsas)",
+      "fabricante": "Santander / DIO",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "15 mil bolsas gratuitas para curso online de aproximadamente 20h e três mentorias sobre criação de assistentes de IA e GPTs personalizados; inscrições até 03/11/2026.",
+      "descricao": "Programa Santander Open Academy com DIO para criar assistente pessoal de IA, planejamento com Notion, engenharia de prompts e projeto de portfólio. Seleção prevista para 04/11, formação entre 24/11/2026 e 24/01/2027. Certificado de conclusão do curso, não certificação profissional por exame.",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
+      "origem": "Santander Open Academy e DIO",
+      "brasil": "Programa direcionado ao público brasileiro, 100% online; inscrição gratuita sem exigência de ser cliente Santander; bolsa sujeita a seleção.",
+      "beneficio": "15 mil bolsas de curso gratuito com certificado de conclusão",
+      "inscricao_ate": "2026-11-03",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
+        "https://dio-me.keepo.bio/",
+        "https://vcia.abril.com.br/vida-pessoal/santander-e-dio-lancam-curso-gratuito-para-criacao-de-assistentes-de-ia-para-planejamento-pessoal-e-profissional/"
+      ],
+      "certificado_curso": "Certificado de conclusão DIO/Santander, sujeito a conclusão da formação",
+      "inicio_em": "2026-11-24",
+      "fim_em": "2027-01-24"
     }
   ]
 }
