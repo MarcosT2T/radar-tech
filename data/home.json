@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-25",
+  "atualizado_em": "2026-10-26",
   "analises": [
     {
       "data": "2026-10-23",
@@ -633,6 +633,88 @@
         "https://www.santanderopenacademy.com/en/index.html",
         "https://www.publicnow.com/view/CAB26884821887177AFDEDC3E803F2CA8C7F15DB",
         "https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams"
+      ]
+    },
+    {
+      "data": "2026-10-26",
+      "titulo": "Radar Tech — 26/10: três certificações Neo4j gratuitas, Java/Spring e cursos Santander",
+      "resumo": "Pesquisa de 26/10/2026 em fontes oficiais identificou nove oportunidades ainda não individualizadas no Radar Tech: três certificações Neo4j com exame e retentativas gratuitos, dois cursos Neo4j de Java/Spring Data com certificado, três cursos Santander gratuitos com certificado e um bootcamp Aoop/NTT DATA já encerrado. Dois registros existentes foram revisados. Catálogo: 143 registros. Não foi confirmada nova campanha universal de voucher gratuito para exame profissional nesta rodada; novidades no catálogo não significam lançamentos ocorridos hoje.",
+      "destaques": [
+        {
+          "titulo": "Neo4j Certified Professional — exame gratuito",
+          "tipo": "Certificação profissional oficial gratuita",
+          "descricao": "Exame online de 60 minutos com 80 questões e aprovação a partir de 80%. Tentativas e retentativas gratuitas, com espera de 24h; certificado verificável após aprovação.",
+          "url": "https://graphacademy.neo4j.com/certifications/neo4j-certification"
+        },
+        {
+          "titulo": "Neo4j Graph Data Science Certification",
+          "tipo": "Certificação profissional oficial gratuita",
+          "descricao": "Exame de 50 questões em 60 minutos, aprovação mínima de 80%, com algoritmos de grafos e GDS; retentativas gratuitas.",
+          "url": "https://graphacademy.neo4j.com/certifications/gds-certification"
+        },
+        {
+          "titulo": "Neo4j & Generative AI Certification",
+          "tipo": "Certificação profissional oficial gratuita",
+          "descricao": "Exame de 50 questões sobre GraphRAG, vetores, knowledge graphs e MCP; gratuito e com retentativas gratuitas.",
+          "url": "https://graphacademy.neo4j.com/certifications/genai-certification"
+        },
+        {
+          "titulo": "Neo4j — Java Driver e Spring Data",
+          "tipo": "Cursos gratuitos com certificado",
+          "descricao": "Dois cursos práticos gratuitos: Java Driver (1h) e Spring Data Neo4j/Spring Boot (4h), com certificado de conclusão; não são exames de certificação.",
+          "url": "https://graphacademy.neo4j.com/courses/app-spring-data"
+        },
+        {
+          "titulo": "Santander — Python, Excel e Power BI",
+          "tipo": "Cursos gratuitos com certificado",
+          "descricao": "Três cursos de 8h cada, com certificado gratuito; elegíveis residentes no Brasil a partir de 16 anos; páginas oficiais indicam disponibilidade até 31/12/2026.",
+          "url": "https://www.santanderopenacademy.com/pt_br/courses/introduction_to_python_programming.html/index.html"
+        },
+        {
+          "titulo": "Aoop/NTT DATA — Shark in ServiceNow #14",
+          "tipo": "Programa de formação encerrado",
+          "descricao": "Bootcamp gratuito com 100 vagas; inscrições encerradas em 23/10/2026. Aulas de 26/10 a 06/11; certificado Shark Academy condicionado a 70% de presença e desafio final. Não é certificação profissional ServiceNow.",
+          "url": "https://aoop.gupy.io/jobs/12647261"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 134,
+        "catalogo_total": 143,
+        "novos_registros": 9,
+        "novos_vigentes": 8,
+        "novos_encerrados": 1,
+        "registros_existentes_revisados": 2,
+        "novas_campanhas_universais_de_exame_gratuito": 0
+      },
+      "observacoes": [
+        "Certificações Neo4j são exames oficiais gratuitos do fabricante; certificados de cursos Java/Spring/Santander são comprovações de conclusão, não exames profissionais.",
+        "A página agregadora Neo4j exibia aviso genérico de 'coming soon', mas as três páginas individuais confirmam exames disponíveis e gratuitos; o registro agregador foi atualizado de 'A confirmar' para 'Vigente'.",
+        "Santander: páginas oficiais informam gratuidade de curso e certificado, elegibilidade de 16+ e qualquer país; acesso efetivo após login não foi testado.",
+        "Power BI: fonte oficial consultada em espanhol, mas lista português entre os idiomas e candidatos de qualquer país.",
+        "Aoop/NTT DATA: página oficial de inscrição determina fim das candidaturas em 23/10; a landing page ainda pode exibir botão de inscrição, que não prevalece sobre o prazo explícito.",
+        "Não foi identificada campanha nova de voucher gratuito de exame profissional nas demais fontes oficiais consultadas. Isto não é falha de pesquisa, mas ausência de nova campanha confirmada no escopo verificado.",
+        "Prazo histórico relevante: Oracle Race to Certification 2025 permite usar algumas tentativas previamente concedidas até 31/10/2026; não admite novos participantes.",
+        "Foram consultadas fontes de Microsoft, AWS, Cisco, Oracle, CompTIA, ISC2, Databricks, Linux Foundation, Neo4j, DIO, Santander e Aoop; nem todos os portais permitem validar matrícula individual sem login."
+      ],
+      "fontes": [
+        "https://graphacademy.neo4j.com/certifications",
+        "https://graphacademy.neo4j.com/certifications/neo4j-certification",
+        "https://graphacademy.neo4j.com/certifications/gds-certification",
+        "https://graphacademy.neo4j.com/certifications/genai-certification",
+        "https://graphacademy.neo4j.com/courses/drivers-java",
+        "https://graphacademy.neo4j.com/courses/app-spring-data",
+        "https://www.santanderopenacademy.com/pt_br/courses/introduction_to_python_programming.html/index.html",
+        "https://www.santanderopenacademy.com/pt_br/courses/excel.html/index.html",
+        "https://app.santanderopenacademy.com/es/course/power-bi-intermediate-data-analysis-and-modeling",
+        "https://aoop.gupy.io/jobs/12647261",
+        "https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications",
+        "https://blogs.oracle.com/oracleuniversity/announcing-race-to-certification-2025",
+        "https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html",
+        "https://aws.amazon.com/blogs/training-and-certification/",
+        "https://community.databricks.com/t5/databricks-academy-learners/faq-for-advanced-learning-festival-september-16-october-14-2026/m-p/166272",
+        "https://www.isc2.org/landing/1mcc",
+        "https://training.linuxfoundation.org/blog/stay-ahead-of-cyber-threats/",
+        "https://www.dio.me/acceleration/microsoft-ai-103-certification"
       ]
     }
   ]
