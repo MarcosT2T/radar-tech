@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-25",
-  "nota": "25/10/2026: três cursos Santander com certificado gratuito e elegibilidade brasileira; exame MS-102 pago e com aposentadoria oficial em 30/11. Descontos CompTIA estudantis brasileiros continuam não confirmados; não anunciar voucher gratuito.",
+  "atualizado_em": "2026-10-26",
+  "nota": "26/10/2026: certificações Neo4j gratuitas verificadas em páginas individuais; cursos Santander gratuitos com certificado e prazo 31/12/2026; bootcamp Aoop com inscrições encerradas em 23/10/2026. Não confundir certificado de curso, certificação profissional, simulado e voucher.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -155,20 +155,23 @@
       "fabricante": "Neo4j",
       "categoria": "Dados e Inteligência Artificial",
       "tipo": "Certificação oficial",
-      "status": "A confirmar",
-      "descricao": "Certificações Neo4j em grafos, dados e GenAI: FAQ oficial afirma gratuidade de provas e retentativas, com espera de 24h entre tentativas; catálogo individual atualmente não exibe opções claras.",
+      "status": "Vigente",
+      "descricao": "Portal oficial GraphAcademy com exames Neo4j gratuitos e retentativas sem custo. Exames individuais Professional, Graph Data Science e Generative AI confirmados por páginas próprias.",
       "url": "https://graphacademy.neo4j.com/certifications",
       "origem": "Neo4j",
-      "brasil": "Conferir elegibilidade e condições no portal oficial",
-      "beneficio": "Exames gratuitos segundo FAQ; agenda e exame específico a confirmar",
+      "brasil": "Exame online com cadastro na GraphAcademy; página oficial não aponta exclusão do Brasil.",
+      "beneficio": "Certificações gratuitas confirmadas; consultar exames individuais",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-24",
+      "verificado_em": "2026-10-26",
       "evidencias": [
-        "https://graphacademy.neo4j.com/certifications"
+        "https://graphacademy.neo4j.com/certifications",
+        "https://graphacademy.neo4j.com/certifications/neo4j-certification",
+        "https://graphacademy.neo4j.com/certifications/gds-certification",
+        "https://graphacademy.neo4j.com/certifications/genai-certification"
       ],
       "grupo": "Certificação oficial",
-      "resumo": "GraphAcademy anuncia exames Neo4j gratuitos, com repetição gratuita; página de certificações mostra aviso 'coming soon', então disponibilidade individual deve ser confirmada.",
+      "resumo": "Portal oficial GraphAcademy com exames Neo4j gratuitos e retentativas sem custo. Exames individuais Professional, Graph Data Science e Generative AI confirmados por páginas próprias.",
       "certificado_curso": null
     },
     {
@@ -281,20 +284,21 @@
       "categoria": "Formação e Programas Gerais",
       "tipo": "Simulado oficial",
       "status": "Vigente",
-      "descricao": "Avaliações práticas gratuitas e repetíveis para exames Microsoft compatíveis; não concedem certificação profissional.",
+      "descricao": "Simulados gratuitos Microsoft Learn, incluindo AI-103, AZ-900 e outras provas; repetíveis, sem emissão de certificação profissional.",
       "url": "https://learn.microsoft.com/pt-br/credentials/certifications/practice-assessments-for-microsoft-certifications",
       "origem": "Microsoft",
       "brasil": "Conteúdo online; condições da plataforma se aplicam",
       "beneficio": "Gratuito",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-23",
+      "verificado_em": "2026-10-26",
       "evidencias": [
-        "https://learn.microsoft.com/pt-br/credentials/certifications/practice-assessments-for-microsoft-certifications"
+        "https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications",
+        "https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/ai-103"
       ],
       "historico": "Levantamentos e conversas entre 2026-09-23 e 2026-10-23",
       "grupo": "Preparação e simulados",
-      "resumo": "Questões de prática para provas Microsoft; não são exame oficial.",
+      "resumo": "Simulados gratuitos Microsoft Learn, incluindo AI-103, AZ-900 e outras provas; repetíveis, sem emissão de certificação profissional.",
       "certificado_curso": null
     },
     {
@@ -3006,6 +3010,205 @@
       ],
       "certificado_curso": null,
       "aposentadoria_em": "2026-11-30"
+    },
+    {
+      "id": "rt-135",
+      "nome": "Neo4j Certified Professional — exame gratuito",
+      "fabricante": "Neo4j",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Certificação oficial de Neo4j, Cypher, modelagem e drivers: 80 questões em 60 minutos, mínimo de 80% e resultado imediato. Gratuita, inclusive retentativas após 24h.",
+      "descricao": "Certificação oficial de Neo4j, Cypher, modelagem e drivers: 80 questões em 60 minutos, mínimo de 80% e resultado imediato. Gratuita, inclusive retentativas após 24h.",
+      "url": "https://graphacademy.neo4j.com/certifications/neo4j-certification",
+      "origem": "Neo4j",
+      "brasil": "Exame online com cadastro na GraphAcademy; página oficial não aponta exclusão do Brasil.",
+      "beneficio": "Exame oficial gratuito e retentativas gratuitas após 24h; certificado verificável após aprovação",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://graphacademy.neo4j.com/certifications/neo4j-certification"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-136",
+      "nome": "Neo4j Graph Data Science Certification — exame gratuito",
+      "fabricante": "Neo4j",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Certificação oficial de Graph Data Science: algoritmos, projeções e fluxos GDS; 50 questões em 60 minutos, mínimo de 80%. Exame e retentativas gratuitos.",
+      "descricao": "Certificação oficial de Graph Data Science: algoritmos, projeções e fluxos GDS; 50 questões em 60 minutos, mínimo de 80%. Exame e retentativas gratuitos.",
+      "url": "https://graphacademy.neo4j.com/certifications/gds-certification",
+      "origem": "Neo4j",
+      "brasil": "Exame online com cadastro na GraphAcademy; página oficial não aponta exclusão do Brasil.",
+      "beneficio": "Exame oficial gratuito e retentativas gratuitas após 24h; certificado verificável após aprovação",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://graphacademy.neo4j.com/certifications/gds-certification"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-137",
+      "nome": "Neo4j & Generative AI Certification — exame gratuito",
+      "fabricante": "Neo4j",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Certificação oficial de GraphRAG, vetores, knowledge graphs, biblioteca neo4j-graphrag e MCP; 50 questões em 60 minutos, mínimo de 80%. Exame e retentativas gratuitos.",
+      "descricao": "Certificação oficial de GraphRAG, vetores, knowledge graphs, biblioteca neo4j-graphrag e MCP; 50 questões em 60 minutos, mínimo de 80%. Exame e retentativas gratuitos.",
+      "url": "https://graphacademy.neo4j.com/certifications/genai-certification",
+      "origem": "Neo4j",
+      "brasil": "Exame online com cadastro na GraphAcademy; página oficial não aponta exclusão do Brasil.",
+      "beneficio": "Exame oficial gratuito e retentativas gratuitas após 24h; certificado verificável após aprovação",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://graphacademy.neo4j.com/certifications/genai-certification"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-138",
+      "nome": "Neo4j GraphAcademy — Using Neo4j with Java",
+      "fabricante": "Neo4j",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso gratuito de 1h, 16 lições, com driver Java oficial, Cypher, mapeamento de resultados, sessões e transações. Certificado de conclusão ao terminar o curso.",
+      "descricao": "Curso gratuito de 1h, 16 lições, com driver Java oficial, Cypher, mapeamento de resultados, sessões e transações. Certificado de conclusão ao terminar o curso.",
+      "url": "https://graphacademy.neo4j.com/courses/drivers-java",
+      "origem": "Neo4j",
+      "brasil": "Curso online autoinstrucional disponível no Brasil; conta gratuita na GraphAcademy.",
+      "beneficio": "Curso e certificado de conclusão gratuitos; não é exame de certificação",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://graphacademy.neo4j.com/courses/drivers-java"
+      ],
+      "certificado_curso": "Certificado GraphAcademy após conclusão"
+    },
+    {
+      "id": "rt-139",
+      "nome": "Neo4j GraphAcademy — Building Neo4j Applications with Spring Data",
+      "fabricante": "Neo4j",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso gratuito de 4h com Spring Boot, entidades, repositórios, controladores, consultas Cypher e API REST sobre Neo4j. Certificado de conclusão ao terminar o curso.",
+      "descricao": "Curso gratuito de 4h com Spring Boot, entidades, repositórios, controladores, consultas Cypher e API REST sobre Neo4j. Certificado de conclusão ao terminar o curso.",
+      "url": "https://graphacademy.neo4j.com/courses/app-spring-data",
+      "origem": "Neo4j",
+      "brasil": "Curso online autoinstrucional disponível no Brasil; conta gratuita na GraphAcademy.",
+      "beneficio": "Curso e certificado de conclusão gratuitos; não é exame de certificação",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://graphacademy.neo4j.com/courses/app-spring-data"
+      ],
+      "certificado_curso": "Certificado GraphAcademy após conclusão"
+    },
+    {
+      "id": "rt-140",
+      "nome": "Santander Open Academy — Introdução à programação com Python (8h)",
+      "fabricante": "Santander Open Academy",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso gratuito de 8h em português sobre sintaxe Python, controle de fluxo, estruturas de dados, exceções, arquivos e módulos. Certificado após concluir todos os elementos.",
+      "descricao": "Curso gratuito de 8h em português sobre sintaxe Python, controle de fluxo, estruturas de dados, exceções, arquivos e módulos. Certificado após concluir todos os elementos.",
+      "url": "https://www.santanderopenacademy.com/pt_br/courses/introduction_to_python_programming.html/index.html",
+      "origem": "Santander Open Academy",
+      "brasil": "Pessoas de 16 anos ou mais, de qualquer país de residência, incluindo Brasil; conteúdo em português.",
+      "beneficio": "Curso e certificado de conclusão gratuitos",
+      "inscricao_ate": "2026-12-31",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://www.santanderopenacademy.com/pt_br/courses/introduction_to_python_programming.html/index.html"
+      ],
+      "certificado_curso": "Certificado gratuito de conclusão Santander"
+    },
+    {
+      "id": "rt-141",
+      "nome": "Santander Open Academy — Excel básico ao intermediário (8h)",
+      "fabricante": "Santander Open Academy",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso gratuito de 8h em português sobre fórmulas, funções e tabelas dinâmicas para gestão e análise de dados; certificado após conclusão.",
+      "descricao": "Curso gratuito de 8h em português sobre fórmulas, funções e tabelas dinâmicas para gestão e análise de dados; certificado após conclusão.",
+      "url": "https://www.santanderopenacademy.com/pt_br/courses/excel.html/index.html",
+      "origem": "Santander Open Academy",
+      "brasil": "Pessoas de 16 anos ou mais, de qualquer país de residência, incluindo Brasil; conteúdo em português.",
+      "beneficio": "Curso e certificado de conclusão gratuitos",
+      "inscricao_ate": "2026-12-31",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://www.santanderopenacademy.com/pt_br/courses/excel.html/index.html"
+      ],
+      "certificado_curso": "Certificado gratuito de conclusão Santander"
+    },
+    {
+      "id": "rt-142",
+      "nome": "Santander Open Academy — Power BI intermediário: análise e modelagem (8h)",
+      "fabricante": "Santander Open Academy",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso gratuito de 8h com Power Query, DAX, modelagem estrela e dashboards; página oficial anuncia português, vagas ilimitadas e certificado de conclusão.",
+      "descricao": "Curso gratuito de 8h com Power Query, DAX, modelagem estrela e dashboards; página oficial anuncia português, vagas ilimitadas e certificado de conclusão. A página consultada está em espanhol, mas lista português entre os idiomas disponíveis.",
+      "url": "https://app.santanderopenacademy.com/es/course/power-bi-intermediate-data-analysis-and-modeling",
+      "origem": "Santander Open Academy",
+      "brasil": "Pessoas de 16 anos ou mais, de qualquer país de residência, incluindo Brasil; conteúdo em português.",
+      "beneficio": "Curso e certificado de conclusão gratuitos",
+      "inscricao_ate": "2026-12-31",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://app.santanderopenacademy.com/es/course/power-bi-intermediate-data-analysis-and-modeling"
+      ],
+      "certificado_curso": "Certificado gratuito de conclusão Santander"
+    },
+    {
+      "id": "rt-143",
+      "nome": "Aoop/NTT DATA — 14º Shark in ServiceNow (histórico)",
+      "fabricante": "Aoop — NTT DATA",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Encerrada",
+      "resumo": "Bootcamp remoto e gratuito de ServiceNow para profissionais de TI, 100 vagas com seleção, aulas de 26/10 a 06/11/2026. Inscrições encerradas em 23/10/2026. Certificado Shark Academy condicionado a 70% de presença e desafio final; não equivale a certificação profissional ServiceNow.",
+      "descricao": "Bootcamp remoto e gratuito de ServiceNow para profissionais de TI, 100 vagas com seleção, aulas de 26/10 a 06/11/2026. Inscrições encerradas em 23/10/2026. Certificado Shark Academy condicionado a 70% de presença e desafio final; não equivale a certificação profissional ServiceNow.",
+      "url": "https://aoop.gupy.io/jobs/12647261",
+      "origem": "Aoop — NTT DATA",
+      "brasil": "Seleção brasileira de profissionais de TI; 100 vagas; candidaturas encerradas em 23/10/2026.",
+      "beneficio": "Treinamento e certificado gratuitos para selecionados; novas inscrições encerradas",
+      "inscricao_ate": "2026-10-23",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-26",
+      "evidencias": [
+        "https://aoop.gupy.io/jobs/12647261",
+        "https://br.nttdata-solutions.com/shark-in-servicenow"
+      ],
+      "certificado_curso": "Certificado Shark Academy com 70% de presença e desafio"
     }
   ]
 }
