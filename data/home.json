@@ -716,6 +716,50 @@
         "https://training.linuxfoundation.org/blog/stay-ahead-of-cyber-threats/",
         "https://www.dio.me/acceleration/microsoft-ai-103-certification"
       ]
+    },
+    {
+      "data": "2026-10-26",
+      "titulo": "Complemento 26/10 — Aceleração DP-700 e Santander Assistente de IA",
+      "resumo": "Duas oportunidades inéditas e vigentes confirmadas: preparação gratuita Microsoft DP-700 no Fabric de 09 a 12/11 com possibilidade de 100 vouchers condicionais e programa Santander/DIO com 15 mil bolsas gratuitas para assistentes de IA, inscrições até 03/11. Nenhum voucher CompTIA gratuito com elegibilidade brasileira foi validado nesta rodada.",
+      "destaques": [
+        {
+          "titulo": "Microsoft DP-700 — workshops e 100 vouchers condicionais",
+          "tipo": "Preparação gratuita + possibilidade de voucher de exame oficial",
+          "descricao": "Quatro workshops de 09 a 12/11/2026. Certificação Fabric Data Engineer Associate, prova disponível em português brasileiro. Os 100 vouchers não são garantidos; critérios completos de seleção não confirmados.",
+          "url": "https://www.dio.me/acceleration/microsoft-dp-700-certification"
+        },
+        {
+          "titulo": "Santander + DIO — Crie seu Assistente de IA",
+          "tipo": "Bolsa gratuita com certificado de curso",
+          "descricao": "15 mil bolsas; inscrição até 03/11/2026, seleção 04/11, curso previsto de 24/11/2026 a 24/01/2027. Não é certificação profissional.",
+          "url": "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia"
+        },
+        {
+          "titulo": "Microsoft DP-700 — objetivos atualizados em 19/10",
+          "tipo": "Alteração material de exame",
+          "descricao": "Guia de estudos da Microsoft indica atualização em 19/10/2026; materiais de preparação devem seguir a versão vigente.",
+          "url": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-700"
+        }
+      ],
+      "alteracoes": {
+        "novos_registros": 2,
+        "catalogo_total": 145,
+        "registros_corrigidos": 0
+      },
+      "observacoes": [
+        "Os 100 vouchers DP-700 são oportunidade condicionada, não gratuidade universal do exame.",
+        "O prazo de inscrição do Santander foi divulgado como 03/11/2026; o portal Santander utiliza conteúdo dinâmico e deve ser consultado no cadastro para regras finais.",
+        "A CompTIA Academic Store e a Emerging Store não tiveram preços e elegibilidade brasileira verificáveis diretamente nesta rodada; nenhuma nova oferta foi publicada.",
+        "Não foram repetidas campanhas Microsoft encerradas ou programas previamente cadastrados."
+      ],
+      "fontes": [
+        "https://www.dio.me/es/acceleration/microsoft-dp-700-certification",
+        "https://learn.microsoft.com/pt-br/credentials/certifications/fabric-data-engineer-associate/",
+        "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-700",
+        "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
+        "https://dio-me.keepo.bio/",
+        "https://vcia.abril.com.br/vida-pessoal/santander-e-dio-lancam-curso-gratuito-para-criacao-de-assistentes-de-ia-para-planejamento-pessoal-e-profissional/"
+      ]
     }
   ]
 }
