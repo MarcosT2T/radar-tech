@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-26",
-  "nota": "Em 26/10/2026 foram incluídas oportunidades de capacitação DIO/Microsoft DP-700 e Santander/DIO Assistente de IA. O voucher DP-700 é apenas uma possibilidade sujeita a regras; curso com certificado não equivale à certificação profissional Microsoft.",
+  "atualizado_em": "2026-10-27",
+  "nota": "Pesquisa de 27/10/2026: AWS SimuLearn tem duas trilhas com badge gratuito (Cloud Practitioner e AI Practitioner); Generative AI Practitioner tem formação gratuita, sem badge individual confirmado. Renovação AWS por atividades exige assinatura paga. Exames SAP-C03 e DVA-C03 têm abertura anunciada para 27/10, mas disponibilidade de agendamento não foi testada. Bootcamps DIO Claro/GFT ficam A confirmar por falta de teste de matrícula.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -2296,17 +2296,18 @@
       "tipo": "Certificação oficial",
       "grupo": "Certificação oficial",
       "status": "A confirmar",
-      "resumo": "Nova versão: inscrição anunciada para 27/10/2026, aplicação a partir de 17/11/2026; SAP-C02 até 16/11; exame US$300.",
-      "descricao": "Nova versão: inscrição anunciada para 27/10/2026, aplicação a partir de 17/11/2026; SAP-C02 até 16/11; exame US$300.",
+      "resumo": "Nova versão: abertura de inscrição prevista para hoje, 27/10/2026, aplicação a partir de 17/11/2026; SAP-C02 até 16/11; exame US$300.",
+      "descricao": "Nova versão: abertura de inscrição prevista para hoje, 27/10/2026, aplicação a partir de 17/11/2026; SAP-C02 até 16/11; exame US$300. A AWS confirma o calendário; não foi verificada disponibilidade de horários em conta Pearson VUE.",
       "url": "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
       "origem": "AWS",
       "brasil": "Acesso online internacional; verificar disponibilidade para residentes no Brasil e requisitos de conta",
-      "beneficio": "Exame pago US$300; inscrição futura em 27/10/2026",
+      "beneficio": "Exame pago US$300; abertura prevista para 27/10/2026; agendamento não testado",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-24",
+      "verificado_em": "2026-10-27",
       "evidencias": [
-        "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/"
+        "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
+        "https://aws.amazon.com/pt/certification/certified-solutions-architect-professional/"
       ],
       "certificado_curso": null
     },
@@ -2318,17 +2319,18 @@
       "tipo": "Certificação oficial",
       "grupo": "Certificação oficial",
       "status": "A confirmar",
-      "resumo": "Nova versão: inscrição anunciada para 27/10/2026, aplicação a partir de 01/12/2026; DVA-C02 até 30/11; exame US$150.",
-      "descricao": "Nova versão: inscrição anunciada para 27/10/2026, aplicação a partir de 01/12/2026; DVA-C02 até 30/11; exame US$150.",
+      "resumo": "Nova versão: abertura de inscrição prevista para hoje, 27/10/2026, aplicação a partir de 01/12/2026; DVA-C02 até 30/11; exame US$150.",
+      "descricao": "Nova versão: abertura de inscrição prevista para hoje, 27/10/2026, aplicação a partir de 01/12/2026; DVA-C02 até 30/11; exame US$150. A AWS confirma o calendário; não foi verificada disponibilidade de horários em conta Pearson VUE.",
       "url": "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
       "origem": "AWS",
       "brasil": "Acesso online internacional; verificar disponibilidade para residentes no Brasil e requisitos de conta",
-      "beneficio": "Exame pago US$150; inscrição futura em 27/10/2026",
+      "beneficio": "Exame pago US$150; abertura prevista para 27/10/2026; agendamento não testado",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-24",
+      "verificado_em": "2026-10-27",
       "evidencias": [
-        "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/"
+        "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
+        "https://aws.amazon.com/pt/certification/certified-developer-associate/"
       ],
       "certificado_curso": null
     },
@@ -3263,6 +3265,139 @@
       "certificado_curso": "Certificado de conclusão DIO/Santander, sujeito a conclusão da formação",
       "inicio_em": "2026-11-24",
       "fim_em": "2027-01-24"
+    },
+    {
+      "id": "rt-146",
+      "nome": "AWS SimuLearn — Cloud Practitioner (badge gratuito)",
+      "fabricante": "AWS",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Credencial prática",
+      "grupo": "Credencial prática",
+      "status": "Vigente",
+      "resumo": "Trilha prática gratuita de simulações de clientes e laboratórios AWS; badge digital oficial emitido ao concluir todas as atividades validadas.",
+      "descricao": "Trilha prática gratuita de simulações de clientes e laboratórios AWS; badge digital oficial emitido ao concluir todas as atividades validadas.",
+      "url": "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/",
+      "origem": "AWS",
+      "brasil": "Acesso online; confirmar requisitos de conta e elegibilidade regional quando aplicável",
+      "beneficio": "Trilha e badge gratuitos; não é exame AWS Certified Cloud Practitioner",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/",
+        "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-generative-ai-practitioner/"
+      ],
+      "certificado_curso": "Badge digital AWS via Credly"
+    },
+    {
+      "id": "rt-147",
+      "nome": "AWS SimuLearn — AI Practitioner (badge gratuito)",
+      "fabricante": "AWS",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Credencial prática",
+      "grupo": "Credencial prática",
+      "status": "Vigente",
+      "resumo": "Trilha prática gratuita de simulações e atividades de IA na AWS; badge digital oficial após conclusão integral e validação das tarefas.",
+      "descricao": "Trilha prática gratuita de simulações e atividades de IA na AWS; badge digital oficial após conclusão integral e validação das tarefas.",
+      "url": "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/",
+      "origem": "AWS",
+      "brasil": "Acesso online; confirmar requisitos de conta e elegibilidade regional quando aplicável",
+      "beneficio": "Trilha e badge gratuitos; não é exame AWS Certified AI Practitioner",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/"
+      ],
+      "certificado_curso": "Badge digital AWS via Credly"
+    },
+    {
+      "id": "rt-148",
+      "nome": "AWS SimuLearn — Generative AI Practitioner",
+      "fabricante": "AWS",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Plano de aprendizagem gratuito com simulações e laboratórios sobre IA generativa, Amazon Bedrock, RAG e assistentes; emissão de badge específica não confirmada.",
+      "descricao": "Plano de aprendizagem gratuito com simulações e laboratórios sobre IA generativa, Amazon Bedrock, RAG e assistentes; emissão de badge específica não confirmada.",
+      "url": "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-generative-ai-practitioner/",
+      "origem": "AWS",
+      "brasil": "Acesso online; confirmar requisitos de conta e elegibilidade regional quando aplicável",
+      "beneficio": "Formação gratuita; badge/certificado específico não confirmado",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-generative-ai-practitioner/"
+      ],
+      "certificado_curso": "A confirmar"
+    },
+    {
+      "id": "rt-149",
+      "nome": "AWS Certification — renovação por atividades no Skill Builder",
+      "fabricante": "AWS",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Beta aberto de manutenção de certificações AWS elegíveis por cursos e laboratórios, sem novo exame. Exige assinatura Skill Builder ativa e certificação a até 90 dias do vencimento; extensão de um ano após cumprimento.",
+      "descricao": "Beta aberto de manutenção de certificações AWS elegíveis por cursos e laboratórios, sem novo exame. Exige assinatura Skill Builder ativa e certificação a até 90 dias do vencimento; extensão de um ano após cumprimento.",
+      "url": "https://aws.amazon.com/ar/blogs/training-and-certification/a-new-way-to-keep-your-aws-certification-current/",
+      "origem": "AWS",
+      "brasil": "Acesso online; confirmar requisitos de conta e elegibilidade regional quando aplicável",
+      "beneficio": "Sem taxa adicional de exame, mas exige assinatura paga Skill Builder e certificação prévia",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://aws.amazon.com/ar/blogs/training-and-certification/a-new-way-to-keep-your-aws-certification-current/"
+      ],
+      "certificado_curso": "Extensão de certificação profissional existente; não concede nova certificação"
+    },
+    {
+      "id": "rt-150",
+      "nome": "DIO + Claro — Coding The Future Java com Spring Boot",
+      "fabricante": "DIO / Claro",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "A confirmar",
+      "resumo": "Página da DIO anuncia matrícula gratuita em Java, POO, Spring, TDD, APIs e microsserviços; a disponibilidade efetiva de vagas e calendário não foi verificada após login.",
+      "descricao": "Página da DIO anuncia matrícula gratuita em Java, POO, Spring, TDD, APIs e microsserviços; a disponibilidade efetiva de vagas e calendário não foi verificada após login.",
+      "url": "https://www.dio.me/bootcamp/coding-the-future-claro-java-spring-boot",
+      "origem": "DIO / Claro",
+      "brasil": "Página em português com formulário brasileiro; conclusão de matrícula e vagas atuais não testadas",
+      "beneficio": "Bolsa gratuita anunciada; matrícula atual não confirmada",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://www.dio.me/bootcamp/coding-the-future-claro-java-spring-boot"
+      ],
+      "certificado_curso": "Certificado de formação DIO sujeito a regras e conclusão"
+    },
+    {
+      "id": "rt-151",
+      "nome": "DIO + GFT — Coding The Future Desenvolvimento Java com IA",
+      "fabricante": "DIO / GFT",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "A confirmar",
+      "resumo": "Página da DIO anuncia bolsa gratuita para Java, POO, SQL, padrões de projeto, APIs Spring Boot e IA; disponibilidade real de vagas e datas não confirmada após login.",
+      "descricao": "Página da DIO anuncia bolsa gratuita para Java, POO, SQL, padrões de projeto, APIs Spring Boot e IA; disponibilidade real de vagas e datas não confirmada após login.",
+      "url": "https://www.dio.me/bootcamp/coding-future-gft-desenvolvimento-java-com-ia",
+      "origem": "DIO / GFT",
+      "brasil": "Página em português com formulário brasileiro; conclusão de matrícula e vagas atuais não testadas",
+      "beneficio": "Bolsa gratuita anunciada; matrícula atual não confirmada",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://www.dio.me/bootcamp/coding-future-gft-desenvolvimento-java-com-ia"
+      ],
+      "certificado_curso": "Certificado de formação DIO sujeito a regras e conclusão"
     }
   ]
 }
