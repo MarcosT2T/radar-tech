@@ -838,6 +838,79 @@
         "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions",
         "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-september-16-october-14/ev-p/166157"
       ]
+    },
+    {
+      "data": "2026-10-27",
+      "titulo": "Complemento 27/10 — Red Hat EX267 com 50% e seis bootcamps gratuitos anunciados",
+      "resumo": "Varredura adicional de fontes oficiais Red Hat e DIO. Uma oferta global confirmada: 50% de desconto no AI267LS com uma tentativa de certificação EX267 incluída até 31/12/2026. Seis bootcamps inéditos ao catálogo em IBM/Confluent, IBM Bob, Java/NTT DATA, AWS/Nublify, segurança/Riachuelo e Azure/XP Inc. Páginas exibem inscrição gratuita, mas a matrícula após login e os prazos não foram testados; estes seis itens permanecem A confirmar. Total do catálogo: 158.",
+      "destaques": [
+        {
+          "titulo": "Red Hat — AI267LS e exame EX267",
+          "tipo": "Desconto oficial de 50% — válido até 31/12/2026",
+          "descricao": "Oferta global no curso OpenShift AI AI267LS, com uma tentativa do exame Red Hat Certified Developer in AI (EX267) incluída. Preço final local depende do checkout.",
+          "url": "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai"
+        },
+        {
+          "titulo": "IBM/Confluent — Dados em tempo real para agentes de IA",
+          "tipo": "Bootcamp gratuito anunciado; matrícula a confirmar",
+          "descricao": "5 mil vagas anunciadas, Kafka, Flink, CDC, RAG e projeto de pipeline em tempo real.",
+          "url": "https://www.dio.me/bootcamp/ibm-confluent-dados-em-tempo-real-para-agentes-de-ia"
+        },
+        {
+          "titulo": "IBM Bob — agentes no desenvolvimento de software",
+          "tipo": "Bootcamp gratuito anunciado; matrícula a confirmar",
+          "descricao": "5 mil vagas anunciadas; Git, MCP, subagentes, governança e projeto final.",
+          "url": "https://www.dio.me/bootcamp/ibm-bob-ia-nivel-empresarial-para-desenvolvedores"
+        },
+        {
+          "titulo": "NTT DATA — AI Java Back-end",
+          "tipo": "Bootcamp gratuito anunciado; matrícula a confirmar",
+          "descricao": "Java, POO, Spring Boot, segurança e monitoramento Azure.",
+          "url": "https://www.dio.me/bootcamp/ntt-data-2026-ai-java-back-end"
+        },
+        {
+          "titulo": "Nublify — AWS Cloud e IA",
+          "tipo": "Bootcamp gratuito anunciado; matrícula a confirmar",
+          "descricao": "AWS Well-Architected, Amazon Bedrock, Nova e AgentCore.",
+          "url": "https://www.dio.me/bootcamp/nublify-primeiros-passos-em-ia-e-cloud"
+        },
+        {
+          "titulo": "Riachuelo — Cibersegurança",
+          "tipo": "Bootcamp gratuito anunciado; matrícula a confirmar",
+          "descricao": "Linux, Kali Linux, proteção de sistemas e defesa com Python.",
+          "url": "https://www.dio.me/bootcamp/riachuelo-ciberseguranca"
+        },
+        {
+          "titulo": "XP Inc. — Cloud com Inteligência Artificial",
+          "tipo": "Bootcamp gratuito anunciado; matrícula a confirmar",
+          "descricao": "Azure, GitHub Copilot, IA generativa e projetos cloud.",
+          "url": "https://www.dio.me/bootcamp/xp-inc-cloud-com-inteligencia-artificial"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 158,
+        "novos_registros": 7,
+        "novas_ofertas_com_beneficio_oficial_confirmado": 1,
+        "novos_programas_com_matricula_a_confirmar": 6
+      },
+      "observacoes": [
+        "A oferta Red Hat é de desconto no curso com exame incluído, não voucher de exame gratuito isolado; período de 01/07 a 31/12/2026 e condições globais.",
+        "Nenhum voucher CompTIA gratuito novo com elegibilidade brasileira comprovada foi identificado nesta rodada.",
+        "CompTIA Academic Store: elegibilidade de estudantes brasileiros e preços finais não foram confirmados nas páginas oficiais acessíveis.",
+        "Bootcamps DIO: formulário público não comprova que vagas ainda existam nem que o cadastro seja aceito; nenhum prazo de encerramento foi inventado.",
+        "Certificado de curso DIO não equivale a certificação profissional IBM, AWS, Microsoft, Oracle ou CompTIA.",
+        "Páginas antigas de desafios Microsoft Fabric com vouchers de 2025 e fevereiro de 2026 não foram tratadas como ofertas abertas."
+      ],
+      "fontes": [
+        "https://docs.redhat.com/en/documentation/red_hat_learning_subscription/1-latest/html/terms_and_conditions_for_ai267ls/index",
+        "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai",
+        "https://www.dio.me/bootcamp/ibm-confluent-dados-em-tempo-real-para-agentes-de-ia",
+        "https://www.dio.me/bootcamp/ibm-bob-ia-nivel-empresarial-para-desenvolvedores",
+        "https://www.dio.me/bootcamp/ntt-data-2026-ai-java-back-end",
+        "https://www.dio.me/bootcamp/nublify-primeiros-passos-em-ia-e-cloud",
+        "https://www.dio.me/bootcamp/riachuelo-ciberseguranca",
+        "https://www.dio.me/bootcamp/xp-inc-cloud-com-inteligencia-artificial"
+      ]
     }
   ]
 }
