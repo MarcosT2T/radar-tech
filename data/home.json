@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-26",
+  "atualizado_em": "2026-10-27",
   "analises": [
     {
       "data": "2026-10-23",
@@ -759,6 +759,84 @@
         "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
         "https://dio-me.keepo.bio/",
         "https://vcia.abril.com.br/vida-pessoal/santander-e-dio-lancam-curso-gratuito-para-criacao-de-assistentes-de-ia-para-planejamento-pessoal-e-profissional/"
+      ]
+    },
+    {
+      "data": "2026-10-27",
+      "titulo": "Radar Tech — 27/10: badges gratuitos AWS SimuLearn, Java e atualização de exames",
+      "resumo": "Pesquisa em fontes oficiais de AWS, Microsoft, Cisco, Oracle, CompTIA, ISC2, Databricks, Neo4j, Linux Foundation, GitHub e DIO identificou seis oportunidades ainda não individualizadas no catálogo: duas trilhas gratuitas AWS SimuLearn com badges oficiais, uma formação gratuita de IA generativa, um programa de manutenção de certificações AWS que exige assinatura paga e dois bootcamps Java da DIO com matrícula ainda não confirmada. Foram revisados os exames SAP-C03 e DVA-C03, cuja abertura de inscrições foi anunciada para 27/10/2026, sem comprovação de disponibilidade efetiva de agendamento. Não foi identificada nova campanha universal de voucher gratuito para exames profissionais nas fontes verificadas.",
+      "destaques": [
+        {
+          "titulo": "AWS SimuLearn — Cloud Practitioner e AI Practitioner",
+          "tipo": "Credenciais práticas: duas trilhas e badges gratuitos",
+          "descricao": "A AWS confirma duas trilhas gratuitas com badge oficial via Credly após conclusão e validação de todas as atividades; não são exames AWS Certification.",
+          "url": "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/"
+        },
+        {
+          "titulo": "AWS SimuLearn — Generative AI Practitioner",
+          "tipo": "Programa de formação gratuito",
+          "descricao": "Simulações e laboratórios sobre IA generativa, Bedrock, RAG e assistentes; certificado ou badge individual não confirmado.",
+          "url": "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-generative-ai-practitioner/"
+        },
+        {
+          "titulo": "AWS — manutenção de certificação por cursos e labs",
+          "tipo": "Manutenção de certificação profissional com assinatura paga",
+          "descricao": "Beta aberto para certificados elegíveis nos últimos 90 dias de validade; requer assinatura Skill Builder ativa e pode estender a credencial por um ano sem novo exame.",
+          "url": "https://aws.amazon.com/ar/blogs/training-and-certification/a-new-way-to-keep-your-aws-certification-current/"
+        },
+        {
+          "titulo": "DIO + Claro — Java com Spring Boot",
+          "tipo": "Programa de formação; vaga A confirmar",
+          "descricao": "Página oficial anuncia bolsa gratuita para Java, POO, Spring, TDD e microsserviços, mas a matrícula atual não foi confirmada após autenticação.",
+          "url": "https://www.dio.me/bootcamp/coding-the-future-claro-java-spring-boot"
+        },
+        {
+          "titulo": "DIO + GFT — Desenvolvimento Java com IA",
+          "tipo": "Programa de formação; vaga A confirmar",
+          "descricao": "Página oficial anuncia bolsa gratuita para Java, POO, padrões de projeto e Spring Boot; vaga atual não confirmada após autenticação.",
+          "url": "https://www.dio.me/bootcamp/coding-future-gft-desenvolvimento-java-com-ia"
+        },
+        {
+          "titulo": "AWS SAP-C03 e DVA-C03 — inscrições previstas para 27/10",
+          "tipo": "Certificações profissionais pagas",
+          "descricao": "AWS anuncia abertura de inscrição em 27/10/2026; aplicação a partir de 17/11 (SAP-C03, US$300) e 01/12 (DVA-C03, US$150). Horários de agendamento não verificados.",
+          "url": "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 145,
+        "novos_registros": 6,
+        "catalogo_total": 151,
+        "registros_revisados": 2,
+        "novas_campanhas_universais_exame_gratuito": 0,
+        "arquivos_previstos": [
+          "data/opportunities.json",
+          "data/home.json"
+        ]
+      },
+      "observacoes": [
+        "As seis oportunidades são novas no catálogo, mas não foram necessariamente lançadas em 27/10.",
+        "Duas trilhas AWS SimuLearn com badges gratuitos estão confirmadas em anúncio oficial de julho de 2026; outras dez trilhas SimuLearn exigem assinatura.",
+        "A trilha Generative AI Practitioner é gratuita, mas não foi prometido badge individual.",
+        "A renovação AWS por atividades não é gratuita para quem não possui assinatura Skill Builder ativa e exige certificação profissional prévia elegível.",
+        "Os bootcamps DIO exibem formulário de matrícula gratuita, mas a confirmação efetiva de vagas exige autenticação; registros A confirmar.",
+        "O anúncio oficial AWS fixa a abertura dos exames SAP-C03 e DVA-C03 para 27/10, mas não houve teste de horários no portal de provas; ambos permanecem A confirmar.",
+        "Não identificar nova campanha nas fontes pesquisadas não equivale a falha de pesquisa nem prova inexistência global de ofertas.",
+        "Prazos existentes continuam relevantes: Santander/DIO Assistente de IA até 03/11; Cisco LATAM até 22/11; Oracle Race 2025 aceita uso de tentativas elegíveis até 31/10, mas não novas inscrições.",
+        "A pesquisa não envolveu cadastro individual, compra, APIs pagas ou confirmação visual de publicação no GitHub Pages."
+      ],
+      "fontes": [
+        "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/",
+        "https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-generative-ai-practitioner/",
+        "https://aws.amazon.com/ar/blogs/training-and-certification/a-new-way-to-keep-your-aws-certification-current/",
+        "https://www.dio.me/bootcamp/coding-the-future-claro-java-spring-boot",
+        "https://www.dio.me/bootcamp/coding-future-gft-desenvolvimento-java-com-ia",
+        "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
+        "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+        "https://blogs.oracle.com/oracleuniversity/announcing-race-to-certification-2025",
+        "https://www.isc2.org/landing/1mcc",
+        "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions",
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-september-16-october-14/ev-p/166157"
       ]
     }
   ]
