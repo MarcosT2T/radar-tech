@@ -1,6 +1,6 @@
 {
   "atualizado_em": "2026-10-27",
-  "nota": "Pesquisa de 27/10/2026: AWS SimuLearn tem duas trilhas com badge gratuito (Cloud Practitioner e AI Practitioner); Generative AI Practitioner tem formação gratuita, sem badge individual confirmado. Renovação AWS por atividades exige assinatura paga. Exames SAP-C03 e DVA-C03 têm abertura anunciada para 27/10, mas disponibilidade de agendamento não foi testada. Bootcamps DIO Claro/GFT ficam A confirmar por falta de teste de matrícula.",
+  "nota": "27/10/2026: ofertas verificadas em páginas oficiais. Campanha Red Hat global 50% AI267LS com exame EX267 incluso; bootcamps DIO com formulário público, mas elegibilidade, prazo e matrícula efetiva não testados, classificados A confirmar. Certificado de bootcamp não equivale a certificação profissional.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -3398,6 +3398,161 @@
         "https://www.dio.me/bootcamp/coding-future-gft-desenvolvimento-java-com-ia"
       ],
       "certificado_curso": "Certificado de formação DIO sujeito a regras e conclusão"
+    },
+    {
+      "id": "rt-152",
+      "nome": "Red Hat AI267LS — 50% de desconto e exame EX267 incluído",
+      "fabricante": "Red Hat",
+      "categoria": "Dados e Inteligência Artificial",
+      "grupo": "Campanha de voucher",
+      "status": "Vigente",
+      "resumo": "Oferta global Red Hat: 50% de desconto no curso AI267LS de OpenShift AI, incluindo uma tentativa do exame oficial EX267. Válida até 31/12/2026; não é exame gratuito isolado.",
+      "url": "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai",
+      "beneficio": "50% de desconto sobre preço local do AI267LS; 1 tentativa do EX267 incluída",
+      "brasil": "Oferta global, página oficial pt-BR; compra e valor final em reais não testados",
+      "inscricao_ate": "2026-12-31",
+      "certificado_curso": "Certificação Red Hat EX267 apenas mediante aprovação no exame",
+      "evidencias": [
+        "https://docs.redhat.com/en/documentation/red_hat_learning_subscription/1-latest/html/terms_and_conditions_for_ai267ls/index",
+        "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai"
+      ],
+      "tipo": "Campanha de voucher",
+      "descricao": "Oferta global Red Hat: 50% de desconto no curso AI267LS de OpenShift AI, incluindo uma tentativa do exame oficial EX267. Válida até 31/12/2026; não é exame gratuito isolado.",
+      "origem": "Red Hat",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27"
+    },
+    {
+      "id": "rt-153",
+      "nome": "DIO + IBM/Confluent — Dados em tempo real para agentes de IA",
+      "fabricante": "DIO",
+      "categoria": "Dados e Inteligência Artificial",
+      "grupo": "Programa de formação",
+      "status": "A confirmar",
+      "resumo": "Bootcamp anunciado com 5 mil vagas gratuitas, Kafka, Confluent Cloud, CDC, Apache Flink e RAG. Página exibe matrícula, mas vaga efetiva após cadastro e prazo não foram verificados.",
+      "url": "https://www.dio.me/bootcamp/ibm-confluent-dados-em-tempo-real-para-agentes-de-ia",
+      "beneficio": "Bolsa de formação anunciada; certificado DIO após conclusão, sujeito a regras",
+      "brasil": "Formulário em português e telefone +55; matrícula não testada",
+      "certificado_curso": "Certificado DIO de conclusão, não certificação profissional IBM/Confluent",
+      "tipo": "Programa de formação",
+      "descricao": "Bootcamp anunciado com 5 mil vagas gratuitas, Kafka, Confluent Cloud, CDC, Apache Flink e RAG. Página exibe matrícula, mas vaga efetiva após cadastro e prazo não foram verificados.",
+      "origem": "DIO",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://www.dio.me/bootcamp/ibm-confluent-dados-em-tempo-real-para-agentes-de-ia"
+      ]
+    },
+    {
+      "id": "rt-154",
+      "nome": "DIO + IBM — IBM Bob para desenvolvedores e Tech Leaders",
+      "fabricante": "DIO",
+      "categoria": "Dados e Inteligência Artificial",
+      "grupo": "Programa de formação",
+      "status": "A confirmar",
+      "resumo": "Bootcamp com 5 mil vagas gratuitas anunciadas, agentes de IA no ciclo de software, Git, MCP, governança e projeto de portfólio. Cadastro não testado.",
+      "url": "https://www.dio.me/bootcamp/ibm-bob-ia-nivel-empresarial-para-desenvolvedores",
+      "beneficio": "Formação gratuita anunciada; certificado DIO de conclusão",
+      "brasil": "Formulário em português e telefone +55; matrícula não testada",
+      "certificado_curso": "Certificado DIO, não certificação IBM",
+      "tipo": "Programa de formação",
+      "descricao": "Bootcamp com 5 mil vagas gratuitas anunciadas, agentes de IA no ciclo de software, Git, MCP, governança e projeto de portfólio. Cadastro não testado.",
+      "origem": "DIO",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://www.dio.me/bootcamp/ibm-bob-ia-nivel-empresarial-para-desenvolvedores"
+      ]
+    },
+    {
+      "id": "rt-155",
+      "nome": "DIO + NTT DATA — AI Java Back-end e Spring Boot",
+      "fabricante": "DIO",
+      "categoria": "Desenvolvimento e DevOps",
+      "grupo": "Programa de formação",
+      "status": "A confirmar",
+      "resumo": "Bootcamp Java com POO, APIs REST, Spring Boot, Spring Security, design patterns, monitoramento Azure e projeto de API com reconhecimento de fala. Matrícula anunciada; disponibilidade não testada.",
+      "url": "https://www.dio.me/bootcamp/ntt-data-2026-ai-java-back-end",
+      "beneficio": "Bolsa de formação anunciada; certificado DIO de conclusão",
+      "brasil": "Formulário em português e telefone +55; matrícula não testada",
+      "certificado_curso": "Certificado DIO, não exame Oracle Java",
+      "tipo": "Programa de formação",
+      "descricao": "Bootcamp Java com POO, APIs REST, Spring Boot, Spring Security, design patterns, monitoramento Azure e projeto de API com reconhecimento de fala. Matrícula anunciada; disponibilidade não testada.",
+      "origem": "DIO",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://www.dio.me/bootcamp/ntt-data-2026-ai-java-back-end"
+      ]
+    },
+    {
+      "id": "rt-156",
+      "nome": "DIO + Nublify — Primeiros passos em IA e Cloud AWS",
+      "fabricante": "DIO",
+      "categoria": "Cloud e Infraestrutura",
+      "grupo": "Programa de formação",
+      "status": "A confirmar",
+      "resumo": "Bootcamp gratuito anunciado sobre arquitetura AWS, Bedrock, Amazon Nova, AgentCore e projetos práticos; não inclui voucher AWS Certification anunciado.",
+      "url": "https://www.dio.me/bootcamp/nublify-primeiros-passos-em-ia-e-cloud",
+      "beneficio": "Bolsa de formação anunciada; certificado DIO de conclusão",
+      "brasil": "Formulário em português e telefone +55; matrícula não testada",
+      "certificado_curso": "Certificado DIO, não AWS Certification",
+      "tipo": "Programa de formação",
+      "descricao": "Bootcamp gratuito anunciado sobre arquitetura AWS, Bedrock, Amazon Nova, AgentCore e projetos práticos; não inclui voucher AWS Certification anunciado.",
+      "origem": "DIO",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://www.dio.me/bootcamp/nublify-primeiros-passos-em-ia-e-cloud"
+      ]
+    },
+    {
+      "id": "rt-157",
+      "nome": "DIO + Riachuelo — Cibersegurança",
+      "fabricante": "DIO",
+      "categoria": "Redes e Cibersegurança",
+      "grupo": "Programa de formação",
+      "status": "A confirmar",
+      "resumo": "Bootcamp gratuito anunciado com Linux, Kali Linux, fundamentos de segurança, defesa com Python e exercícios de análise de vulnerabilidades; matrícula não testada.",
+      "url": "https://www.dio.me/bootcamp/riachuelo-ciberseguranca",
+      "beneficio": "Bolsa de formação anunciada; certificado DIO de conclusão",
+      "brasil": "Formulário em português e telefone +55; matrícula não testada",
+      "certificado_curso": "Certificado DIO, não CompTIA Security+",
+      "tipo": "Programa de formação",
+      "descricao": "Bootcamp gratuito anunciado com Linux, Kali Linux, fundamentos de segurança, defesa com Python e exercícios de análise de vulnerabilidades; matrícula não testada.",
+      "origem": "DIO",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://www.dio.me/bootcamp/riachuelo-ciberseguranca"
+      ]
+    },
+    {
+      "id": "rt-158",
+      "nome": "DIO + XP Inc. — Cloud com Inteligência Artificial",
+      "fabricante": "DIO",
+      "categoria": "Cloud e Infraestrutura",
+      "grupo": "Programa de formação",
+      "status": "A confirmar",
+      "resumo": "Bootcamp gratuito anunciado com Azure, IA generativa, engenharia de prompts, GitHub Copilot e serviços de IA em nuvem; inscrição real não testada.",
+      "url": "https://www.dio.me/bootcamp/xp-inc-cloud-com-inteligencia-artificial",
+      "beneficio": "Bolsa de formação anunciada; certificado DIO de conclusão",
+      "brasil": "Formulário em português e telefone +55; matrícula não testada",
+      "certificado_curso": "Certificado DIO, não Microsoft Certification",
+      "tipo": "Programa de formação",
+      "descricao": "Bootcamp gratuito anunciado com Azure, IA generativa, engenharia de prompts, GitHub Copilot e serviços de IA em nuvem; inscrição real não testada.",
+      "origem": "DIO",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-27",
+      "evidencias": [
+        "https://www.dio.me/bootcamp/xp-inc-cloud-com-inteligencia-artificial"
+      ]
     }
   ]
 }
