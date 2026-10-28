@@ -1004,6 +1004,41 @@
         "https://learn.microsoft.com/en-us/credentials/certifications/student-discounts",
         "https://www.isc2.org/landing/1mcc"
       ]
+    },
+    {
+      "data": "2026-10-28",
+      "titulo": "Complemento 28/10 — desconto CompTIA Security+ via Google e hackathon NASA virtual",
+      "resumo": "Duas oportunidades ainda não registradas no catálogo foram identificadas em fontes oficiais. Concluintes do Google Cybersecurity Professional Certificate têm acesso anunciado a desconto no exame e treinamento CompTIA Security+, mas valor, regras de resgate e aceitação no Brasil não foram validados. A edição brasileira virtual do NASA Space Apps Challenge em Santa Cruz das Palmeiras permite participação remota de qualquer lugar, com prazo de submissão de projetos em 15/11/2026. Catálogo ampliado de 168 para 170 itens.",
+      "destaques": [
+        {
+          "titulo": "Google Cybersecurity → desconto CompTIA Security+",
+          "tipo": "Desconto condicionado; Brasil a confirmar",
+          "descricao": "Benefício anunciado para concluintes do certificado profissional Google. Não é voucher gratuito, e o custo do curso pode exigir assinatura Coursera. Não há confirmação do percentual nem de resgate no Brasil.",
+          "url": "https://www.coursera.org/professional-certificates/google-cybersecurity/"
+        },
+        {
+          "titulo": "NASA Space Apps Challenge — modalidade virtual brasileira",
+          "tipo": "Hackathon e desafio",
+          "descricao": "Santa Cruz das Palmeiras aceita participação online de qualquer lugar. Submissão de projetos até 15/11/2026, às 23h59 no fuso do criador da equipe. Gratuidade de inscrição não explicitada na página consultada.",
+          "url": "https://www.spaceappschallenge.org/2026/local-events/santa-cruz-das-palmeiras/"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 170,
+        "novos_registros": 2,
+        "registros_repetidos": 0
+      },
+      "observacoes": [
+        "Os dois registros não estavam no catálogo na leitura desta rodada; não foram repetidas as certificações AWS DVA-C03/SAP-C03, campanhas Linux Foundation e piloto ISC2 já publicados em 28/10.",
+        "O benefício CompTIA via Google depende de concluir um curso possivelmente pago e de elegibilidade; não há confirmação de desconto acadêmico CompTIA para estudantes brasileiros.",
+        "NASA Space Apps: participação remota confirmada pela organização local; custo de inscrição não explicitamente verificado.",
+        "Nenhum novo voucher oficial CompTIA gratuito ou desconto estudantil utilizável no Brasil foi confirmado nesta rodada."
+      ],
+      "fontes": [
+        "https://www.coursera.org/professional-certificates/google-cybersecurity/",
+        "https://grow.google/intl/en_in/cybersecurity-course",
+        "https://www.spaceappschallenge.org/2026/local-events/santa-cruz-das-palmeiras/"
+      ]
     }
   ]
 }
