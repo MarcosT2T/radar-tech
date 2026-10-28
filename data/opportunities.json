@@ -3780,6 +3780,51 @@
         "https://huggingface.co/learn/agents-course/en/unit0/introduction"
       ],
       "certificado_curso": "Certificado gratuito de fundamentos e conclusão mediante requisitos"
+    },
+    {
+      "id": "rt-169",
+      "nome": "Google Cybersecurity Professional Certificate — desconto CompTIA Security+ para concluintes",
+      "fabricante": "Google / Coursera / CompTIA",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "status": "A confirmar",
+      "resumo": "Concluintes do certificado profissional Google Cybersecurity têm acesso anunciado a desconto no exame e treinamento CompTIA Security+. Valor percentual, emissão do benefício e resgate no Brasil ainda não confirmados.",
+      "descricao": "A Coursera confirma que concluintes do Google Cybersecurity Professional Certificate podem acessar exame e treinamento CompTIA Security+ com desconto. O programa de formação pode ter cobrança de assinatura; não é certificação CompTIA, nem voucher gratuito. Acesso efetivo do desconto para residentes no Brasil depende de confirmação no fluxo de resgate.",
+      "url": "https://www.coursera.org/professional-certificates/google-cybersecurity/",
+      "origem": "Coursera / Google",
+      "brasil": "Curso disponível online; aplicação do desconto CompTIA no Brasil não validada no checkout",
+      "beneficio": "Desconto condicional após conclusão de formação Google; percentual e disponibilidade brasileira a confirmar",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://www.coursera.org/professional-certificates/google-cybersecurity/",
+        "https://grow.google/intl/en_in/cybersecurity-course"
+      ],
+      "certificado_curso": "Certificado profissional de curso Google; exame CompTIA Security+ é independente"
+    },
+    {
+      "id": "rt-170",
+      "nome": "NASA Space Apps Challenge 2026 — Santa Cruz das Palmeiras (participação virtual)",
+      "fabricante": "NASA Space Apps Challenge",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Evento e desafio",
+      "grupo": "Evento e desafio",
+      "status": "Vigente",
+      "resumo": "Hackathon oficial com modalidade virtual e presencial; organizador local aceita participantes online de qualquer lugar. Prazo para entrega de projetos: 15/11/2026 às 23h59 no horário do criador da equipe.",
+      "descricao": "Evento local brasileiro do NASA Space Apps Challenge 2026, com participação virtual explicitamente permitida de qualquer lugar. Projetos usam desafios e dados relacionados à Terra e ao espaço. Página oficial indica entrega até 15/11/2026, 23h59 horário local do criador da equipe; taxa de participação não foi explicitamente verificada.",
+      "url": "https://www.spaceappschallenge.org/2026/local-events/santa-cruz-das-palmeiras/",
+      "origem": "NASA Space Apps Challenge",
+      "brasil": "Sim: participação virtual permitida a partir de qualquer lugar, conforme página oficial do evento local brasileiro",
+      "beneficio": "Hackathon online e presencial; custo de inscrição não informado na página consultada",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://www.spaceappschallenge.org/2026/local-events/santa-cruz-das-palmeiras/"
+      ],
+      "certificado_curso": null
     }
   ]
 }
