@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-27",
+  "atualizado_em": "2026-10-28",
   "analises": [
     {
       "data": "2026-10-23",
@@ -910,6 +910,99 @@
         "https://www.dio.me/bootcamp/nublify-primeiros-passos-em-ia-e-cloud",
         "https://www.dio.me/bootcamp/riachuelo-ciberseguranca",
         "https://www.dio.me/bootcamp/xp-inc-cloud-com-inteligencia-artificial"
+      ]
+    },
+    {
+      "data": "2026-10-28",
+      "titulo": "Radar Tech — 28/10: ISC2 piloto gratuito, Linux Foundation 35–40% e novas credenciais de IA",
+      "resumo": "Pesquisa de 28/10/2026 em fontes oficiais de ISC2, Linux Foundation, AWS, Databricks, Hugging Face, Microsoft, Cisco, Oracle, CompTIA, Neo4j, GitHub e DIO: dez oportunidades confirmadas e inéditas no catálogo (piloto ISC2 gratuito com seleção, dois descontos Linux Foundation, duas certificações profissionais pagas e cinco cursos com badges/certificados gratuitos), além de três revisões. O catálogo passou de 158 para 168 registros. A AWS confirmou oficialmente que as inscrições SAP-C03 e DVA-C03 estão abertas desde 27/10. Não foi encontrada nova campanha universal de exame profissional gratuito nas fontes consultadas; isso é ausência de novidade confirmada nessa modalidade, não falha na pesquisa.",
+      "destaques": [
+        {
+          "titulo": "ISC2 AI Security — exame piloto gratuito por seleção",
+          "tipo": "Exame piloto gratuito condicionado; inscrição de interesse",
+          "descricao": "Manifestação de interesse antes de 04/11/2026; até 3.000 candidatos selecionados. Exige experiência profissional, prova presencial em inglês em Pearson Professional Center; local elegível no Brasil não verificado. Certificação futura condicionada à aprovação do programa piloto e requisitos.",
+          "url": "https://www.isc2.org/new-ai-certification"
+        },
+        {
+          "titulo": "Linux Foundation — TREATS35: 35% até 29/10",
+          "tipo": "Campanha de desconto vigente",
+          "descricao": "Desconto de 35% em cursos e certificações elegíveis, com código TREATS35, até 29/10/2026 às 23h59 UTC. Não acumulável e não é exame gratuito.",
+          "url": "https://training.linuxfoundation.org/october-2026-flash/"
+        },
+        {
+          "titulo": "Linux Foundation — ATO26: 40% até 30/10",
+          "tipo": "Campanha de desconto; elegibilidade A confirmar",
+          "descricao": "Página oficial de benefício a participantes do All Things Open 2026 anuncia 40% em cursos, exames e bundles elegíveis com código ATO26. Condição individual de participante e aceitação no checkout não verificadas.",
+          "url": "https://training.linuxfoundation.org/ato-2026/"
+        },
+        {
+          "titulo": "AWS — inscrições SAP-C03 e DVA-C03 abertas",
+          "tipo": "Certificações profissionais pagas",
+          "descricao": "Anúncio oficial de 27/10 confirma inscrições abertas; SAP-C03 US$300 com aplicação a partir de 17/11; DVA-C03 US$150 a partir de 01/12. Horários individuais não verificados.",
+          "url": "https://aws.amazon.com/blogs/training-and-certification/register-now-updated-developer-associate-and-solutions-architect-professional-exams/"
+        },
+        {
+          "titulo": "Linux Foundation — MCPA e PTCA",
+          "tipo": "Duas certificações profissionais pagas",
+          "descricao": "Exames de Model Context Protocol e PyTorch por US$250 cada antes de descontos; MCPA cobre arquitetura e segurança de MCP, PTCA cobre desenvolvimento e otimização de modelos.",
+          "url": "https://training.linuxfoundation.org/certification/model-context-protocol-associate-mcpa/"
+        },
+        {
+          "titulo": "Databricks — Fundamentals e Generative AI Fundamentals",
+          "tipo": "Dois cursos com badges gratuitos",
+          "descricao": "Formações gratuitas sob demanda com badge digital após conclusão/avaliação; não são exames profissionais Databricks.",
+          "url": "https://www.databricks.com/learn/training/home"
+        },
+        {
+          "titulo": "Hugging Face — MCP Course",
+          "tipo": "Curso com certificado gratuito",
+          "descricao": "Formação gratuita em Model Context Protocol e integrações de ferramentas; certificados de curso gratuitos mediante avaliações. Distinto da certificação MCPA paga.",
+          "url": "https://huggingface.co/learn/mcp-course/en/unit0/introduction"
+        },
+        {
+          "titulo": "Hugging Face — Context Course e AI Agents Course",
+          "tipo": "Dois cursos com certificados gratuitos",
+          "descricao": "Context Fundamentals requer quizzes com 70% e nível avançado exige capstone; Agents Fundamentals requer Unidade 1 e quiz de 80%. Não são certificações profissionais por exame.",
+          "url": "https://huggingface.co/learn/agents-course/en/unit0/introduction"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 158,
+        "novos_registros": 10,
+        "catalogo_total": 168,
+        "registros_revisados": 3,
+        "novas_campanhas_universais_de_exame_profissional_gratuito": 0,
+        "novas_oportunidades_gratuitas_com_selecao": 1,
+        "campanhas_desconto_novas": 2,
+        "novas_certificacoes_profissionais_pagas": 2,
+        "novos_cursos_com_certificado_ou_badge_gratuito": 5,
+        "atualizacao_catalogo_commit": "3b0451922380c9cf94cf00280d4be879bdc8ff88"
+      },
+      "observacoes": [
+        "ISC2: o exame piloto é gratuito apenas para selecionados e requer quatro anos de experiência relevante, com critérios de substituição; certificação final depende da validação do piloto e aprovação do candidato.",
+        "ISC2: manifestação de interesse antes de 04/11/2026; a prova não é remota, é em inglês e exige Pearson Professional Center; não foi comprovada disponibilidade de centro elegível no Brasil.",
+        "Linux Foundation TREATS35: promoção de 28 a 29/10/2026, 23h59 UTC; 35% de desconto em compras elegíveis e não cumulativas.",
+        "Linux Foundation ATO26: página indica benefício de participante do evento; elegibilidade individual brasileira e aplicação do cupom não testadas, por isso A confirmar.",
+        "AWS: status das inscrições SAP-C03 e DVA-C03 alterado de A confirmar para Vigente com base no anúncio oficial de abertura em 27/10; disponibilidade de agendamento em conta individual não foi testada.",
+        "Databricks e Hugging Face: certificados de curso e badges são diferentes de certificações profissionais supervisionadas.",
+        "Não se encontrou nova campanha universal de exame profissional gratuito nas fontes pesquisadas; pesquisa executada com sucesso, sem confundir ausência de novidades com falha de consulta.",
+        "Prazos já catalogados continuam relevantes: Santander + DIO Assistente de IA até 03/11; Cisco Missão LATAM até 22/11; Oracle Race 2025, quando elegível, até 31/10.",
+        "Fontes Microsoft, Cisco, Oracle, CompTIA, Neo4j, GitHub e DIO foram pesquisadas para novidades, mas nenhuma outra oferta foi adicionada sem evidência suficiente.",
+        "Não houve autenticação pessoal, compra, teste de resgate de voucher nem teste visual do GitHub Pages; não foram usadas APIs pagas."
+      ],
+      "fontes": [
+        "https://www.isc2.org/new-ai-certification",
+        "https://training.linuxfoundation.org/october-2026-flash/",
+        "https://training.linuxfoundation.org/ato-2026/",
+        "https://training.linuxfoundation.org/certification/model-context-protocol-associate-mcpa/",
+        "https://training.linuxfoundation.org/certification/pytorch-certified-associate-ptca/",
+        "https://aws.amazon.com/blogs/training-and-certification/register-now-updated-developer-associate-and-solutions-architect-professional-exams/",
+        "https://www.databricks.com/learn/training/home",
+        "https://huggingface.co/learn/mcp-course/en/unit0/introduction",
+        "https://huggingface.co/learn/context-course/en/unit0/introduction",
+        "https://huggingface.co/learn/agents-course/en/unit0/introduction",
+        "https://learn.microsoft.com/en-us/credentials/certifications/student-discounts",
+        "https://www.isc2.org/landing/1mcc"
       ]
     }
   ]
