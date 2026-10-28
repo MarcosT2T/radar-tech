@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-27",
-  "nota": "27/10/2026: ofertas verificadas em páginas oficiais. Campanha Red Hat global 50% AI267LS com exame EX267 incluso; bootcamps DIO com formulário público, mas elegibilidade, prazo e matrícula efetiva não testados, classificados A confirmar. Certificado de bootcamp não equivale a certificação profissional.",
+  "atualizado_em": "2026-10-28",
+  "nota": "Radar Tech 28/10/2026: 10 oportunidades confirmadas em fontes oficiais, duas campanhas de desconto (uma condicional ao evento), piloto ISC2 gratuito com seleção e requisitos de experiência, duas certificações profissionais pagas, quatro cursos Hugging Face/Databricks com badges/certificados. Status A confirmar significa elegibilidade ou matrícula não confirmada. Nenhuma nova oferta universal de exame profissional gratuito identificada na amostra de fontes consultadas.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -2295,17 +2295,18 @@
       "categoria": "Cloud e Infraestrutura",
       "tipo": "Certificação oficial",
       "grupo": "Certificação oficial",
-      "status": "A confirmar",
-      "resumo": "Nova versão: abertura de inscrição prevista para hoje, 27/10/2026, aplicação a partir de 17/11/2026; SAP-C02 até 16/11; exame US$300.",
-      "descricao": "Nova versão: abertura de inscrição prevista para hoje, 27/10/2026, aplicação a partir de 17/11/2026; SAP-C02 até 16/11; exame US$300. A AWS confirma o calendário; não foi verificada disponibilidade de horários em conta Pearson VUE.",
-      "url": "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
+      "status": "Vigente",
+      "resumo": "AWS confirmou abertura das inscrições SAP-C03 em 27/10/2026; aplicação a partir de 17/11 e SAP-C02 até 16/11. Exame pago US$300.",
+      "descricao": "AWS confirmou abertura das inscrições SAP-C03 em 27/10/2026; aplicação a partir de 17/11 e SAP-C02 até 16/11. Exame pago US$300. Disponibilidade de horário individual depende da Pearson VUE.",
+      "url": "https://aws.amazon.com/blogs/training-and-certification/register-now-updated-developer-associate-and-solutions-architect-professional-exams/",
       "origem": "AWS",
       "brasil": "Acesso online internacional; verificar disponibilidade para residentes no Brasil e requisitos de conta",
-      "beneficio": "Exame pago US$300; abertura prevista para 27/10/2026; agendamento não testado",
+      "beneficio": "Inscrições oficialmente abertas desde 27/10/2026; exame pago US$300; horários individuais não testados",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-27",
+      "verificado_em": "2026-10-28",
       "evidencias": [
+        "https://aws.amazon.com/blogs/training-and-certification/register-now-updated-developer-associate-and-solutions-architect-professional-exams/",
         "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
         "https://aws.amazon.com/pt/certification/certified-solutions-architect-professional/"
       ],
@@ -2318,17 +2319,18 @@
       "categoria": "Desenvolvimento e DevOps",
       "tipo": "Certificação oficial",
       "grupo": "Certificação oficial",
-      "status": "A confirmar",
-      "resumo": "Nova versão: abertura de inscrição prevista para hoje, 27/10/2026, aplicação a partir de 01/12/2026; DVA-C02 até 30/11; exame US$150.",
-      "descricao": "Nova versão: abertura de inscrição prevista para hoje, 27/10/2026, aplicação a partir de 01/12/2026; DVA-C02 até 30/11; exame US$150. A AWS confirma o calendário; não foi verificada disponibilidade de horários em conta Pearson VUE.",
-      "url": "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
+      "status": "Vigente",
+      "resumo": "AWS confirmou abertura das inscrições DVA-C03 em 27/10/2026; aplicação a partir de 01/12 e DVA-C02 até 30/11. Exame pago US$150.",
+      "descricao": "AWS confirmou abertura das inscrições DVA-C03 em 27/10/2026; aplicação a partir de 01/12 e DVA-C02 até 30/11. Exame pago US$150. Disponibilidade de horário individual depende da Pearson VUE.",
+      "url": "https://aws.amazon.com/blogs/training-and-certification/register-now-updated-developer-associate-and-solutions-architect-professional-exams/",
       "origem": "AWS",
       "brasil": "Acesso online internacional; verificar disponibilidade para residentes no Brasil e requisitos de conta",
-      "beneficio": "Exame pago US$150; abertura prevista para 27/10/2026; agendamento não testado",
+      "beneficio": "Inscrições oficialmente abertas desde 27/10/2026; exame pago US$150; horários individuais não testados",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-27",
+      "verificado_em": "2026-10-28",
       "evidencias": [
+        "https://aws.amazon.com/blogs/training-and-certification/register-now-updated-developer-associate-and-solutions-architect-professional-exams/",
         "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
         "https://aws.amazon.com/pt/certification/certified-developer-associate/"
       ],
@@ -2549,8 +2551,9 @@
       "beneficio": "Curso e badge gratuitos; não é certificação profissional por exame",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-24",
+      "verificado_em": "2026-10-28",
       "evidencias": [
+        "https://www.databricks.com/learn/training/home",
         "https://www.databricks.com/learn/training/certification"
       ],
       "certificado_curso": "Badge Databricks"
@@ -3553,6 +3556,230 @@
       "evidencias": [
         "https://www.dio.me/bootcamp/xp-inc-cloud-com-inteligencia-artificial"
       ]
+    },
+    {
+      "id": "rt-159",
+      "nome": "ISC2 — piloto gratuito de certificação AI Security (seleção)",
+      "fabricante": "ISC2",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "status": "Vigente",
+      "resumo": "Manifestação de interesse para exame piloto gratuito de segurança em IA; até 3.000 selecionados, prova presencial em inglês em Pearson Professional Center. Exige 4 anos de experiência relevante (com regras de substituição); a certificação depende de aprovação do programa piloto e cumprimento dos requisitos. Formulário antes de 04/11/2026.",
+      "descricao": "Manifestação de interesse para exame piloto gratuito de segurança em IA; até 3.000 selecionados, prova presencial em inglês em Pearson Professional Center. Exige 4 anos de experiência relevante (com regras de substituição); a certificação depende de aprovação do programa piloto e cumprimento dos requisitos. Formulário antes de 04/11/2026.",
+      "url": "https://www.isc2.org/new-ai-certification",
+      "origem": "ISC2",
+      "brasil": "Voluntariado internacional; existência de centro Pearson Professional Center elegível no Brasil e vaga individual não verificadas",
+      "beneficio": "Exame piloto gratuito somente para candidatos selecionados; não garante certificação",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://www.isc2.org/new-ai-certification"
+      ],
+      "certificado_curso": "Certificação futura apenas se piloto validado, exame aprovado e experiência comprovada",
+      "prazo_manifestacao": "Antes de 04/11/2026",
+      "requisitos": "4 anos cumulativos de experiência remunerada em cibersegurança ou IA; pelo menos 2 em cibersegurança e 1 em dois ou mais domínios do exame; substituições específicas previstas"
+    },
+    {
+      "id": "rt-160",
+      "nome": "Linux Foundation — Spooky Flash 35% (TREATS35)",
+      "fabricante": "Linux Foundation",
+      "categoria": "Linux e DevOps",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "status": "Vigente",
+      "resumo": "Desconto de 35% em cursos e certificações elegíveis com código TREATS35; válido de 28 a 29/10/2026, 23h59 UTC. Compra paga; não acumula com outros descontos.",
+      "descricao": "Desconto de 35% em cursos e certificações elegíveis com código TREATS35; válido de 28 a 29/10/2026, 23h59 UTC. Compra paga; não acumula com outros descontos.",
+      "url": "https://training.linuxfoundation.org/october-2026-flash/",
+      "origem": "Linux Foundation",
+      "brasil": "Oferta oficial para qualquer comprador de produto elegível; impostos, câmbio e aceitação no checkout brasileiro não testados",
+      "beneficio": "35% de desconto; não é voucher de exame gratuito",
+      "inscricao_ate": "2026-10-29",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://training.linuxfoundation.org/october-2026-flash/"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-161",
+      "nome": "Linux Foundation — All Things Open 2026 (ATO26, 40%)",
+      "fabricante": "Linux Foundation",
+      "categoria": "Linux e DevOps",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "status": "A confirmar",
+      "resumo": "Oferta oficial de 40% de desconto em bundles, cursos e exames elegíveis com código ATO26 até 30/10/2026; página descreve como benefício de participantes do All Things Open 2026. Elegibilidade individual não testada.",
+      "descricao": "Oferta oficial de 40% de desconto em bundles, cursos e exames elegíveis com código ATO26 até 30/10/2026; página descreve como benefício de participantes do All Things Open 2026. Elegibilidade individual não testada.",
+      "url": "https://training.linuxfoundation.org/ato-2026/",
+      "origem": "Linux Foundation",
+      "brasil": "Página denomina 'Attendee Benefit'; elegibilidade de candidatos no Brasil não confirmada",
+      "beneficio": "40% de desconto condicionado à elegibilidade do evento; não é exame gratuito",
+      "inscricao_ate": "2026-10-30",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://training.linuxfoundation.org/ato-2026/"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-162",
+      "nome": "Linux Foundation / AAIF — Model Context Protocol Associate (MCPA)",
+      "fabricante": "Linux Foundation",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Certificação profissional vendor-neutral sobre MCP, arquitetura cliente-servidor, ferramentas, execução e segurança; exame remoto supervisionado, US$250 preço regular, uma retentativa incluída.",
+      "descricao": "Certificação profissional vendor-neutral sobre MCP, arquitetura cliente-servidor, ferramentas, execução e segurança; exame remoto supervisionado, US$250 preço regular, uma retentativa incluída.",
+      "url": "https://training.linuxfoundation.org/certification/model-context-protocol-associate-mcpa/",
+      "origem": "Linux Foundation",
+      "brasil": "Oferta online internacional; conferir condições de cadastro e elegibilidade para o Brasil",
+      "beneficio": "Exame pago US$250; descontos promocionais podem ser aplicáveis",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://training.linuxfoundation.org/certification/model-context-protocol-associate-mcpa/",
+        "https://training.linuxfoundation.org/blog/just-launched-model-context-protocol-associate-mcpa-certification/"
+      ],
+      "certificado_curso": "Certificação oficial mediante aprovação"
+    },
+    {
+      "id": "rt-163",
+      "nome": "Linux Foundation / PyTorch — PyTorch Certified Associate (PTCA)",
+      "fabricante": "Linux Foundation",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Certificação oficial sobre tensores, treinamento de modelos, otimização e preparação de dados em PyTorch; exame online supervisionado, US$250 regular, uma retentativa incluída. Trilha com curso e exame custa US$299 sem promoção.",
+      "descricao": "Certificação oficial sobre tensores, treinamento de modelos, otimização e preparação de dados em PyTorch; exame online supervisionado, US$250 regular, uma retentativa incluída. Trilha com curso e exame custa US$299 sem promoção.",
+      "url": "https://training.linuxfoundation.org/certification/pytorch-certified-associate-ptca/",
+      "origem": "Linux Foundation",
+      "brasil": "Oferta online internacional; conferir condições de cadastro e elegibilidade para o Brasil",
+      "beneficio": "Exame pago US$250; pacote de preparação com exame US$299 antes de descontos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://training.linuxfoundation.org/certification/pytorch-certified-associate-ptca/",
+        "https://training.linuxfoundation.org/blog/pytorch-certified-associate-ptca-certification-pathway/"
+      ],
+      "certificado_curso": "Certificação oficial mediante aprovação"
+    },
+    {
+      "id": "rt-164",
+      "nome": "Databricks — Databricks Fundamentals (badge)",
+      "fabricante": "Databricks",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Treinamento sob demanda gratuito de fundamentos de Databricks e plataforma de dados; badge digital após avaliação conforme regras do curso.",
+      "descricao": "Treinamento sob demanda gratuito de fundamentos de Databricks e plataforma de dados; badge digital após avaliação conforme regras do curso.",
+      "url": "https://www.databricks.com/learn/training/home",
+      "origem": "Databricks",
+      "brasil": "Oferta online internacional; conferir condições de cadastro e elegibilidade para o Brasil",
+      "beneficio": "Curso e badge gratuitos; não é exame profissional",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://www.databricks.com/learn/training/home"
+      ],
+      "certificado_curso": "Badge digital Databricks"
+    },
+    {
+      "id": "rt-165",
+      "nome": "Databricks — Generative AI Fundamentals (badge)",
+      "fabricante": "Databricks",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Treinamento gratuito de cerca de 60 minutos sobre IA generativa e LLMs, com badge após requisitos da formação.",
+      "descricao": "Treinamento gratuito de cerca de 60 minutos sobre IA generativa e LLMs, com badge após requisitos da formação.",
+      "url": "https://www.databricks.com/learn/training/home",
+      "origem": "Databricks",
+      "brasil": "Oferta online internacional; conferir condições de cadastro e elegibilidade para o Brasil",
+      "beneficio": "Curso e badge gratuitos; não é exame profissional",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://www.databricks.com/learn/training/home"
+      ],
+      "certificado_curso": "Badge digital Databricks"
+    },
+    {
+      "id": "rt-166",
+      "nome": "Hugging Face / Anthropic — MCP Course",
+      "fabricante": "Hugging Face",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso gratuito sobre Model Context Protocol, clientes, servidores e integração de ferramentas; certificados de curso gratuitos mediante conclusão das atividades e avaliações. Não equivale à MCPA da Linux Foundation.",
+      "descricao": "Curso gratuito sobre Model Context Protocol, clientes, servidores e integração de ferramentas; certificados de curso gratuitos mediante conclusão das atividades e avaliações. Não equivale à MCPA da Linux Foundation.",
+      "url": "https://huggingface.co/learn/mcp-course/en/unit0/introduction",
+      "origem": "Hugging Face",
+      "brasil": "Oferta online internacional; conferir condições de cadastro e elegibilidade para o Brasil",
+      "beneficio": "Curso e certificados de conclusão gratuitos",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://huggingface.co/learn/mcp-course/en/unit0/introduction"
+      ],
+      "certificado_curso": "Certificado gratuito do curso MCP"
+    },
+    {
+      "id": "rt-167",
+      "nome": "Hugging Face — Context Course",
+      "fabricante": "Hugging Face",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso gratuito sobre engenharia de contexto, Skills, MCP, agentes e hooks; certificado Context Fundamentals após quizzes das unidades 1–2 com pelo menos 70%; certificado avançado requer unidades 1–5 e projeto final.",
+      "descricao": "Curso gratuito sobre engenharia de contexto, Skills, MCP, agentes e hooks; certificado Context Fundamentals após quizzes das unidades 1–2 com pelo menos 70%; certificado avançado requer unidades 1–5 e projeto final.",
+      "url": "https://huggingface.co/learn/context-course/en/unit0/introduction",
+      "origem": "Hugging Face",
+      "brasil": "Oferta online internacional; conferir condições de cadastro e elegibilidade para o Brasil",
+      "beneficio": "Curso e certificado Fundamentals gratuitos; certificado avançado condicionado ao projeto",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://huggingface.co/learn/context-course/en/unit0/introduction"
+      ],
+      "certificado_curso": "Context Fundamentals; nível avançado exige capstone"
+    },
+    {
+      "id": "rt-168",
+      "nome": "Hugging Face — AI Agents Course",
+      "fabricante": "Hugging Face",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso gratuito de agentes de IA, smolagents, LlamaIndex e LangGraph; certificado de fundamentos após Unidade 1 e pelo menos 80% no quiz; certificado de conclusão exige projeto e desafio final.",
+      "descricao": "Curso gratuito de agentes de IA, smolagents, LlamaIndex e LangGraph; certificado de fundamentos após Unidade 1 e pelo menos 80% no quiz; certificado de conclusão exige projeto e desafio final.",
+      "url": "https://huggingface.co/learn/agents-course/en/unit0/introduction",
+      "origem": "Hugging Face",
+      "brasil": "Oferta online internacional; conferir condições de cadastro e elegibilidade para o Brasil",
+      "beneficio": "Curso e certificados de conclusão gratuitos, sujeitos a avaliações",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-28",
+      "evidencias": [
+        "https://huggingface.co/learn/agents-course/en/unit0/introduction"
+      ],
+      "certificado_curso": "Certificado gratuito de fundamentos e conclusão mediante requisitos"
     }
   ]
 }
