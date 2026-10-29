@@ -1,6 +1,6 @@
 {
   "atualizado_em": "2026-10-29",
-  "nota": "Verificação de 29/10/2026 em fontes primárias. Gratuidade do exame Oracle Foundations é suportada pela política Oracle 2026; Codex University não teve custo/certificado confirmado. ISC2 requer seleção e experiência; LiFT 2026 encerrada. Promoções Linux Foundation são descontos, não vouchers gratuitos.",
+  "nota": "Revisão 29/10/2026: eventos IBM SkillsBuild com cadastro aberto no calendário, sem promessa de voucher ou certificado; ENAP com participação gratuita confirmada. Regras de hackathons Devpost devem ser lidas integralmente: PayPal AI e Nebius/NVIDIA excluem explicitamente residentes no Brasil, apesar do resumo global na capa.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -3962,6 +3962,122 @@
         "https://training.linuxfoundation.org/about/scholarships/"
       ],
       "certificado_curso": null
+    },
+    {
+      "id": "rt-177",
+      "nome": "ENAP — Semana de Inovação 2026 (IA, dados e automação)",
+      "fabricante": "ENAP",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Evento e capacitação",
+      "grupo": "Evento e capacitação",
+      "status": "Vigente",
+      "resumo": "Evento gratuito de 10 a 12/11/2026 com mais de 400 horas de atividades, oficinas e palestras, presencial em Brasília e online. Eixo de IA, dados e automação.",
+      "descricao": "Evento gratuito de 10 a 12/11/2026 com mais de 400 horas de atividades, oficinas e palestras, presencial em Brasília e online. Eixo de IA, dados e automação.",
+      "url": "https://semanadeinovacao.enap.gov.br/",
+      "origem": "ENAP",
+      "brasil": "Aberto a participantes no Brasil; online ou presencial em Brasília; vagas presenciais limitadas.",
+      "beneficio": "Participação gratuita; certificado individual não confirmado.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://semanadeinovacao.enap.gov.br/noticias/inscricoes-para-a-semana-de-inovacao/",
+        "https://www.gov.br/dnocs/pt-br/assuntos/noticias/dnocs-informa-semana-de-inovacao-2026-esta-com-inscricoes-abertas/"
+      ],
+      "certificado_curso": null,
+      "evento_em": "2026-11-10 a 2026-11-12"
+    },
+    {
+      "id": "rt-178",
+      "nome": "IBM SkillsBuild — AI Fluency Pathway (novembro 2026)",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Evento e capacitação",
+      "grupo": "Evento e capacitação",
+      "status": "Vigente",
+      "resumo": "Evento virtual de trilha de fluência em IA anunciado para 02/11/2026; em inglês, para estudantes universitários e adultos.",
+      "descricao": "Evento virtual de trilha de fluência em IA anunciado para 02/11/2026; em inglês, para estudantes universitários e adultos.",
+      "url": "https://skillsbuild.org/events",
+      "origem": "IBM",
+      "brasil": "Evento virtual internacional sem exclusão brasileira identificada; inscrição e regras individuais devem ser confirmadas.",
+      "beneficio": "Inscrição anunciada; certificado e eventual custo específico não informados.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://skillsbuild.org/events"
+      ],
+      "certificado_curso": null,
+      "evento_em": "2026-11-02"
+    },
+    {
+      "id": "rt-179",
+      "nome": "IBM SkillsBuild — IA generativa e pensamento criativo (10/11/2026)",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Evento e capacitação",
+      "grupo": "Evento e capacitação",
+      "status": "Vigente",
+      "resumo": "Sessão virtual em português brasileiro 'Ensinando o pensamento criativo e a imaginação com IA generativa', em 10/11/2026, 17h–18h ET.",
+      "descricao": "Sessão virtual em português brasileiro 'Ensinando o pensamento criativo e a imaginação com IA generativa', em 10/11/2026, 17h–18h ET.",
+      "url": "https://skillsbuild.org/events",
+      "origem": "IBM",
+      "brasil": "Evento virtual anunciado em português brasileiro para estudantes universitários e adultos; elegibilidade individual no cadastro.",
+      "beneficio": "Inscrição anunciada; sem voucher de exame ou certificado garantido.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://skillsbuild.org/events"
+      ],
+      "certificado_curso": null,
+      "evento_em": "2026-11-10"
+    },
+    {
+      "id": "rt-180",
+      "nome": "IBM SkillsBuild — From Tennis Data to AI Predictions com IBM Bob",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Evento e capacitação",
+      "grupo": "Evento e capacitação",
+      "status": "Vigente",
+      "resumo": "Laboratório prático virtual com IBM Bob sobre dados e previsões de IA, em inglês, 10/11/2026 às 8h ET.",
+      "descricao": "Laboratório prático virtual com IBM Bob sobre dados e previsões de IA, em inglês, 10/11/2026 às 8h ET.",
+      "url": "https://skillsbuild.org/events",
+      "origem": "IBM",
+      "brasil": "Evento virtual para estudantes universitários e adultos; sem exclusão brasileira identificada; cadastro pode impor condições.",
+      "beneficio": "Inscrição anunciada; certificado e eventual custo específico não informados.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://skillsbuild.org/events"
+      ],
+      "certificado_curso": null,
+      "evento_em": "2026-11-10"
+    },
+    {
+      "id": "rt-181",
+      "nome": "IBM SkillsBuild — Build with AI: projetos reais para carreira",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Evento e capacitação",
+      "grupo": "Evento e capacitação",
+      "status": "Vigente",
+      "resumo": "Trilha virtual para estudantes universitários com projetos práticos de IA; evento listado para 10/11/2026, em inglês.",
+      "descricao": "Trilha virtual para estudantes universitários com projetos práticos de IA; evento listado para 10/11/2026, em inglês.",
+      "url": "https://skillsbuild.org/events",
+      "origem": "IBM",
+      "brasil": "Evento virtual para universitários; residência brasileira não excluída na página geral, conferir cadastro.",
+      "beneficio": "Inscrição anunciada; certificado e eventual custo específico não informados.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://skillsbuild.org/events"
+      ],
+      "certificado_curso": null,
+      "evento_em": "2026-11-10"
     }
   ]
 }
