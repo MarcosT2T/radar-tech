@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-28",
-  "nota": "Radar Tech 28/10/2026: 10 oportunidades confirmadas em fontes oficiais, duas campanhas de desconto (uma condicional ao evento), piloto ISC2 gratuito com seleção e requisitos de experiência, duas certificações profissionais pagas, quatro cursos Hugging Face/Databricks com badges/certificados. Status A confirmar significa elegibilidade ou matrícula não confirmada. Nenhuma nova oferta universal de exame profissional gratuito identificada na amostra de fontes consultadas.",
+  "atualizado_em": "2026-10-29",
+  "nota": "Verificação de 29/10/2026 em fontes primárias. Gratuidade do exame Oracle Foundations é suportada pela política Oracle 2026; Codex University não teve custo/certificado confirmado. ISC2 requer seleção e experiência; LiFT 2026 encerrada. Promoções Linux Foundation são descontos, não vouchers gratuitos.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -3565,15 +3565,15 @@
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
       "status": "Vigente",
-      "resumo": "Manifestação de interesse para exame piloto gratuito de segurança em IA; até 3.000 selecionados, prova presencial em inglês em Pearson Professional Center. Exige 4 anos de experiência relevante (com regras de substituição); a certificação depende de aprovação do programa piloto e cumprimento dos requisitos. Formulário antes de 04/11/2026.",
-      "descricao": "Manifestação de interesse para exame piloto gratuito de segurança em IA; até 3.000 selecionados, prova presencial em inglês em Pearson Professional Center. Exige 4 anos de experiência relevante (com regras de substituição); a certificação depende de aprovação do programa piloto e cumprimento dos requisitos. Formulário antes de 04/11/2026.",
+      "resumo": "Exame piloto gratuito ISC2 AI Security para candidatos selecionados; manifestação de interesse deve ocorrer ANTES de 04/11/2026 (03/11 como último dia conservador). Limite aproximado de 3.000 participantes; prova presencial em inglês e experiência exigida.",
+      "descricao": "Exame piloto gratuito ISC2 AI Security para candidatos selecionados; manifestação de interesse deve ocorrer ANTES de 04/11/2026 (03/11 como último dia conservador). Limite aproximado de 3.000 participantes; prova presencial em inglês e experiência exigida. Requisitos: quatro anos de experiência cumulativa remunerada em cibersegurança ou IA, com condições específicas de substituição; inscrição não garante vaga nem certificação. Prova em Pearson Professional Center, não online.",
       "url": "https://www.isc2.org/new-ai-certification",
       "origem": "ISC2",
-      "brasil": "Voluntariado internacional; existência de centro Pearson Professional Center elegível no Brasil e vaga individual não verificadas",
+      "brasil": "Participação global anunciada, mas disponibilidade de Pearson Professional Center elegível no Brasil e seleção individual não confirmadas.",
       "beneficio": "Exame piloto gratuito somente para candidatos selecionados; não garante certificação",
-      "inscricao_ate": null,
+      "inscricao_ate": "2026-11-03",
       "voucher_ate": null,
-      "verificado_em": "2026-10-28",
+      "verificado_em": "2026-10-29",
       "evidencias": [
         "https://www.isc2.org/new-ai-certification"
       ],
@@ -3589,15 +3589,15 @@
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
       "status": "Vigente",
-      "resumo": "Desconto de 35% em cursos e certificações elegíveis com código TREATS35; válido de 28 a 29/10/2026, 23h59 UTC. Compra paga; não acumula com outros descontos.",
-      "descricao": "Desconto de 35% em cursos e certificações elegíveis com código TREATS35; válido de 28 a 29/10/2026, 23h59 UTC. Compra paga; não acumula com outros descontos.",
+      "resumo": "Cupom TREATS35 de 35% em compras individuais elegíveis, de 28 a 29/10/2026 até 23h59 UTC (20h59 de Brasília); exclui FinOps e outras restrições da página oficial.",
+      "descricao": "Cupom TREATS35 de 35% em compras individuais elegíveis, de 28 a 29/10/2026 até 23h59 UTC (20h59 de Brasília); exclui FinOps e outras restrições da página oficial.",
       "url": "https://training.linuxfoundation.org/october-2026-flash/",
       "origem": "Linux Foundation",
       "brasil": "Oferta oficial para qualquer comprador de produto elegível; impostos, câmbio e aceitação no checkout brasileiro não testados",
-      "beneficio": "35% de desconto; não é voucher de exame gratuito",
+      "beneficio": "35% de desconto em produtos elegíveis; não é exame gratuito",
       "inscricao_ate": "2026-10-29",
       "voucher_ate": null,
-      "verificado_em": "2026-10-28",
+      "verificado_em": "2026-10-29",
       "evidencias": [
         "https://training.linuxfoundation.org/october-2026-flash/"
       ],
@@ -3611,15 +3611,15 @@
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
       "status": "A confirmar",
-      "resumo": "Oferta oficial de 40% de desconto em bundles, cursos e exames elegíveis com código ATO26 até 30/10/2026; página descreve como benefício de participantes do All Things Open 2026. Elegibilidade individual não testada.",
-      "descricao": "Oferta oficial de 40% de desconto em bundles, cursos e exames elegíveis com código ATO26 até 30/10/2026; página descreve como benefício de participantes do All Things Open 2026. Elegibilidade individual não testada.",
+      "resumo": "Cupom ATO26 de 40% até 30/10/2026 em produtos elegíveis; oferta oficial expressamente identificada como benefício de participantes All Things Open. Elegibilidade individual não validada.",
+      "descricao": "Cupom ATO26 de 40% até 30/10/2026 em produtos elegíveis; oferta oficial expressamente identificada como benefício de participantes All Things Open. Elegibilidade individual não validada.",
       "url": "https://training.linuxfoundation.org/ato-2026/",
       "origem": "Linux Foundation",
       "brasil": "Página denomina 'Attendee Benefit'; elegibilidade de candidatos no Brasil não confirmada",
       "beneficio": "40% de desconto condicionado à elegibilidade do evento; não é exame gratuito",
       "inscricao_ate": "2026-10-30",
       "voucher_ate": null,
-      "verificado_em": "2026-10-28",
+      "verificado_em": "2026-10-29",
       "evidencias": [
         "https://training.linuxfoundation.org/ato-2026/"
       ],
@@ -3823,6 +3823,143 @@
       "verificado_em": "2026-10-28",
       "evidencias": [
         "https://www.spaceappschallenge.org/2026/local-events/santa-cruz-das-palmeiras/"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-171",
+      "nome": "Oracle Multicloud Foundations Associate (1Z0-1144-26)",
+      "fabricante": "Oracle",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Certificação oficial Foundations lançada em 20/10/2026; 40 questões, 60 minutos, aprovação com 65%. Abrange Oracle AI Database@AWS, @Azure e @Google Cloud. A política Oracle 2026 confirma gratuidade dos cursos e exames Foundations.",
+      "descricao": "Certificação oficial Foundations lançada em 20/10/2026; 40 questões, 60 minutos, aprovação com 65%. Abrange Oracle AI Database@AWS, @Azure e @Google Cloud. A política Oracle 2026 confirma gratuidade dos cursos e exames Foundations.",
+      "url": "https://mylearn.oracle.com/ou/exam-unproctored/oracle-multicloud-foundations-associate-1z0-1144-26/166469/282133",
+      "origem": "Oracle",
+      "brasil": "Oferta online internacional; verificar cadastro e disponibilidade regional no portal oficial",
+      "beneficio": "Curso e exame Foundations gratuitos segundo política oficial Oracle 2026",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/oracle-multicloud-foundations-associate-training-and-certification-now-available",
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://mylearn.oracle.com/ou/exam-unproctored/oracle-multicloud-foundations-associate-1z0-1144-26/166469/282133"
+      ],
+      "certificado_curso": "Certificação oficial Oracle após aprovação"
+    },
+    {
+      "id": "rt-172",
+      "nome": "Oracle Data Platform Foundations Associate",
+      "fabricante": "Oracle",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Certificação oficial introdutória de dados e plataforma Oracle. Oracle confirma gratuidade de todos os cursos e exames Foundations em 2026.",
+      "descricao": "Certificação oficial introdutória de dados e plataforma Oracle. Oracle confirma gratuidade de todos os cursos e exames Foundations em 2026.",
+      "url": "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+      "origem": "Oracle",
+      "brasil": "Oferta online internacional; verificar cadastro e disponibilidade regional no portal oficial",
+      "beneficio": "Curso e exame gratuitos; consultar código vigente no MyLearn",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+      ],
+      "certificado_curso": "Certificação oficial Oracle após aprovação"
+    },
+    {
+      "id": "rt-173",
+      "nome": "Oracle University — Codex Foundations",
+      "fabricante": "Oracle",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Curso preparatório",
+      "grupo": "Curso preparatório",
+      "status": "A confirmar",
+      "resumo": "Curso anunciado em 22/10/2026: cinco módulos de Codex CLI, AGENTS.md, aprovações, sandbox, depuração, Git e alterações em projetos. Requer conta ChatGPT com acesso a Codex. Preço do acesso, do curso e certificado não explicitados.",
+      "descricao": "Curso anunciado em 22/10/2026: cinco módulos de Codex CLI, AGENTS.md, aprovações, sandbox, depuração, Git e alterações em projetos. Requer conta ChatGPT com acesso a Codex. Preço do acesso, do curso e certificado não explicitados.",
+      "url": "https://mylearn.oracle.com/ou/learning-path/codex-foundations/166599",
+      "origem": "Oracle",
+      "brasil": "Oferta online internacional; verificar cadastro e disponibilidade regional no portal oficial",
+      "beneficio": "Curso publicado; gratuidade de acesso e certificado não confirmada",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/oracle-university-launches-two-new-openai-codex-courses",
+        "https://mylearn.oracle.com/ou/learning-path/codex-foundations/166599"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-174",
+      "nome": "Oracle University — Agentic Engineering with Codex",
+      "fabricante": "Oracle",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Curso preparatório",
+      "grupo": "Curso preparatório",
+      "status": "A confirmar",
+      "resumo": "Curso anunciado em 22/10/2026: nove módulos sobre engenharia agêntica, MCP, testes, evidências, agentes paralelos e Git worktrees; Codex Foundations é pré-requisito. Gratuidade e certificado não confirmados.",
+      "descricao": "Curso anunciado em 22/10/2026: nove módulos sobre engenharia agêntica, MCP, testes, evidências, agentes paralelos e Git worktrees; Codex Foundations é pré-requisito. Gratuidade e certificado não confirmados.",
+      "url": "https://mylearn.oracle.com/ou/learning-path/agentic-engineering-with-codex/166692",
+      "origem": "Oracle",
+      "brasil": "Oferta online internacional; verificar cadastro e disponibilidade regional no portal oficial",
+      "beneficio": "Curso publicado; gratuidade de acesso e certificado não confirmada",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/oracle-university-launches-two-new-openai-codex-courses",
+        "https://mylearn.oracle.com/ou/learning-path/agentic-engineering-with-codex/166692"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-175",
+      "nome": "Oracle Exadata Database Service Professional (1Z0-1193-26)",
+      "fabricante": "Oracle",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Exame profissional oficial anunciado em 16/10/2026, 50 questões, 90 minutos, aprovação 68%; trilha de 14 módulos exige assinatura paga Oracle University. Preço do exame não informado no anúncio.",
+      "descricao": "Exame profissional oficial anunciado em 16/10/2026, 50 questões, 90 minutos, aprovação 68%; trilha de 14 módulos exige assinatura paga Oracle University. Preço do exame não informado no anúncio.",
+      "url": "https://blogs.oracle.com/oracleuniversity/announcing-new-oracle-exadata-database-service-professional-learning-path",
+      "origem": "Oracle",
+      "brasil": "Exame anunciado oficialmente; verificar preço e disponibilidade de agendamento para o Brasil",
+      "beneficio": "Preparação por assinatura paga; preço do exame a confirmar",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://blogs.oracle.com/oracleuniversity/announcing-new-oracle-exadata-database-service-professional-learning-path"
+      ],
+      "certificado_curso": "Certificação profissional Oracle após aprovação"
+    },
+    {
+      "id": "rt-176",
+      "nome": "Linux Foundation LiFT Scholarship 2026 — bolsas de treinamento e exame",
+      "fabricante": "Linux Foundation",
+      "categoria": "Linux e DevOps",
+      "tipo": "Campanha de bolsas",
+      "grupo": "Campanha de bolsas",
+      "status": "Encerrada",
+      "resumo": "Programa LiFT 2026 ofereceu 500 bolsas de treinamento e certificação, distribuídas em 16 categorias. Inscrições encerradas em 30/04/2026, 23h59 PDT. A Linux Foundation informa que o ciclo de 2027 abrirá em abril, sem dia confirmado.",
+      "descricao": "Programa LiFT 2026 ofereceu 500 bolsas de treinamento e certificação, distribuídas em 16 categorias. Inscrições encerradas em 30/04/2026, 23h59 PDT. A Linux Foundation informa que o ciclo de 2027 abrirá em abril, sem dia confirmado.",
+      "url": "https://training.linuxfoundation.org/blog/lift-scholarship-application-now-open-2026/",
+      "origem": "Linux Foundation",
+      "brasil": "Oferta online internacional; verificar cadastro e disponibilidade regional no portal oficial",
+      "beneficio": "Bolsa integral para selecionados em 2026; inscrições encerradas",
+      "inscricao_ate": "2026-04-30",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-29",
+      "evidencias": [
+        "https://training.linuxfoundation.org/blog/lift-scholarship-application-now-open-2026/",
+        "https://training.linuxfoundation.org/about/scholarships/"
       ],
       "certificado_curso": null
     }
