@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-28",
+  "atualizado_em": "2026-10-29",
   "analises": [
     {
       "data": "2026-10-23",
@@ -1038,6 +1038,107 @@
         "https://www.coursera.org/professional-certificates/google-cybersecurity/",
         "https://grow.google/intl/en_in/cybersecurity-course",
         "https://www.spaceappschallenge.org/2026/local-events/santa-cruz-das-palmeiras/"
+      ]
+    },
+    {
+      "data": "2026-10-29",
+      "titulo": "Radar Tech — 29/10: Oracle Multicloud gratuito, cursos Codex e últimos prazos Linux/ISC2",
+      "resumo": "Em 29/10/2026, a varredura de fontes oficiais acrescentou seis registros ainda ausentes do catálogo (170 → 176) e revisou três oportunidades já cadastradas. O principal achado é a certificação Oracle Multicloud Foundations Associate (1Z0-1144-26), lançada em 20/10: a política Oracle 2026 declara gratuitos os cursos e exames Foundations. Também foram individualizados Oracle Data Platform Foundations, dois novos cursos Codex (gratuidade e certificado não confirmados), a certificação profissional Exadata com preparação paga e a bolsa LiFT 2026, encerrada em abril. Para candidatos no Brasil, o piloto gratuito ISC2 AI Security exige manifestação ANTES de 04/11, seleção, experiência e prova presencial em inglês; a disponibilidade de centro elegível não foi testada. O desconto Linux Foundation TREATS35 (35%) termina HOJE, 29/10, às 23h59 UTC (20h59 em Brasília); ATO26 (40%) termina em 30/10, restrito a participantes elegíveis do evento. Não foi confirmada nova campanha universal de voucher para exame profissional gratuito com inscrições abertas nas fontes pesquisadas; isso é ausência de novidade nessa modalidade, não falha de pesquisa.",
+      "destaques": [
+        {
+          "titulo": "Oracle Multicloud Foundations Associate — 1Z0-1144-26",
+          "tipo": "Certificação oficial gratuita",
+          "descricao": "Nova certificação de fundamentos em multicloud Oracle, lançada em 20/10. Exame com 40 questões, 60 minutos e 65% de aprovação. A política Oracle 2026 confirma gratuidade para a categoria Foundations.",
+          "url": "https://blogs.oracle.com/oracleuniversity/oracle-multicloud-foundations-associate-training-and-certification-now-available"
+        },
+        {
+          "titulo": "Oracle Data Platform Foundations Associate",
+          "tipo": "Certificação oficial gratuita",
+          "descricao": "Formação e exame gratuitos de fundamentos de plataforma de dados Oracle, conforme política oficial de 2026. Consultar código atual no portal Oracle.",
+          "url": "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+        },
+        {
+          "titulo": "Oracle University — Codex Foundations e Agentic Engineering with Codex",
+          "tipo": "Cursos preparatórios — gratuidade a confirmar",
+          "descricao": "Dois cursos lançados em 22/10 sobre Codex CLI, AGENTS.md, sandbox, Git, MCP, verificação e agentes paralelos. Não há confirmação pública de gratuidade do curso/certificado; requer acesso ao Codex.",
+          "url": "https://blogs.oracle.com/oracleuniversity/oracle-university-launches-two-new-openai-codex-courses"
+        },
+        {
+          "titulo": "Oracle Exadata Database Service Professional — 1Z0-1193-26",
+          "tipo": "Certificação profissional; preparação paga",
+          "descricao": "Exame profissional com 50 questões e 90 minutos; trilha preparatória de 14 módulos exige assinatura paga. Preço do exame não confirmado.",
+          "url": "https://blogs.oracle.com/oracleuniversity/announcing-new-oracle-exadata-database-service-professional-learning-path"
+        },
+        {
+          "titulo": "ISC2 — piloto AI Security: manifestação antes de 04/11",
+          "tipo": "Exame piloto gratuito condicionado",
+          "descricao": "Seleção de aproximadamente 3.000 candidatos, exigência de experiência profissional e exame presencial em inglês. Inscrição não garante vaga nem certificação; centros elegíveis no Brasil não verificados.",
+          "url": "https://www.isc2.org/new-ai-certification"
+        },
+        {
+          "titulo": "Linux Foundation TREATS35 — 35% até hoje",
+          "tipo": "Campanha de desconto vigente",
+          "descricao": "Cupom TREATS35 para produtos elegíveis até 29/10/2026 às 23h59 UTC (20h59 de Brasília). Não é exame gratuito; condições e exclusões na página oficial.",
+          "url": "https://training.linuxfoundation.org/october-2026-flash/"
+        },
+        {
+          "titulo": "Linux Foundation ATO26 — 40% até 30/10",
+          "tipo": "Campanha de desconto — elegibilidade a confirmar",
+          "descricao": "Benefício identificado como exclusivo para participantes All Things Open 2026; desconto não garantido a qualquer candidato brasileiro.",
+          "url": "https://training.linuxfoundation.org/ato-2026/"
+        },
+        {
+          "titulo": "Linux Foundation LiFT Scholarship 2026",
+          "tipo": "Campanha de bolsas encerrada",
+          "descricao": "500 bolsas e 16 categorias; inscrições encerradas em 30/04/2026. Portal informa abertura da edição 2027 em abril, sem dia exato confirmado.",
+          "url": "https://training.linuxfoundation.org/blog/lift-scholarship-application-now-open-2026/"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 170,
+        "catalogo_total": 176,
+        "novos_registros": 6,
+        "registros_revisados": 3,
+        "arquivos_previstos": [
+          "data/opportunities.json",
+          "data/home.json"
+        ],
+        "ids_novos": [
+          "rt-171",
+          "rt-172",
+          "rt-173",
+          "rt-174",
+          "rt-175",
+          "rt-176"
+        ],
+        "ids_revisados": [
+          "rt-159",
+          "rt-160",
+          "rt-161"
+        ]
+      },
+      "observacoes": [
+        "Os seis novos registros são descobertas no catálogo; as publicações de origem ocorreram antes de 29/10, não se afirma lançamento hoje.",
+        "O piloto ISC2 requer envio do formulário antes de 04/11; 03/11 foi registrado como último dia conservador, sem inventar horário de corte.",
+        "Oracle University não explicitou custo ou certificado dos dois cursos Codex: ambos permanecem A confirmar.",
+        "Oracle Exadata: assinatura de preparação paga, sem preço do exame confirmado.",
+        "Linux Foundation TREATS35 termina 23h59 UTC em 29/10; ATO26 é benefício para participantes do evento.",
+        "LiFT 2026 está Encerrada; a edição 2027 ainda não tem dia de abertura confirmado.",
+        "Microsoft, AWS, Cisco, CompTIA, Databricks, Neo4j, GitHub e DIO foram incluídos na varredura, sem campanha universal nova de voucher profissional gratuito confirmada nesta rodada.",
+        "A existência de páginas internacionais não garante matrícula, pagamento ou centro de prova no Brasil; nenhuma inscrição autenticada foi realizada."
+      ],
+      "fontes": [
+        "https://blogs.oracle.com/oracleuniversity/oracle-multicloud-foundations-associate-training-and-certification-now-available",
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://blogs.oracle.com/oracleuniversity/oracle-university-launches-two-new-openai-codex-courses",
+        "https://blogs.oracle.com/oracleuniversity/announcing-new-oracle-exadata-database-service-professional-learning-path",
+        "https://www.isc2.org/new-ai-certification",
+        "https://training.linuxfoundation.org/october-2026-flash/",
+        "https://training.linuxfoundation.org/ato-2026/",
+        "https://training.linuxfoundation.org/blog/lift-scholarship-application-now-open-2026/",
+        "https://training.linuxfoundation.org/about/scholarships/",
+        "https://aws.amazon.com/blogs/training-and-certification/",
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-september-16-october-14/ec-p/169355/highlight/true"
       ]
     }
   ]
