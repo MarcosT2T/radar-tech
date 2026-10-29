@@ -1140,6 +1140,61 @@
         "https://aws.amazon.com/blogs/training-and-certification/",
         "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-september-16-october-14/ec-p/169355/highlight/true"
       ]
+    },
+    {
+      "data": "2026-10-29",
+      "titulo": "Complemento 29/10 — ENAP gratuita, eventos IBM SkillsBuild e alerta de elegibilidade Brasil",
+      "resumo": "Foram adicionadas 5 oportunidades novas: Semana de Inovação 2026 da ENAP (10 a 12/11, gratuita e híbrida) e quatro eventos virtuais IBM SkillsBuild (02 e 10/11). O calendário IBM anuncia cadastro, mas não garante voucher de exame ou certificado individual. A auditoria de regulamentos Devpost revelou exclusão explícita do Brasil em PayPal AI Hackathon e Nebius x NVIDIA Global AI Hackathon, apesar da aparência de elegibilidade global nas páginas iniciais. Nenhum dos dois foi inserido como oportunidade brasileira. Não foi confirmado novo voucher CompTIA ou Microsoft utilizável no Brasil.",
+      "destaques": [
+        {
+          "titulo": "ENAP — Semana de Inovação 2026",
+          "tipo": "Evento gratuito — Brasil confirmado",
+          "descricao": "Mais de 400 horas de programação gratuita, 10–12/11, com atividades online e presenciais em Brasília; IA, dados e automação.",
+          "url": "https://semanadeinovacao.enap.gov.br/"
+        },
+        {
+          "titulo": "IBM SkillsBuild — AI Fluency Pathway",
+          "tipo": "Evento virtual — elegibilidade individual a conferir",
+          "descricao": "Trilha anunciada para 02/11/2026, em inglês, com cadastro pelo calendário IBM.",
+          "url": "https://skillsbuild.org/events"
+        },
+        {
+          "titulo": "IBM SkillsBuild — IA generativa e pensamento criativo",
+          "tipo": "Evento virtual em português",
+          "descricao": "10/11/2026, 17h–18h ET; inscrição anunciada, certificado não garantido.",
+          "url": "https://skillsbuild.org/events"
+        },
+        {
+          "titulo": "IBM SkillsBuild — laboratório de dados com IBM Bob",
+          "tipo": "Laboratório virtual",
+          "descricao": "10/11/2026 às 8h ET; em inglês, sem certificado garantido.",
+          "url": "https://skillsbuild.org/events"
+        },
+        {
+          "titulo": "IBM SkillsBuild — projetos reais com IA",
+          "tipo": "Evento virtual universitário",
+          "descricao": "10/11/2026; projetos para desenvolvimento de habilidades profissionais.",
+          "url": "https://skillsbuild.org/events"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 181,
+        "novos_registros": 5,
+        "exclusoes_confirmadas_brasil": 2
+      },
+      "observacoes": [
+        "Regulamentos oficiais do PayPal AI Hackathon e Nebius x NVIDIA Global AI Hackathon citam Brazil entre os países excluídos: não são oportunidades elegíveis para residentes brasileiros.",
+        "A página inicial de um hackathon pode dizer 'All countries excluding standard exceptions' e mesmo assim excluir o Brasil; sempre ler as regras completas.",
+        "IBM SkillsBuild: o calendário confirma eventos e botão de inscrição, mas não comprova emissão de certificado ou voucher.",
+        "ENAP: participação gratuita, presencial com vagas limitadas; certificado individual não confirmado.",
+        "CompTIA: nenhuma nova campanha de voucher gratuito com elegibilidade brasileira validada nesta rodada."
+      ],
+      "fontes": [
+        "https://semanadeinovacao.enap.gov.br/noticias/inscricoes-para-a-semana-de-inovacao/",
+        "https://skillsbuild.org/events",
+        "https://paypalaihackathon.devpost.com/rules",
+        "https://nebiusglobalaihackathon.devpost.com/rules"
+      ]
     }
   ]
 }
