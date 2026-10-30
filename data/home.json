@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29",
+  "atualizado_em": "2026-10-30",
   "analises": [
     {
       "data": "2026-10-23",
@@ -1194,6 +1194,92 @@
         "https://skillsbuild.org/events",
         "https://paypalaihackathon.devpost.com/rules",
         "https://nebiusglobalaihackathon.devpost.com/rules"
+      ]
+    },
+    {
+      "data": "2026-10-30",
+      "titulo": "Radar Tech — 30/10: Databricks 50%, Oracle ONE 2027, IBM e prazos de vouchers",
+      "resumo": "Em 30/10/2026, a varredura de fontes oficiais identificou cinco oportunidades ainda não individualizadas no Radar Tech (181 → 186 registros) e revisou duas existentes. Destaques: Databricks Advanced Learning Festival de 10/11 a 08/12, com voucher condicionado de 50% para exame profissional; pré-inscrições informativas para as turmas gratuitas Oracle ONE AI for Tech e AI for Business de 2027; programa IBM SkillsBuild de dados e IA em novembro; e registro histórico do sorteio Microsoft AI Agent Skills (encerrado, vouchers de ganhadores válidos até 30/11). A promoção Linux Foundation TREATS35 terminou em 29/10. Não foi confirmada uma nova campanha universal de exame profissional 100% gratuito aberta hoje nas fontes consultadas.",
+      "destaques": [
+        {
+          "titulo": "Databricks — Advanced Learning Festival 10/11 a 08/12",
+          "descricao": "Concluir uma trilha elegível integralmente dentro do evento concede voucher de 50% para certificação e 20% em Academy Labs; incentivos previstos para 14/12. Não é exame gratuito.",
+          "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+          "tipo": "Campanha de voucher"
+        },
+        {
+          "titulo": "Oracle ONE AI for Tech — pré-inscrição 2027",
+          "descricao": "Turma gratuita prevista para o primeiro semestre de 2027 (seis meses); pré-inscrição para receber novidades, sem garantia de matrícula ou vaga.",
+          "url": "https://www.oracle.com/br/education/oracle-next-education/",
+          "tipo": "Programa de formação"
+        },
+        {
+          "titulo": "Oracle ONE AI for Business — pré-inscrição 2027",
+          "descricao": "Turma gratuita prevista para o segundo semestre de 2027 (dois meses); a turma 2026 já encerrou inscrições.",
+          "url": "https://www.oracle.com/br/education/oracle-next-education/",
+          "tipo": "Programa de formação"
+        },
+        {
+          "titulo": "IBM SkillsBuild — Kickstart Data and AI",
+          "descricao": "Dois webinars e atividades em inglês de 25/11 a 02/12 para adultos e universitários; certificado individual não confirmado.",
+          "url": "https://skillsbuild.org/events/kickstart-november",
+          "tipo": "Evento e capacitação"
+        },
+        {
+          "titulo": "Microsoft AI Agent Skills — vouchers de ganhadores",
+          "descricao": "Sorteio encerrado em 15/07; 900 vencedores podem usar vouchers de 100% para AB-100, AB-900 ou AB-620 até 30/11. Não aceita novos candidatos.",
+          "url": "https://learn.microsoft.com/en-us/credentials/support/microsoft-ai-agent-skills-sweepstakes-faq",
+          "tipo": "Campanha encerrada"
+        },
+        {
+          "titulo": "Linux Foundation TREATS35 — encerrada",
+          "descricao": "Desconto de 35% terminou em 29/10 às 23h59 UTC; registro alterado para Encerrada.",
+          "url": "https://training.linuxfoundation.org/october-2026-flash/",
+          "tipo": "Campanha encerrada"
+        },
+        {
+          "titulo": "Linux Foundation ATO26 — último dia anunciado",
+          "descricao": "Desconto de 40% até 30/10, divulgado como benefício para participantes do All Things Open; elegibilidade individual não confirmada.",
+          "url": "https://training.linuxfoundation.org/ato-2026/",
+          "tipo": "Campanha condicional"
+        },
+        {
+          "titulo": "ISC2 — piloto AI Security, manifestação até antes de 04/11",
+          "descricao": "Exame piloto gratuito apenas para candidatos selecionados, com requisitos profissionais e prova presencial em inglês; centro elegível no Brasil não confirmado.",
+          "url": "https://www.isc2.org/new-ai-certification",
+          "tipo": "Exame piloto condicional"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 181,
+        "catalogo_total": 186,
+        "novos_registros": 5,
+        "registros_revisados": 2,
+        "analises_anteriores_preservadas": 18,
+        "campanhas_encerradas_atualizadas": 1
+      },
+      "observacoes": [
+        "Cinco registros novos são descobertas do catálogo, não necessariamente anúncios publicados em 30/10.",
+        "Pesquisa executada e com achados confirmados; ausência de nova campanha universal gratuita é conclusão limitada às fontes consultadas, não falha de pesquisa.",
+        "A promoção Databricks começa em 10/11; vouchers de 50% dependem de concluir uma trilha no período e de e-mails correspondentes nas contas.",
+        "Oracle ONE 2027 oferece pré-inscrição informativa, não inscrição definitiva, seleção garantida ou data exata de matrícula.",
+        "Microsoft AI Agent Skills é sorteio já encerrado; prazo 30/11 refere-se apenas a vouchers previamente concedidos.",
+        "Linux Foundation ATO26 está no último dia anunciado, mas acesso ao benefício é condicionado a participação no evento e não foi testado.",
+        "Não foi testado cadastro individual em Oracle, Databricks, IBM, ISC2 ou outras plataformas; elegibilidade brasileira deve ser confirmada no cadastro.",
+        "Fontes oficiais de Microsoft, AWS, Cisco, Oracle, CompTIA, ISC2, Databricks, Linux Foundation, GitHub e DIO foram pesquisadas, mas a pesquisa não garante cobertura de todos os programas existentes."
+      ],
+      "fontes": [
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+        "https://www.oracle.com/br/education/oracle-next-education/",
+        "https://skillsbuild.org/events/kickstart-november",
+        "https://skillsbuild.org/events/ai-us-series",
+        "https://learn.microsoft.com/en-us/credentials/support/microsoft-ai-agent-skills-sweepstakes-faq",
+        "https://training.linuxfoundation.org/october-2026-flash/",
+        "https://training.linuxfoundation.org/ato-2026/",
+        "https://www.isc2.org/new-ai-certification",
+        "https://aws.amazon.com/training/badges/",
+        "https://github.com/education/students",
+        "https://www.dio.me/bootcamp/coding-the-future-claro-java-spring-boot"
       ]
     }
   ]
