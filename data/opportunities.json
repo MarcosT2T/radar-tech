@@ -1,6 +1,6 @@
 {
   "atualizado_em": "2026-10-30",
-  "nota": "Auditoria 30/10/2026: separa certificações profissionais, credenciais práticas, cursos e campanhas. Databricks 10/11-08/12 tem voucher de 50% condicionado; ONE 2027 oferece pré-inscrição, não matrícula; Microsoft 100% é sorteio encerrado com resgate de ganhadores até 30/11. Linux TREATS35 encerrada.",
+  "nota": "Auditoria 30/10/2026: separa certificações profissionais, credenciais práticas, cursos e campanhas. Databricks 10/11-08/12 tem voucher de 50% condicionado; ONE 2027 oferece pré-inscrição, não matrícula; Microsoft 100% é sorteio encerrado com resgate de ganhadores até 30/11. Linux TREATS35 encerrada. Complemento 30/10: quatro turmas IBM SkillsBuild gratuitas e com credenciais digitais, sem confundir com certificação profissional. Sem confirmação de voucher CompTIA/Microsoft novo elegível ao Brasil.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -4199,6 +4199,106 @@
       ],
       "certificado_curso": null,
       "premiados": 900
+    },
+    {
+      "id": "rt-187",
+      "nome": "IBM SkillsBuild — Enterprise Data Science in Practice (23/11–20/12/2026)",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Turma online gratuita em inglês de 4 semanas (23/11–20/12), com quatro sessões ao vivo e atividades assíncronas sobre ciclo de vida de ciência de dados, metodologias e problemas empresariais. Credencial digital IBM SkillsBuild após cumprir requisitos.",
+      "descricao": "Turma online gratuita em inglês de 4 semanas (23/11–20/12), com quatro sessões ao vivo e atividades assíncronas sobre ciclo de vida de ciência de dados, metodologias e problemas empresariais. Credencial digital IBM SkillsBuild após cumprir requisitos.",
+      "url": "https://skillsbuild.org/pt-br/events/enterprise-ds-in-practice",
+      "origem": "IBM SkillsBuild",
+      "brasil": "Turma virtual para adultos e universitários; não há restrição explícita ao Brasil na página pública. Elegibilidade final e inscrição não foram testadas.",
+      "beneficio": "Acesso educacional gratuito e credencial digital IBM após cumprimento dos requisitos; não é exame de certificação profissional.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-30",
+      "evidencias": [
+        "https://skillsbuild.org/pt-br/events/enterprise-ds-in-practice",
+        "https://skillsbuild.org/"
+      ],
+      "certificado_curso": "Credencial digital IBM SkillsBuild Enterprise Data Science in Practice",
+      "inicio_em": "2026-11-23",
+      "fim_em": "2026-12-20"
+    },
+    {
+      "id": "rt-188",
+      "nome": "IBM SkillsBuild — Data Analytics for Sustainability (23/11–20/12/2026)",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Formação virtual gratuita em inglês de 4 semanas (23/11–20/12), com Python, visualização de dados, análise de sustentabilidade, proposta prática e quatro sessões ao vivo. Credencial digital IBM após cumprimento das atividades.",
+      "descricao": "Formação virtual gratuita em inglês de 4 semanas (23/11–20/12), com Python, visualização de dados, análise de sustentabilidade, proposta prática e quatro sessões ao vivo. Credencial digital IBM após cumprimento das atividades.",
+      "url": "https://skillsbuild.org/pt-br/events/da-sustentability",
+      "origem": "IBM SkillsBuild",
+      "brasil": "Turma virtual para adultos e universitários; não há restrição explícita ao Brasil na página pública. Elegibilidade final e inscrição não foram testadas.",
+      "beneficio": "Acesso educacional gratuito e credencial digital IBM após cumprimento dos requisitos; não é exame de certificação profissional.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-30",
+      "evidencias": [
+        "https://skillsbuild.org/pt-br/events/da-sustentability",
+        "https://skillsbuild.org/"
+      ],
+      "certificado_curso": "Credencial digital IBM SkillsBuild Data Analytics for Sustainability",
+      "inicio_em": "2026-11-23",
+      "fim_em": "2026-12-20"
+    },
+    {
+      "id": "rt-189",
+      "nome": "IBM SkillsBuild — AI for Sustainability (30/11–27/12/2026)",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Formação online gratuita em inglês de 4 semanas (30/11–27/12), com ML, deep learning, análises preditivas, aplicações socioambientais e quatro sessões ao vivo. Não exige programação prévia; credencial digital após conclusão.",
+      "descricao": "Formação online gratuita em inglês de 4 semanas (30/11–27/12), com ML, deep learning, análises preditivas, aplicações socioambientais e quatro sessões ao vivo. Não exige programação prévia; credencial digital após conclusão.",
+      "url": "https://skillsbuild.org/pt-br/events/ai-for-sustainability",
+      "origem": "IBM SkillsBuild",
+      "brasil": "Turma virtual para adultos e universitários; não há restrição explícita ao Brasil na página pública. Elegibilidade final e inscrição não foram testadas.",
+      "beneficio": "Acesso educacional gratuito e credencial digital IBM após cumprimento dos requisitos; não é exame de certificação profissional.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-30",
+      "evidencias": [
+        "https://skillsbuild.org/pt-br/events/ai-for-sustainability",
+        "https://skillsbuild.org/"
+      ],
+      "certificado_curso": "Credencial digital IBM SkillsBuild AI for Sustainability",
+      "inicio_em": "2026-11-30",
+      "fim_em": "2026-12-27"
+    },
+    {
+      "id": "rt-190",
+      "nome": "IBM SkillsBuild — AI Skills for Everyday Productivity (30/11–13/12/2026)",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Turma virtual gratuita em inglês de 30/11 a 13/12, com duas sessões ao vivo e atividades sobre IA generativa para síntese de documentos, análise de dados, automação de tarefas e decisões. Credencial digital IBM ao concluir.",
+      "descricao": "Turma virtual gratuita em inglês de 30/11 a 13/12, com duas sessões ao vivo e atividades sobre IA generativa para síntese de documentos, análise de dados, automação de tarefas e decisões. Credencial digital IBM ao concluir.",
+      "url": "https://skillsbuild.org/events/ai-for-everyone",
+      "origem": "IBM SkillsBuild",
+      "brasil": "Turma virtual para adultos e universitários; não há restrição explícita ao Brasil na página pública. Elegibilidade final e inscrição não foram testadas.",
+      "beneficio": "Acesso educacional gratuito e credencial digital IBM após cumprimento dos requisitos; não é exame de certificação profissional.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-30",
+      "evidencias": [
+        "https://skillsbuild.org/events/ai-for-everyone",
+        "https://skillsbuild.org/"
+      ],
+      "certificado_curso": "IBM SkillsBuild AI Skills for Everyday Productivity Certificate (credencial digital)",
+      "inicio_em": "2026-11-30",
+      "fim_em": "2026-12-13"
     }
   ]
 }
