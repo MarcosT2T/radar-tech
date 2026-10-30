@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-29",
-  "nota": "Revisão 29/10/2026: eventos IBM SkillsBuild com cadastro aberto no calendário, sem promessa de voucher ou certificado; ENAP com participação gratuita confirmada. Regras de hackathons Devpost devem ser lidas integralmente: PayPal AI e Nebius/NVIDIA excluem explicitamente residentes no Brasil, apesar do resumo global na capa.",
+  "atualizado_em": "2026-10-30",
+  "nota": "Auditoria 30/10/2026: separa certificações profissionais, credenciais práticas, cursos e campanhas. Databricks 10/11-08/12 tem voucher de 50% condicionado; ONE 2027 oferece pré-inscrição, não matrícula; Microsoft 100% é sorteio encerrado com resgate de ganhadores até 30/11. Linux TREATS35 encerrada.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -3588,16 +3588,16 @@
       "categoria": "Linux e DevOps",
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
-      "status": "Vigente",
-      "resumo": "Cupom TREATS35 de 35% em compras individuais elegíveis, de 28 a 29/10/2026 até 23h59 UTC (20h59 de Brasília); exclui FinOps e outras restrições da página oficial.",
-      "descricao": "Cupom TREATS35 de 35% em compras individuais elegíveis, de 28 a 29/10/2026 até 23h59 UTC (20h59 de Brasília); exclui FinOps e outras restrições da página oficial.",
+      "status": "Encerrada",
+      "resumo": "Campanha TREATS35 de 35% encerrada em 29/10/2026 às 23h59 UTC (20h59 de Brasília). Não é mais oferta vigente nem exame gratuito.",
+      "descricao": "Campanha TREATS35 de 35% encerrada em 29/10/2026 às 23h59 UTC (20h59 de Brasília). Não é mais oferta vigente nem exame gratuito.",
       "url": "https://training.linuxfoundation.org/october-2026-flash/",
       "origem": "Linux Foundation",
       "brasil": "Oferta oficial para qualquer comprador de produto elegível; impostos, câmbio e aceitação no checkout brasileiro não testados",
       "beneficio": "35% de desconto em produtos elegíveis; não é exame gratuito",
       "inscricao_ate": "2026-10-29",
       "voucher_ate": null,
-      "verificado_em": "2026-10-29",
+      "verificado_em": "2026-10-30",
       "evidencias": [
         "https://training.linuxfoundation.org/october-2026-flash/"
       ],
@@ -4064,20 +4064,141 @@
       "tipo": "Evento e capacitação",
       "grupo": "Evento e capacitação",
       "status": "Vigente",
-      "resumo": "Trilha virtual para estudantes universitários com projetos práticos de IA; evento listado para 10/11/2026, em inglês.",
-      "descricao": "Trilha virtual para estudantes universitários com projetos práticos de IA; evento listado para 10/11/2026, em inglês.",
-      "url": "https://skillsbuild.org/events",
+      "resumo": "Série online em inglês de 22/09 a 10/11/2026 com projetos práticos de IA e coorte em 03 e 10/11. Página oficial anuncia credencial digital IBM SkillsBuild e projeto de portfólio; condições individuais devem ser verificadas.",
+      "descricao": "Série online em inglês de 22/09 a 10/11/2026 com projetos práticos de IA e coorte em 03 e 10/11. Página oficial anuncia credencial digital IBM SkillsBuild e projeto de portfólio; condições individuais devem ser verificadas.",
+      "url": "https://skillsbuild.org/events/ai-us-series",
       "origem": "IBM",
       "brasil": "Evento virtual para universitários; residência brasileira não excluída na página geral, conferir cadastro.",
-      "beneficio": "Inscrição anunciada; certificado e eventual custo específico não informados.",
+      "beneficio": "Projeto prático e credencial digital anunciada; não é certificação profissional por exame.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-29",
+      "verificado_em": "2026-10-30",
       "evidencias": [
-        "https://skillsbuild.org/events"
+        "https://skillsbuild.org/events/ai-us-series"
       ],
       "certificado_curso": null,
       "evento_em": "2026-11-10"
+    },
+    {
+      "id": "rt-182",
+      "nome": "Databricks Advanced Learning Festival — 10/11 a 08/12/2026",
+      "fabricante": "Databricks",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "status": "Vigente",
+      "resumo": "Nova edição anunciada para 10/11 a 08/12/2026. Concluir integralmente ao menos uma trilha elegível dentro do período dá direito a 50% de desconto em uma certificação Databricks e 20% na assinatura anual Academy Labs; incentivos previstos para 14/12/2026. Exame não é gratuito.",
+      "descricao": "Nova edição anunciada para 10/11 a 08/12/2026. Concluir integralmente ao menos uma trilha elegível dentro do período dá direito a 50% de desconto em uma certificação Databricks e 20% na assinatura anual Academy Labs; incentivos previstos para 14/12/2026. Exame não é gratuito.",
+      "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+      "origem": "Databricks",
+      "brasil": "Evento global via Databricks Customer Academy; confirmar acesso à trilha e regras de resgate para conta individual brasileira.",
+      "beneficio": "Voucher de 50% para exame profissional, condicionado a trilha concluída no período; 20% em Academy Labs.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-30",
+      "evidencias": [
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
+      ],
+      "certificado_curso": null,
+      "inicio_em": "2026-11-10",
+      "fim_em": "2026-12-08",
+      "incentivos_previstos_em": "2026-12-14",
+      "elegibilidade": "Concluir todos os módulos de uma trilha elegível de 10/11 a 08/12; e-mail Customer Academy deve corresponder ao WebAssessor."
+    },
+    {
+      "id": "rt-183",
+      "nome": "Oracle ONE AI for Tech — pré-inscrição turma 2027",
+      "fabricante": "Oracle",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Pré-inscrição para receber informações da turma gratuita ONE AI for Tech do primeiro semestre de 2027 (duração anunciada: seis meses). Pré-inscrição não equivale a matrícula ou vaga confirmada; datas exatas de seleção não publicadas.",
+      "descricao": "Pré-inscrição para receber informações da turma gratuita ONE AI for Tech do primeiro semestre de 2027 (duração anunciada: seis meses). Pré-inscrição não equivale a matrícula ou vaga confirmada; datas exatas de seleção não publicadas.",
+      "url": "https://www.oracle.com/br/education/oracle-next-education/",
+      "origem": "Oracle",
+      "brasil": "Programa Oracle Next Education Brasil; 18 anos ou mais, computador e internet, disponibilidade recomendada de 4h diárias; verificar critérios de seleção.",
+      "beneficio": "Formação online gratuita com cursos e certificados para selecionados; pré-inscrição informativa disponível.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-30",
+      "evidencias": [
+        "https://www.oracle.com/br/education/oracle-next-education/"
+      ],
+      "certificado_curso": null,
+      "periodo_previsto": "Primeiro semestre de 2027",
+      "modalidade": "Pré-inscrição para avisos, sem garantia de vaga"
+    },
+    {
+      "id": "rt-184",
+      "nome": "Oracle ONE AI for Business — pré-inscrição turma 2027",
+      "fabricante": "Oracle",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Pré-inscrição para receber informações da turma gratuita ONE AI for Business do segundo semestre de 2027 (duração anunciada: dois meses). Não confundir com a turma 2026, cuja inscrição terminou em 21/09/2026.",
+      "descricao": "Pré-inscrição para receber informações da turma gratuita ONE AI for Business do segundo semestre de 2027 (duração anunciada: dois meses). Não confundir com a turma 2026, cuja inscrição terminou em 21/09/2026.",
+      "url": "https://www.oracle.com/br/education/oracle-next-education/",
+      "origem": "Oracle",
+      "brasil": "Programa Oracle Next Education Brasil; 18 anos ou mais, computador e internet; critérios de seleção e datas exatas de 2027 não divulgados.",
+      "beneficio": "Formação online gratuita com cursos e certificados para selecionados; apenas pré-inscrição para novidades.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-30",
+      "evidencias": [
+        "https://www.oracle.com/br/education/oracle-next-education/"
+      ],
+      "certificado_curso": null,
+      "periodo_previsto": "Segundo semestre de 2027",
+      "modalidade": "Pré-inscrição para avisos, sem garantia de vaga"
+    },
+    {
+      "id": "rt-185",
+      "nome": "IBM SkillsBuild — Kickstart your Data and AI journeys (25/11–02/12/2026)",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Evento e capacitação",
+      "grupo": "Evento e capacitação",
+      "status": "Vigente",
+      "resumo": "Programa online em inglês com dois webinars e atividades complementares de alfabetização em dados e IA, anunciado para 25/11 a 02/12/2026; aberto a estudantes universitários e adultos. Certificado individual não confirmado.",
+      "descricao": "Programa online em inglês com dois webinars e atividades complementares de alfabetização em dados e IA, anunciado para 25/11 a 02/12/2026; aberto a estudantes universitários e adultos. Certificado individual não confirmado.",
+      "url": "https://skillsbuild.org/events/kickstart-november",
+      "origem": "IBM",
+      "brasil": "Programa virtual internacional; elegibilidade de residência brasileira e emissão de certificado individual devem ser confirmadas na inscrição.",
+      "beneficio": "Inscrição em programa educacional; não é voucher nem exame de certificação.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-30",
+      "evidencias": [
+        "https://skillsbuild.org/events/kickstart-november"
+      ],
+      "certificado_curso": null,
+      "inicio_em": "2026-11-25",
+      "fim_em": "2026-12-02"
+    },
+    {
+      "id": "rt-186",
+      "nome": "Microsoft AI Agent Skills Sweepstakes 2026 — voucher 100% (histórico)",
+      "fabricante": "Microsoft",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "status": "Encerrada",
+      "resumo": "Sorteio encerrado em 15/07/2026: 900 vencedores elegíveis, após obter Microsoft Applied Skills e inscrever-se entre 15/06 e 15/07, receberam voucher de 100% para exames AB-100, AB-900 ou AB-620. Vencedores devem agendar e realizar até 30/11/2026; não aceita novos participantes.",
+      "descricao": "Sorteio encerrado em 15/07/2026: 900 vencedores elegíveis, após obter Microsoft Applied Skills e inscrever-se entre 15/06 e 15/07, receberam voucher de 100% para exames AB-100, AB-900 ou AB-620. Vencedores devem agendar e realizar até 30/11/2026; não aceita novos participantes.",
+      "url": "https://learn.microsoft.com/en-us/credentials/support/microsoft-ai-agent-skills-sweepstakes-faq",
+      "origem": "Microsoft",
+      "brasil": "Sorteio internacional com requisitos e restrições nas regras oficiais; não é voucher aberto ao público brasileiro atualmente.",
+      "beneficio": "Voucher integral somente para ganhadores selecionados no sorteio encerrado.",
+      "inscricao_ate": "2026-07-15",
+      "voucher_ate": "2026-11-30",
+      "verificado_em": "2026-10-30",
+      "evidencias": [
+        "https://learn.microsoft.com/en-us/credentials/support/microsoft-ai-agent-skills-sweepstakes-faq"
+      ],
+      "certificado_curso": null,
+      "premiados": 900
     }
   ]
 }
