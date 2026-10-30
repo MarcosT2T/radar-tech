@@ -1281,6 +1281,61 @@
         "https://github.com/education/students",
         "https://www.dio.me/bootcamp/coding-the-future-claro-java-spring-boot"
       ]
+    },
+    {
+      "data": "2026-10-30",
+      "titulo": "Complemento 30/10 — quatro turmas IBM SkillsBuild com credenciais digitais",
+      "resumo": "Pesquisa adicional em fontes oficiais: quatro turmas gratuitas IBM SkillsBuild, ainda não individualizadas no catálogo, foram verificadas e cadastradas (186 → 190 registros). Duas iniciam em 23/11 (ciência de dados empresarial e análise de dados com Python para sustentabilidade) e duas em 30/11 (IA para sustentabilidade e produtividade com IA). Todas são virtuais, em inglês, abertas a adultos e universitários, com credencial digital IBM após requisitos; não são certificações profissionais por exame. Nenhuma nova promoção oficial de exame CompTIA ou Microsoft com elegibilidade brasileira comprovada foi confirmada.",
+      "destaques": [
+        {
+          "titulo": "IBM — Enterprise Data Science in Practice",
+          "descricao": "23/11 a 20/12: quatro semanas, quatro sessões ao vivo, metodologia de ciência de dados aplicada; credencial digital IBM.",
+          "url": "https://skillsbuild.org/pt-br/events/enterprise-ds-in-practice",
+          "tipo": "Curso com credencial digital"
+        },
+        {
+          "titulo": "IBM — Data Analytics for Sustainability",
+          "descricao": "23/11 a 20/12: análise de dados, Python, visualização e projeto aplicado; credencial digital IBM.",
+          "url": "https://skillsbuild.org/pt-br/events/da-sustentability",
+          "tipo": "Curso com credencial digital"
+        },
+        {
+          "titulo": "IBM — AI for Sustainability",
+          "descricao": "30/11 a 27/12: machine learning, deep learning e aplicações socioambientais; credencial digital IBM.",
+          "url": "https://skillsbuild.org/pt-br/events/ai-for-sustainability",
+          "tipo": "Curso com credencial digital"
+        },
+        {
+          "titulo": "IBM — AI Skills for Everyday Productivity",
+          "descricao": "30/11 a 13/12: IA para síntese, dados, decisões e fluxos; certificado digital IBM SkillsBuild.",
+          "url": "https://skillsbuild.org/events/ai-for-everyone",
+          "tipo": "Curso com credencial digital"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 186,
+        "catalogo_total": 190,
+        "novos_registros": 4,
+        "analises_anteriores_preservadas": 19
+      },
+      "observacoes": [
+        "A gratuidade geral da plataforma IBM SkillsBuild é afirmada no site oficial; páginas dos programas exibem inscrição e credenciais digitais.",
+        "Abertura para adultos e estudantes universitários confirmada; ausência de exclusão brasileira não garante cadastro concluído. Não foi testado o formulário de inscrição.",
+        "Credencial digital IBM SkillsBuild é distinta de exame profissional de certificação, voucher ou certificação Microsoft/CompTIA.",
+        "Pesquisas sobre Microsoft Learn, CompTIA Academic Store, Emerging Store, vouchers e demais fabricantes não revelaram benefício novo com preço e elegibilidade brasileira integralmente comprovados nesta rodada.",
+        "O desafio IBM North America AI Builders Challenge não foi cadastrado por não haver comprovação de elegibilidade brasileira para a edição norte-americana.",
+        "O levantamento compara os novos registros com o JSON atual e não repete eventos já cadastrados."
+      ],
+      "fontes": [
+        "https://skillsbuild.org/pt-br/events/enterprise-ds-in-practice",
+        "https://skillsbuild.org/pt-br/events/da-sustentability",
+        "https://skillsbuild.org/pt-br/events/ai-for-sustainability",
+        "https://skillsbuild.org/events/ai-for-everyone",
+        "https://skillsbuild.org/",
+        "https://skillsbuild.org/events",
+        "https://pt.linkedin.com/posts/comptia-brasil_comptia-brasil-pre%C3%A7os-mais-baixos2026-activity-7415827322622455808-Xx0Q",
+        "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions"
+      ]
     }
   ]
 }
