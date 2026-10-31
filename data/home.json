@@ -1432,6 +1432,50 @@
         "https://www.oracle.com/education/training/",
         "https://www.dio.me/"
       ]
+    },
+    {
+      "data": "2026-10-31",
+      "titulo": "Complemento 31/10 — Serpro IA online, Semana Dados BR reaberta e filtro de elegibilidade Devpost",
+      "resumo": "Pesquisa em fontes oficiais identificou duas oportunidades inéditas e ativas para brasileiros, totalizando 195 registros: II Semana de IA Serpro (4–6/11, online gratuita com certificado via Teams) e Semana Dados BR (23–26/11, presencial gratuita em Brasília, inscrições reabertas). Revisão crítica do regulamento Devpost confirma que residentes no Brasil estão excluídos dos hackathons globais que aplicam as 'standard exceptions'. Não foi confirmado voucher novo de exame CompTIA ou Microsoft utilizável no Brasil.",
+      "destaques": [
+        {
+          "titulo": "Serpro — II Semana de IA 2026",
+          "tipo": "Evento gratuito com certificado",
+          "descricao": "4 a 6/11; online via Teams, inscrições até o evento, certificado condicionado à participação. Presencial esgotado.",
+          "url": "https://campanhas.serpro.gov.br/semana-de-ia-serpro/"
+        },
+        {
+          "titulo": "CGU/Enap — Semana Dados BR 2026",
+          "tipo": "Evento gratuito, inscrições reabertas",
+          "descricao": "23 a 26/11 na Enap, Brasília. Últimas vagas anunciadas em 29/10. Governança, IA, cibersegurança e dados; certificado não confirmado.",
+          "url": "https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/semana-dados-br/semana-dados-br-2026"
+        },
+        {
+          "titulo": "Devpost — exceções globais excluem o Brasil",
+          "tipo": "Alerta de elegibilidade",
+          "descricao": "O Help Center oficial lista Brazil entre as exceções padrão. Não recomendar hackathons 'all countries, excluding standard exceptions' sem regulamento que permita explicitamente brasileiros.",
+          "url": "https://help.devpost.com/article/144-what-are-the-standard-exceptions-for-global-eligibility"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 195,
+        "novos_registros": 2,
+        "registros_excluidos_por_elegibilidade": 0
+      },
+      "observacoes": [
+        "Semana de IA Serpro: inscrição via Teams para certificado; YouTube não certifica; vagas presenciais esgotadas.",
+        "Semana Dados BR: reabertura anunciada em portal governamental; confirmar vaga no formulário antes de deslocamento.",
+        "Devpost: regra global padrão inclui Brasil na lista de países excluídos; Neural Storm, DATANOVA e Global AI Builder’s Challenge não devem ser classificados como acessíveis a brasileiros sob essa regra.",
+        "CompTIA: não houve confirmação nova de vouchers gratuitos ou desconto Academic Store aplicável a estudantes brasileiros. Emerging Store continua sendo o canal regional a conferir.",
+        "Microsoft: campanhas históricas de voucher expiradas não foram repetidas."
+      ],
+      "fontes": [
+        "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
+        "https://www7.serpro.gov.br/menu/noticias/noticias-2026/a-poucos-dias-da-semana-de-ia-serpro-soberania-pauta-debate-sobre-o-futuro-dos-servicos-publicos",
+        "https://www.gov.br/cgu/pt-br/assuntos/noticias/semana-dados-br-promove-debates-sobre-o-universo-dos-dados-e-da-inteligencia-artificial",
+        "https://redeparcerias.sistema.gov.br/evento_visualizacao/147",
+        "https://help.devpost.com/article/144-what-are-the-standard-exceptions-for-global-eligibility"
+      ]
     }
   ]
 }
