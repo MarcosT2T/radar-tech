@@ -4368,6 +4368,53 @@
       "certificado_curso": null,
       "inicio_em": "2026-11-23",
       "fim_em": "2026-12-20"
+    },
+    {
+      "id": "rt-194",
+      "nome": "Serpro — II Semana de IA 2026 (online, com certificado)",
+      "fabricante": "Serpro",
+      "categoria": "IA e Ciência de Dados",
+      "tipo": "Evento e capacitação",
+      "grupo": "Evento e capacitação",
+      "status": "Vigente",
+      "resumo": "4 a 6/11/2026; evento gratuito sobre soberania de IA, governança de dados, infraestrutura, nuvem e aplicações. Inscrição online via Teams dá direito a certificado de participação; vagas presenciais em Brasília esgotadas.",
+      "descricao": "Evento público brasileiro, gratuito, aberto a estudantes e profissionais. Inscrições online até o encerramento. Certificado para inscritos que participarem via Teams; YouTube sem certificado. Não é certificação profissional por exame.",
+      "url": "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
+      "origem": "Serpro",
+      "brasil": "Elegibilidade confirmada: aberto ao público brasileiro; participação online gratuita. Presencial esgotado.",
+      "beneficio": "Participação online e certificado gratuitos; nenhuma prova profissional ou voucher",
+      "inscricao_ate": "2026-11-06",
+      "voucher_ate": null,
+      "verificado_em": "2026-10-31",
+      "evidencias": [
+        "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
+        "https://www7.serpro.gov.br/menu/noticias/noticias-2026/a-poucos-dias-da-semana-de-ia-serpro-soberania-pauta-debate-sobre-o-futuro-dos-servicos-publicos"
+      ],
+      "certificado_curso": "Certificado de participação (Teams ou presencial, condicionado à presença)"
+    },
+    {
+      "id": "rt-195",
+      "nome": "CGU/Enap — Semana Dados BR 2026 (inscrições reabertas)",
+      "fabricante": "CGU / Enap",
+      "categoria": "IA e Ciência de Dados",
+      "tipo": "Evento e capacitação",
+      "grupo": "Evento e capacitação",
+      "status": "Vigente",
+      "resumo": "23 a 26/11/2026 na Enap, Brasília. Evento gratuito sobre governança de dados, IA, segurança cibernética, interoperabilidade e proteção de dados. Inscrições reabertas e últimas vagas anunciadas em 29/10.",
+      "descricao": "Evento presencial, gratuito e aberto a toda a sociedade, inclusive estudantes, desenvolvedores e profissionais de dados. Vagas limitadas; confirmação de inscrição necessária. Certificado não confirmado na fonte consultada. Não é exame de certificação profissional.",
+      "url": "https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/semana-dados-br/semana-dados-br-2026",
+      "origem": "CGU / Enap",
+      "brasil": "Confirmado: evento presencial em Brasília, aberto ao público brasileiro; não é remoto.",
+      "beneficio": "Participação gratuita; certificado individual não confirmado",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-31",
+      "evidencias": [
+        "https://www.gov.br/cgu/pt-br/assuntos/noticias/semana-dados-br-promove-debates-sobre-o-universo-dos-dados-e-da-inteligencia-artificial",
+        "https://redeparcerias.sistema.gov.br/evento_visualizacao/147",
+        "https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/semana-dados-br/semana-dados-br-2026"
+      ],
+      "certificado_curso": "Não confirmado"
     }
   ]
 }
