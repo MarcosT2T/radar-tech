@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30",
+  "atualizado_em": "2026-10-31",
   "analises": [
     {
       "data": "2026-10-23",
@@ -1335,6 +1335,102 @@
         "https://skillsbuild.org/events",
         "https://pt.linkedin.com/posts/comptia-brasil_comptia-brasil-pre%C3%A7os-mais-baixos2026-activity-7415827322622455808-Xx0Q",
         "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions"
+      ]
+    },
+    {
+      "data": "2026-10-31",
+      "titulo": "Radar Tech — 31/10: IBM IA em saúde, benefícios AWS anteriores e correções de prazos",
+      "resumo": "Em 31/10/2026, a pesquisa em fontes oficiais identificou três oportunidades ainda não individualizadas (190 → 193 registros): coorte gratuita IBM SkillsBuild sobre IA na saúde (23/11–20/12, certificado individual não confirmado) e duas campanhas históricas AWS já encerradas para novas adesões, mas com prazos de uso para participantes anteriormente elegíveis (CLF-C02 até 30/11 e retake Professional/Specialty até 30/04/2027). Quatro registros foram revisados: Linux Foundation ATO26 passou a Encerrada após 30/10; a data da IBM AI Fluency Pathway foi corrigida de 02/11 para 21/12; o laboratório IBM Bob recebeu link direto; e a matrícula Santander + DIO ficou A confirmar porque a página dinâmica não permitiu verificar inscrições nesta rodada. O piloto ISC2 AI Security aceita manifestação de interesse antes de 04/11, mediante seleção. Nenhuma nova campanha universal de exame profissional 100% gratuito com adesões abertas foi confirmada nesta pesquisa; isso é ausência de novidade nessa modalidade, não falha da pesquisa.",
+      "destaques": [
+        {
+          "titulo": "IBM SkillsBuild — AI in Healthcare (23/11 a 20/12)",
+          "descricao": "Coorte virtual gratuita de quatro semanas, em inglês, para adultos e universitários: IA em saúde, dados e privacidade, quatro sessões ao vivo e projeto final. Certificado individual não confirmado.",
+          "url": "https://www.skillsbuild.org/events/ai-in-healthcare-professionals",
+          "tipo": "Programa de formação"
+        },
+        {
+          "titulo": "AWS — Cloud Practitioner gratuito apenas para participantes anteriores",
+          "descricao": "A campanha fechou novas adesões em 30/09. Quem usou o código e passou no AIF-C01 até aquela data pode fazer o CLF-C02 gratuitamente até 30/11; não é voucher aberto agora.",
+          "url": "https://aws.amazon.com/pt/certification/bulk-voucher/terms-and-conditions/",
+          "tipo": "Campanha encerrada"
+        },
+        {
+          "titulo": "AWS — segunda tentativa Professional/Specialty condicionada",
+          "descricao": "Vouchers pré-pagos adquiridos até 30/06 podem permitir retake gratuito se a primeira prova elegível for reprovada até 31/12; repetição até 30/04/2027. Novas compras elegíveis encerradas.",
+          "url": "https://aws.amazon.com/pt/certification/bulk-voucher/terms-and-conditions/",
+          "tipo": "Campanha encerrada"
+        },
+        {
+          "titulo": "Linux Foundation ATO26 — promoção encerrada",
+          "descricao": "Cupom de 40% anunciado exclusivamente como benefício de participantes All Things Open terminou em 30/10; registro alterado para Encerrada.",
+          "url": "https://training.linuxfoundation.org/ato-2026/",
+          "tipo": "Campanha encerrada"
+        },
+        {
+          "titulo": "ISC2 — AI Security Pilot: interesse antes de 04/11",
+          "descricao": "Exame piloto gratuito somente para selecionados, com experiência profissional exigida e prova presencial em inglês. Não foi validada disponibilidade de centro elegível no Brasil.",
+          "url": "https://www.isc2.org/new-ai-certification",
+          "tipo": "Exame piloto condicional"
+        },
+        {
+          "titulo": "Databricks — Advanced Learning Festival em novembro",
+          "descricao": "De 10/11 a 08/12, concluir trilha elegível no período permite voucher de 50% para exame pago; não é certificação gratuita.",
+          "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+          "tipo": "Campanha de voucher"
+        },
+        {
+          "titulo": "IBM SkillsBuild — correção AI Fluency Pathway",
+          "descricao": "Calendário oficial agora indica 21/12/2026, e não 02/11. O laboratório IBM Bob de 10/11 recebeu link direto.",
+          "url": "https://skillsbuild.org/events",
+          "tipo": "Correção de calendário"
+        },
+        {
+          "titulo": "Santander + DIO — assistente de IA",
+          "descricao": "Prazo anteriormente anunciado para 03/11; a página atual depende de JavaScript e não permitiu confirmar novas matrículas. Registro classificado A confirmar.",
+          "url": "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
+          "tipo": "Programa de formação a confirmar"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 190,
+        "catalogo_total": 193,
+        "novos_registros": 3,
+        "novas_campanhas_abertas_confirmadas": 0,
+        "novas_campanhas_historicas_encerradas": 2,
+        "novos_programas_de_formacao": 1,
+        "registros_revisados": 4,
+        "registros_marcados_encerrada": 1,
+        "registros_marcados_a_confirmar": 1,
+        "correcoes_de_data": 1,
+        "analises_anteriores_preservadas": 20
+      },
+      "observacoes": [
+        "Os três novos registros são descobertas do catálogo, não anúncios publicados necessariamente em 31/10.",
+        "Não foi encontrada campanha universal nova de exame profissional gratuito aberta nesta varredura; a pesquisa foi executada e a ausência de oferta não é falha de integração.",
+        "Campanhas AWS de retake e Cloud Practitioner exigem participação anterior; estão Encerrada para novos participantes apesar dos prazos de uso remanescentes.",
+        "A IBM SkillsBuild anuncia a coorte IA na saúde como evento virtual aberto a adultos e universitários; matrícula individual não foi testada e certificado específico não está confirmado.",
+        "A página oficial Linux Foundation informa término do ATO26 em 30/10; benefício era restrito a participantes do evento.",
+        "A listagem oficial IBM SkillsBuild em 31/10 situa AI Fluency Pathway em 21/12, corrigindo data errada de 02/11 no registro anterior.",
+        "A página Santander Open Academy carregou apenas iframe/JavaScript na consulta pública; status A confirmar representa falta de verificação operacional atual, não prova de encerramento.",
+        "Fontes de Microsoft, AWS, Cisco, Oracle, CompTIA, ISC2, Databricks, Neo4j, Linux Foundation, GitHub, DIO e IBM foram pesquisadas em extensão variável; ausência de descoberta não prova inexistência global.",
+        "Sem uso de APIs pagas; não houve teste de checkout, autenticação ou elegibilidade individual.",
+        "O GitHub Pages não foi validado visualmente nesta execução."
+      ],
+      "fontes": [
+        "https://www.skillsbuild.org/events/ai-in-healthcare-professionals",
+        "https://skillsbuild.org/",
+        "https://aws.amazon.com/pt/certification/bulk-voucher/terms-and-conditions/",
+        "https://training.linuxfoundation.org/ato-2026/",
+        "https://www.isc2.org/new-ai-certification",
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+        "https://skillsbuild.org/events",
+        "https://skillsbuild.org/events/tennis-data-ai-predictions",
+        "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
+        "https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams",
+        "https://aws.amazon.com/blogs/training-and-certification/",
+        "https://www.netacad.com/",
+        "https://www.oracle.com/education/training/",
+        "https://www.dio.me/"
       ]
     }
   ]
