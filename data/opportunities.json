@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30",
+  "atualizado_em": "2026-10-31",
   "nota": "Auditoria 30/10/2026: separa certificações profissionais, credenciais práticas, cursos e campanhas. Databricks 10/11-08/12 tem voucher de 50% condicionado; ONE 2027 oferece pré-inscrição, não matrícula; Microsoft 100% é sorteio encerrado com resgate de ganhadores até 30/11. Linux TREATS35 encerrada. Complemento 30/10: quatro turmas IBM SkillsBuild gratuitas e com credenciais digitais, sem confundir com certificação profissional. Sem confirmação de voucher CompTIA/Microsoft novo elegível ao Brasil.",
   "oportunidades": [
     {
@@ -3250,16 +3250,16 @@
       "categoria": "Dados e Inteligência Artificial",
       "tipo": "Programa de formação",
       "grupo": "Programa de formação",
-      "status": "Vigente",
-      "resumo": "15 mil bolsas gratuitas para curso online de aproximadamente 20h e três mentorias sobre criação de assistentes de IA e GPTs personalizados; inscrições até 03/11/2026.",
-      "descricao": "Programa Santander Open Academy com DIO para criar assistente pessoal de IA, planejamento com Notion, engenharia de prompts e projeto de portfólio. Seleção prevista para 04/11, formação entre 24/11/2026 e 24/01/2027. Certificado de conclusão do curso, não certificação profissional por exame.",
+      "status": "A confirmar",
+      "resumo": "15 mil bolsas anunciadas para formação online em assistentes de IA; prazo divulgado anteriormente até 03/11/2026. A página atual exige JavaScript e não permitiu verificar nesta rodada a continuidade das inscrições.",
+      "descricao": "Programa Santander Open Academy com DIO para criar assistente pessoal de IA, planejamento com Notion, engenharia de prompts e projeto de portfólio. Seleção prevista para 04/11, formação entre 24/11/2026 e 24/01/2027. Certificado de conclusão do curso, não certificação profissional por exame. Verificação de 31/10: página de matrícula dinâmica não confirmou disponibilidade atual; manter A confirmar até consulta autenticada.",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
       "origem": "Santander Open Academy e DIO",
       "brasil": "Programa direcionado ao público brasileiro, 100% online; inscrição gratuita sem exigência de ser cliente Santander; bolsa sujeita a seleção.",
       "beneficio": "15 mil bolsas de curso gratuito com certificado de conclusão",
       "inscricao_ate": "2026-11-03",
       "voucher_ate": null,
-      "verificado_em": "2026-10-26",
+      "verificado_em": "2026-10-31",
       "evidencias": [
         "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
         "https://dio-me.keepo.bio/",
@@ -3610,16 +3610,16 @@
       "categoria": "Linux e DevOps",
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
-      "status": "A confirmar",
-      "resumo": "Cupom ATO26 de 40% até 30/10/2026 em produtos elegíveis; oferta oficial expressamente identificada como benefício de participantes All Things Open. Elegibilidade individual não validada.",
-      "descricao": "Cupom ATO26 de 40% até 30/10/2026 em produtos elegíveis; oferta oficial expressamente identificada como benefício de participantes All Things Open. Elegibilidade individual não validada.",
+      "status": "Encerrada",
+      "resumo": "Campanha ATO26 de 40% para participantes elegíveis do evento All Things Open, encerrada em 30/10/2026. Não é voucher gratuito; não há novas compras elegíveis anunciadas.",
+      "descricao": "Campanha ATO26 de 40% para participantes elegíveis do evento All Things Open, encerrada em 30/10/2026. Não é voucher gratuito; não há novas compras elegíveis anunciadas.",
       "url": "https://training.linuxfoundation.org/ato-2026/",
       "origem": "Linux Foundation",
       "brasil": "Página denomina 'Attendee Benefit'; elegibilidade de candidatos no Brasil não confirmada",
-      "beneficio": "40% de desconto condicionado à elegibilidade do evento; não é exame gratuito",
+      "beneficio": "Desconto de 40% encerrado em 30/10/2026; benefício restrito a participantes elegíveis",
       "inscricao_ate": "2026-10-30",
       "voucher_ate": null,
-      "verificado_em": "2026-10-29",
+      "verificado_em": "2026-10-31",
       "evidencias": [
         "https://training.linuxfoundation.org/ato-2026/"
       ],
@@ -3989,26 +3989,26 @@
     },
     {
       "id": "rt-178",
-      "nome": "IBM SkillsBuild — AI Fluency Pathway (novembro 2026)",
+      "nome": "IBM SkillsBuild — AI Fluency Pathway (21/12/2026)",
       "fabricante": "IBM",
       "categoria": "Dados e Inteligência Artificial",
       "tipo": "Evento e capacitação",
       "grupo": "Evento e capacitação",
       "status": "Vigente",
-      "resumo": "Evento virtual de trilha de fluência em IA anunciado para 02/11/2026; em inglês, para estudantes universitários e adultos.",
-      "descricao": "Evento virtual de trilha de fluência em IA anunciado para 02/11/2026; em inglês, para estudantes universitários e adultos.",
+      "resumo": "Trilha virtual AI Fluency Pathway listada pela IBM SkillsBuild para 21/12/2026, em inglês, para adultos e universitários. Registro anterior indicava incorretamente 02/11/2026.",
+      "descricao": "Trilha virtual AI Fluency Pathway listada pela IBM SkillsBuild para 21/12/2026, em inglês, para adultos e universitários. Registro anterior indicava incorretamente 02/11/2026.",
       "url": "https://skillsbuild.org/events",
       "origem": "IBM",
       "brasil": "Evento virtual internacional sem exclusão brasileira identificada; inscrição e regras individuais devem ser confirmadas.",
-      "beneficio": "Inscrição anunciada; certificado e eventual custo específico não informados.",
+      "beneficio": "Evento de capacitação; credencial e requisitos individuais não confirmados",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-29",
+      "verificado_em": "2026-10-31",
       "evidencias": [
         "https://skillsbuild.org/events"
       ],
       "certificado_curso": null,
-      "evento_em": "2026-11-02"
+      "evento_em": "2026-12-21"
     },
     {
       "id": "rt-179",
@@ -4041,17 +4041,17 @@
       "tipo": "Evento e capacitação",
       "grupo": "Evento e capacitação",
       "status": "Vigente",
-      "resumo": "Laboratório prático virtual com IBM Bob sobre dados e previsões de IA, em inglês, 10/11/2026 às 8h ET.",
-      "descricao": "Laboratório prático virtual com IBM Bob sobre dados e previsões de IA, em inglês, 10/11/2026 às 8h ET.",
-      "url": "https://skillsbuild.org/events",
+      "resumo": "Laboratório virtual de 90 minutos com IBM Bob em 10/11/2026 às 8h ET: análise de dados, treinamento de modelo e criação de aplicação Streamlit. Gratuito na plataforma IBM SkillsBuild; certificado específico não informado.",
+      "descricao": "Laboratório virtual de 90 minutos com IBM Bob em 10/11/2026 às 8h ET: análise de dados, treinamento de modelo e criação de aplicação Streamlit. Gratuito na plataforma IBM SkillsBuild; certificado específico não informado.",
+      "url": "https://skillsbuild.org/events/tennis-data-ai-predictions",
       "origem": "IBM",
       "brasil": "Evento virtual para estudantes universitários e adultos; sem exclusão brasileira identificada; cadastro pode impor condições.",
-      "beneficio": "Inscrição anunciada; certificado e eventual custo específico não informados.",
+      "beneficio": "Workshop prático gratuito; sem certificado individual confirmado",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-29",
+      "verificado_em": "2026-10-31",
       "evidencias": [
-        "https://skillsbuild.org/events"
+        "https://skillsbuild.org/events/tennis-data-ai-predictions"
       ],
       "certificado_curso": null,
       "evento_em": "2026-11-10"
@@ -4299,6 +4299,75 @@
       "certificado_curso": "IBM SkillsBuild AI Skills for Everyday Productivity Certificate (credencial digital)",
       "inicio_em": "2026-11-30",
       "fim_em": "2026-12-13"
+    },
+    {
+      "fabricante": "AWS",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "origem": "AWS",
+      "brasil": "Termos oficiais não excluem residentes no Brasil; elegibilidade individual depende de histórico de exame/voucher e da Pearson VUE",
+      "inscricao_ate": "2026-09-30",
+      "verificado_em": "2026-10-31",
+      "certificado_curso": null,
+      "id": "rt-191",
+      "nome": "AWS AI Practitioner 2026 — Cloud Practitioner gratuito para participantes anteriores",
+      "status": "Encerrada",
+      "resumo": "Campanha encerrada para novas adesões em 30/09/2026: quem utilizou o código promocional e aprovou o AWS AI Practitioner AIF-C01 até 30/09 pode realizar AWS Certified Cloud Practitioner CLF-C02 sem custo até 30/11/2026.",
+      "descricao": "Não é exame gratuito aberto ao público em 31/10. Apenas participantes previamente elegíveis que aplicaram o código e passaram no AIF-C01 até 30/09/2026 podem realizar o CLF-C02 até 30/11/2026; a oferta não pode ser combinada com outras.",
+      "url": "https://aws.amazon.com/pt/certification/bulk-voucher/terms-and-conditions/",
+      "evidencias": [
+        "https://aws.amazon.com/pt/certification/bulk-voucher/terms-and-conditions/"
+      ],
+      "beneficio": "CLF-C02 gratuito apenas a aprovados elegíveis de campanha anterior; adesão encerrada",
+      "voucher_ate": "2026-11-30"
+    },
+    {
+      "fabricante": "AWS",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "origem": "AWS",
+      "brasil": "Termos oficiais não excluem residentes no Brasil; elegibilidade individual depende de histórico de exame/voucher e da Pearson VUE",
+      "inscricao_ate": "2026-06-30",
+      "verificado_em": "2026-10-31",
+      "certificado_curso": null,
+      "id": "rt-192",
+      "nome": "AWS Professional/Specialty — retake gratuito para vouchers pré-pagos até 30/06/2026",
+      "status": "Encerrada",
+      "resumo": "Oferta encerrada para compra de vouchers em 30/06/2026: vouchers AWS Professional/Specialty pré-pagos elegíveis permitem uma segunda tentativa sem custo se a primeira for reprovada até 31/12/2026; retake até 30/04/2027.",
+      "descricao": "Somente para maiores de 18 anos que adquiriram voucher pré-pago pela loja Pearson-AWS até 30/06/2026 16h UTC; primeira prova deve ocorrer até 31/12/2026. Retake da mesma versão até 30/04/2027, com espera mínima de 14 dias. Não é promoção aberta a novos compradores.",
+      "url": "https://aws.amazon.com/pt/certification/bulk-voucher/terms-and-conditions/",
+      "evidencias": [
+        "https://aws.amazon.com/pt/certification/bulk-voucher/terms-and-conditions/"
+      ],
+      "beneficio": "Retake condicional gratuito, não a primeira prova; novas compras elegíveis encerradas",
+      "voucher_ate": "2027-04-30"
+    },
+    {
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "origem": "IBM SkillsBuild",
+      "brasil": "Evento virtual em inglês aberto a adultos e estudantes universitários; inscrição individual e disponibilidade de vagas não testadas",
+      "id": "rt-193",
+      "nome": "IBM SkillsBuild — AI in Healthcare: Turn Patient Feedback into Better Care",
+      "status": "Vigente",
+      "resumo": "Coorte virtual gratuita de 23/11 a 20/12/2026, em inglês, com quatro sessões ao vivo, conteúdos autoinstrucionais, IA para saúde, privacidade de dados e projeto de solução para organização de saúde pública.",
+      "descricao": "Programa de quatro semanas para adultos e universitários; análise de feedback de pacientes com IA generativa, suporte à decisão, documentação clínica, telemedicina e projeto final. A página não confirma certificado individual nem exame profissional.",
+      "url": "https://www.skillsbuild.org/events/ai-in-healthcare-professionals",
+      "evidencias": [
+        "https://www.skillsbuild.org/events/ai-in-healthcare-professionals",
+        "https://skillsbuild.org/"
+      ],
+      "beneficio": "Capacitação gratuita; certificado ou badge individual não confirmado",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-10-31",
+      "certificado_curso": null,
+      "inicio_em": "2026-11-23",
+      "fim_em": "2026-12-20"
     }
   ]
 }
