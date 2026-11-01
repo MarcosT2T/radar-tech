@@ -1557,6 +1557,42 @@
         "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions",
         "https://www.netacad.com/pt/catalogs/learn"
       ]
+    },
+    {
+      "data": "2026-11-01",
+      "titulo": "Radar Tech — 01/11 (complemento): IBM Z Day e IBM Z Xplore",
+      "resumo": "Pesquisa adicional em fontes oficiais Microsoft, CompTIA, AWS, Cisco, Google, Oracle, IBM e programas brasileiros. Identificadas duas oportunidades inéditas e confirmadas, gratuitas e globais da IBM: evento IBM Z Day em 18/11 com até cinco badges e trilha IBM Z Xplore sem pré-requisitos com badges digitais. Catálogo passou a 200 registros.",
+      "destaques": [
+        {
+          "titulo": "IBM Z Day 2026 — 18 de novembro",
+          "tipo": "Evento gratuito com badges",
+          "descricao": "Conferência virtual global de IA, segurança, cloud híbrida e modernização, 8h–16h30 ET, até cinco badges digitais sujeitos às condições.",
+          "url": "https://ibm.biz/ibmzday-2026"
+        },
+        {
+          "titulo": "IBM Z Xplore — formação gratuita contínua",
+          "tipo": "Curso com badges digitais",
+          "descricao": "Desafios gratuitos de Linux, Python, Db2, mainframe, Node.js, Ansible e segurança; sem pré-requisitos e acesso mundial.",
+          "url": "https://www.ibm.com/br-pt/products/z/resources/zxplore"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 200,
+        "novos_registros": 2
+      },
+      "observacoes": [
+        "Não foi confirmado voucher CompTIA gratuito ou nova promoção de certificação Microsoft com resgate local no Brasil nesta rodada.",
+        "A oferta de exame Microsoft Ignite 2026 com 100% de desconto exige participação presencial em San Francisco, entre 16 e 20/11/2026, e não é voucher remoto brasileiro; não foi cadastrada como oportunidade local.",
+        "A página atual de inscrição CIEE Google Tech permite cadastro para ser avisado da próxima edição; não foi tratada como bolsa atualmente aberta.",
+        "Badges IBM de evento/curso são credenciais digitais, não exames de certificação profissional."
+      ],
+      "fontes": [
+        "https://community.ibm.com/community/user/blogs/natalie-carrillo1/2026/10/05/ibm-z-and-linuxone-community-newsletter-october-2026",
+        "https://www.ibm.com/br-pt/think/perspectives/a-roadmap-ahead-tap-into-innovation-today-while-preparing-for-whats-next",
+        "https://www.ibm.com/br-pt/products/z/resources/zxplore",
+        "https://learn.microsoft.com/en-us/training/topics/ignite/microsoft-ignite-2026-certification-registration",
+        "https://ciee.org.br/quero-me-preparar/google-tech/google-tech-inscricao/"
+      ]
     }
   ]
 }
