@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-31",
+  "atualizado_em": "2026-11-01",
   "analises": [
     {
       "data": "2026-10-23",
@@ -1475,6 +1475,87 @@
         "https://www.gov.br/cgu/pt-br/assuntos/noticias/semana-dados-br-promove-debates-sobre-o-universo-dos-dados-e-da-inteligencia-artificial",
         "https://redeparcerias.sistema.gov.br/evento_visualizacao/147",
         "https://help.devpost.com/article/144-what-are-the-standard-exceptions-for-global-eligibility"
+      ]
+    },
+    {
+      "data": "2026-11-01",
+      "titulo": "Radar Tech — 01/11: 170 vagas técnicas gratuitas no IFB, IBM AI for Educators e expiração Oracle",
+      "resumo": "Em 01/11/2026, a varredura de fontes oficiais acrescentou três oportunidades de formação ao Radar Tech (195 → 198 registros): IFB Brasília oferece 130 vagas gratuitas em Técnico em Desenvolvimento de Sistemas (40 presenciais e 90 semipresenciais), IFB Taguatinga oferece 40 vagas gratuitas em Manutenção e Suporte em Informática, com inscrições até 22/11; IBM SkillsBuild anuncia a coorte gratuita AI for Educators de 30/11 a 27/12 com quatro credenciais de formação condicionadas à conclusão. A campanha Oracle Race to Certification 2025 foi revisada: também expirou em 31/10/2026 a validade de suas tentativas concedidas. Permanecem próximos o prazo de interesse do piloto ISC2 AI Security (antes de 04/11), o evento Serpro IA (04–06/11) e o festival Databricks (10/11–08/12, desconto condicionado de 50%). Não foi confirmada nova campanha universal de exame profissional 100% gratuito com adesão aberta; isso é ausência de novidade nessa modalidade nas fontes consultadas, não falha de pesquisa.",
+      "destaques": [
+        {
+          "titulo": "IFB Brasília — Técnico em Desenvolvimento de Sistemas (130 vagas)",
+          "tipo": "Programa de formação técnica gratuita",
+          "descricao": "40 vagas presenciais vespertinas e 90 semipresenciais noturnas (encontros presenciais obrigatórios); três semestres. Inscrições gratuitas até 22/11, por sorteio; diploma técnico, não certificação de fabricante.",
+          "url": "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1"
+        },
+        {
+          "titulo": "IFB Taguatinga — Manutenção e Suporte em Informática (40 vagas)",
+          "tipo": "Programa de formação técnica gratuita",
+          "descricao": "Curso presencial vespertino de três semestres, gratuito, para quem concluiu o Ensino Médio. Inscrições até 22/11; sorteio eletrônico.",
+          "url": "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027"
+        },
+        {
+          "titulo": "IBM SkillsBuild — AI for Educators",
+          "tipo": "Formação com credenciais digitais",
+          "descricao": "30/11 a 27/12, quatro semanas online em inglês, sessões e projetos; quatro credenciais de formação anunciadas. Não é exame de certificação profissional.",
+          "url": "https://skillsbuild.org/events/ai-for-educators"
+        },
+        {
+          "titulo": "ISC2 — piloto AI Security",
+          "tipo": "Exame piloto gratuito condicionado à seleção",
+          "descricao": "Manifestação de interesse antes de 04/11 (03/11 como último dia conservador), exige experiência e seleção; prova presencial em inglês. Centro elegível no Brasil não confirmado.",
+          "url": "https://www.isc2.org/new-ai-certification"
+        },
+        {
+          "titulo": "Serpro — II Semana de IA 2026",
+          "tipo": "Evento gratuito com certificado de participação",
+          "descricao": "04 a 06/11, Brasília e online. Inscrição via Teams necessária para certificado; transmissão YouTube não certifica.",
+          "url": "https://campanhas.serpro.gov.br/semana-de-ia-serpro/"
+        },
+        {
+          "titulo": "Databricks — Advanced Learning Festival",
+          "tipo": "Campanha de desconto condicionada",
+          "descricao": "10/11 a 08/12: concluir trilha elegível no período para voucher de 50% no exame pago; benefícios previstos para 14/12.",
+          "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
+        },
+        {
+          "titulo": "Oracle Race to Certification 2025",
+          "tipo": "Campanha encerrada",
+          "descricao": "Encerrada para novos inscritos desde 2025; tentativas concedidas anteriormente também expiraram em 31/10/2026. Não há resgate vigente.",
+          "url": "https://blogs.oracle.com/oracleuniversity/announcing-race-to-certification-2025"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 195,
+        "novos_registros": 3,
+        "registros_revisados": 1,
+        "catalogo_total": 198,
+        "novos_registros_confirmados": 3,
+        "campanhas_universais_exame_gratuito_novas": 0,
+        "pesquisa_concluida": true
+      },
+      "observacoes": [
+        "IFB: 170 vagas são de cursos técnicos formais (130 em Desenvolvimento de Sistemas e 40 em Suporte), não vouchers de certificação profissional; exigem presença no DF e Ensino Médio concluído.",
+        "IFB: inscrição de 23/10 a 22/11, uma opção de curso por edital; sorteio 24/11 e resultado 26/11; inscrição não garante vaga.",
+        "IBM AI for Educators: credenciais de formação e certificado de desenvolvimento profissional não equivalem a certificação profissional por exame; disponibilidade individual de vagas não testada.",
+        "ISC2: seleção e centro Pearson Professional Center elegível no Brasil não confirmados; não classificar como exame gratuito universal.",
+        "Oracle Race 2025: encerradas tanto as novas adesões quanto a validade das tentativas concedidas em 2025.",
+        "Não houve comprovação de voucher novo e universal de exame Microsoft, AWS, Cisco, CompTIA ou ISC2 para candidatos brasileiros; ausência de novidade confirmada, não falha na pesquisa.",
+        "Fontes oficiais consultadas; nenhuma API paga utilizada. A publicação visual no GitHub Pages deve ser distinguida da gravação dos arquivos no repositório."
+      ],
+      "fontes": [
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1",
+        "https://skillsbuild.org/events/ai-for-educators",
+        "https://skillsbuild.org/",
+        "https://www.isc2.org/new-ai-certification",
+        "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+        "https://blogs.oracle.com/oracleuniversity/announcing-race-to-certification-2025",
+        "https://aws.amazon.com/pt/certification/bulk-voucher/terms-and-conditions/",
+        "https://learn.microsoft.com/pt-br/credentials/support/microsoft-credentials-ai-challenge-sweepstakes-frequently-asked-questions",
+        "https://www.netacad.com/pt/catalogs/learn"
       ]
     }
   ]
