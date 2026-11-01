@@ -4489,6 +4489,54 @@
       "certificado_curso": "Quatro credenciais IBM SkillsBuild anunciadas, condicionadas à conclusão",
       "inicio_em": "2026-11-30",
       "fim_em": "2026-12-27"
+    },
+    {
+      "id": "rt-199",
+      "nome": "IBM Z Day 2026 — IA, segurança, cloud híbrida e até 5 badges",
+      "fabricante": "IBM",
+      "categoria": "Evento e capacitação",
+      "tipo": "Evento e capacitação",
+      "grupo": "Evento e capacitação",
+      "status": "Vigente",
+      "resumo": "Conferência global online gratuita em 18/11/2026, das 8h às 16h30 ET, com 7 trilhas técnicas e possibilidade de obter até cinco badges digitais IBM, sujeitos às regras de participação.",
+      "descricao": "Evento IBM Z/LinuxONE com temas de IA e dados, modernização, segurança resistente à computação quântica, aplicações e operações. IBM confirma evento gratuito, virtual e aberto globalmente. Os cinco badges são oportunidades de credenciais digitais, não cinco certificações profissionais automáticas; regras de concessão devem ser conferidas no cadastro.",
+      "url": "https://ibm.biz/ibmzday-2026",
+      "origem": "IBM",
+      "brasil": "Confirmado: conferência global virtual e gratuita aberta a todos; residentes no Brasil podem acompanhar remotamente. Inscrição individual não concluída.",
+      "beneficio": "Inscrição e participação gratuitas; até cinco badges digitais conforme critérios do evento",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-11-01",
+      "evidencias": [
+        "https://community.ibm.com/community/user/blogs/natalie-carrillo1/2026/10/05/ibm-z-and-linuxone-community-newsletter-october-2026",
+        "https://www.ibm.com/br-pt/think/perspectives/a-roadmap-ahead-tap-into-innovation-today-while-preparing-for-whats-next"
+      ],
+      "certificado_curso": "Até cinco badges IBM condicionados aos critérios das trilhas",
+      "inicio_em": "2026-11-18",
+      "fim_em": "2026-11-18"
+    },
+    {
+      "id": "rt-200",
+      "nome": "IBM Z Xplore — desafios gratuitos e badges digitais",
+      "fabricante": "IBM",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Plataforma global e gratuita, com desafios práticos em IBM Z, Linux, Python, Db2, Node.js, Ansible e segurança corporativa; badges digitais.",
+      "descricao": "Aprendizagem contínua, sem pré-requisitos, com ambientes IBM Z e desafios práticos. IBM confirma acesso gratuito em todo o mundo, inclusive Brasil, e badges digitais de aprendizagem. Os badges não equivalem a exames de certificação profissional IBM.",
+      "url": "https://www.ibm.com/br-pt/products/z/resources/zxplore",
+      "origem": "IBM",
+      "brasil": "Confirmado: plataforma disponível globalmente sem custo; acesso brasileiro indicado pela página IBM Brasil.",
+      "beneficio": "Acesso gratuito e badges digitais mediante conclusão dos desafios",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-11-01",
+      "evidencias": [
+        "https://www.ibm.com/br-pt/products/z/resources/zxplore",
+        "https://www.ibm.com/br-pt/products/z/education"
+      ],
+      "certificado_curso": "Badges IBM Z Xplore, não certificação profissional por exame"
     }
   ]
 }
