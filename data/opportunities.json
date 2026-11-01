@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-31",
-  "nota": "Auditoria 30/10/2026: separa certificações profissionais, credenciais práticas, cursos e campanhas. Databricks 10/11-08/12 tem voucher de 50% condicionado; ONE 2027 oferece pré-inscrição, não matrícula; Microsoft 100% é sorteio encerrado com resgate de ganhadores até 30/11. Linux TREATS35 encerrada. Complemento 30/10: quatro turmas IBM SkillsBuild gratuitas e com credenciais digitais, sem confundir com certificação profissional. Sem confirmação de voucher CompTIA/Microsoft novo elegível ao Brasil.",
+  "atualizado_em": "2026-11-01",
+  "nota": "Revisão 01/11/2026: IFB 2027/1 é formação técnica gratuita e local, não certificação profissional; IBM SkillsBuild emite credenciais de formação, não exames profissionais. Campanha Oracle Race 2025 e tentativas concedidas expiraram. Não foi confirmada nova campanha universal de exame profissional gratuito.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -2566,15 +2566,15 @@
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
       "status": "Encerrada",
-      "resumo": "Inscrição encerrada em 31/10/2025. Tentativa de exame profissional concedida a quem concluiu o nível 3 ou ganhou prêmio Top 500 pode ser usada até 31/10/2026, conforme regras da campanha. Não aceita novos inscritos.",
-      "descricao": "Inscrição encerrada em 31/10/2025. Tentativa de exame profissional concedida a quem concluiu o nível 3 ou ganhou prêmio Top 500 pode ser usada até 31/10/2026, conforme regras da campanha. Não aceita novos inscritos.",
+      "resumo": "Campanha Oracle Race to Certification 2025 encerrada para inscrições em 31/10/2025; também expirou em 31/10/2026 a validade das tentativas de exame anteriormente concedidas. Não há resgate vigente.",
+      "descricao": "Campanha Oracle Race to Certification 2025 encerrada para inscrições em 31/10/2025; também expirou em 31/10/2026 a validade das tentativas de exame anteriormente concedidas. Não há resgate vigente.",
       "url": "https://blogs.oracle.com/oracleuniversity/announcing-race-to-certification-2025",
       "origem": "Oracle",
       "brasil": "Acesso online internacional; verificar disponibilidade para residentes no Brasil e requisitos de conta",
-      "beneficio": "Tentativa gratuita apenas para participantes elegíveis de 2025",
+      "beneficio": "Benefício histórico encerrado: prazo de uso das tentativas gratuitas expirado em 31/10/2026",
       "inscricao_ate": "2025-10-31",
       "voucher_ate": "2026-10-31",
-      "verificado_em": "2026-10-24",
+      "verificado_em": "2026-11-01",
       "evidencias": [
         "https://blogs.oracle.com/oracleuniversity/announcing-race-to-certification-2025"
       ],
@@ -4415,6 +4415,80 @@
         "https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/semana-dados-br/semana-dados-br-2026"
       ],
       "certificado_curso": "Não confirmado"
+    },
+    {
+      "id": "rt-196",
+      "nome": "IFB 2027/1 — Técnico em Desenvolvimento de Sistemas (130 vagas)",
+      "fabricante": "Instituto Federal de Brasília",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Seleção gratuita para 130 vagas no Técnico em Desenvolvimento de Sistemas: 40 presenciais vespertinas e 90 semipresenciais noturnas no campus Brasília, ambas com três semestres. Inscrições até 22/11/2026 por sorteio eletrônico.",
+      "descricao": "IFB 2027/1: 40 vagas presenciais à tarde e 90 semipresenciais à noite, com encontros presenciais obrigatórios. Diploma técnico de formação formal, não certificação profissional de fabricante. Requer Ensino Médio concluído para a modalidade subsequente; inscrição via Gov.br e apenas um curso por edital. Sorteio 24/11, resultado 26/11; não há garantia de vaga.",
+      "url": "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+      "origem": "IFB",
+      "brasil": "Oferta local no Distrito Federal (campus Brasília); modalidade semipresencial exige presença física. Ensino Médio concluído; uma opção de curso por edital.",
+      "beneficio": "Inscrição e curso gratuitos; diploma técnico após aprovação. Não é voucher de certificação profissional.",
+      "inscricao_ate": "2026-11-22",
+      "voucher_ate": null,
+      "verificado_em": "2026-11-01",
+      "evidencias": [
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1"
+      ],
+      "certificado_curso": "Diploma de Técnico em Desenvolvimento de Sistemas (formação formal, condicionado à conclusão)",
+      "inicio_em": "2027-01-27"
+    },
+    {
+      "id": "rt-197",
+      "nome": "IFB 2027/1 — Técnico em Manutenção e Suporte em Informática (40 vagas)",
+      "fabricante": "Instituto Federal de Brasília",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "40 vagas gratuitas para Técnico em Manutenção e Suporte em Informática no IFB Taguatinga; presencial vespertino, três semestres. Inscrições até 22/11/2026; seleção por sorteio.",
+      "descricao": "Curso técnico subsequente presencial de manutenção e suporte em informática (40 vagas, 3 semestres, turno vespertino). Requer Ensino Médio concluído; inscrição gratuita via Gov.br, somente um curso por edital. Formação técnica formal, não certificação CompTIA ou Cisco. Resultado do sorteio previsto para 26/11/2026.",
+      "url": "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+      "origem": "IFB",
+      "brasil": "Oferta local presencial no Distrito Federal, campus Taguatinga. Ensino Médio concluído; uma inscrição por edital.",
+      "beneficio": "Inscrição e curso gratuitos; diploma técnico condicionado à conclusão. Sem voucher para exames profissionais.",
+      "inscricao_ate": "2026-11-22",
+      "voucher_ate": null,
+      "verificado_em": "2026-11-01",
+      "evidencias": [
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1"
+      ],
+      "certificado_curso": "Diploma de Técnico em Manutenção e Suporte em Informática (após conclusão)",
+      "inicio_em": "2027-01-27"
+    },
+    {
+      "id": "rt-198",
+      "nome": "IBM SkillsBuild — AI for Educators (30/11–27/12/2026)",
+      "fabricante": "IBM",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Coorte online gratuita de 4 semanas em inglês (30/11 a 27/12) para uso responsável de IA no ensino, com sessões ao vivo, projetos e quatro credenciais IBM SkillsBuild anunciadas.",
+      "descricao": "Aberta a adultos e universitários segundo a página oficial; trilha de desenvolvimento profissional em IA aplicada à educação. Inclui quatro sessões com instrutor, conteúdos autoinstrucionais e projeto final. Quatro credenciais de formação: AI Foundations for Educators, Applied AI in the Classroom, Professional Growth and Future Readiness with AI e AI for Educators Professional Development Certificate. Não é certificação profissional supervisionada por exame; disponibilidade individual de vaga e regras de conclusão devem ser verificadas no cadastro.",
+      "url": "https://skillsbuild.org/events/ai-for-educators",
+      "origem": "IBM SkillsBuild",
+      "brasil": "Online em inglês; a página anuncia abertura a adultos e universitários, sem exclusão expressa do Brasil. Inscrição individual não testada.",
+      "beneficio": "Formação gratuita com quatro credenciais digitais/ certificado de desenvolvimento profissional anunciados, sujeitos à conclusão.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-11-01",
+      "evidencias": [
+        "https://skillsbuild.org/events/ai-for-educators",
+        "https://skillsbuild.org/"
+      ],
+      "certificado_curso": "Quatro credenciais IBM SkillsBuild anunciadas, condicionadas à conclusão",
+      "inicio_em": "2026-11-30",
+      "fim_em": "2026-12-27"
     }
   ]
 }
