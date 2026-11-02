@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-01",
-  "nota": "Revisão 01/11/2026: IFB 2027/1 é formação técnica gratuita e local, não certificação profissional; IBM SkillsBuild emite credenciais de formação, não exames profissionais. Campanha Oracle Race 2025 e tentativas concedidas expiraram. Não foi confirmada nova campanha universal de exame profissional gratuito.",
+  "atualizado_em": "2026-11-02",
+  "nota": "02/11/2026: adicionados AWS Educate, desconto acadêmico Microsoft e Applied Skills C# (3 registros novos); revisados Pearson Global Retake, Semana de IA Serpro e ISC2 AI Security (3 registros). Não foi confirmada nova campanha universal de exame profissional gratuito; pesquisar não equivale a validar matrícula ou checkout. Benefícios condicionados preservados.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -2610,15 +2610,15 @@
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
       "status": "Vigente",
-      "resumo": "Para exames elegíveis comprados e realizados entre 29/09 e 17/11/2026, a reprovação pode dar direito a uma repetição gratuita entre 04/01 e 07/04/2027. Participam AWS, Microsoft, Cisco CCST, Fortinet, IBM e outros; CompTIA não está na lista. A primeira prova é paga, exige adesão e código. AWS tem 50% na primeira tentativa para exames participantes; exclusões incluem ANS, MLA, SAP, DVA e betas. Microsoft ESI excluído; Cisco apenas CCST Networking/Cybersecurity/IT Specialist.",
-      "descricao": "Para exames elegíveis comprados e realizados entre 29/09 e 17/11/2026, a reprovação pode dar direito a uma repetição gratuita entre 04/01 e 07/04/2027. Participam AWS, Microsoft, Cisco CCST, Fortinet, IBM e outros; CompTIA não está na lista. A primeira prova é paga, exige adesão e código. AWS tem 50% na primeira tentativa para exames participantes; exclusões incluem ANS, MLA, SAP, DVA e betas. Microsoft ESI excluído; Cisco apenas CCST Networking/Cybersecurity/IT Specialist.",
+      "resumo": "Pearson Global Retake: inscrição prévia e primeira prova paga em programa participante (período divulgado 29/09–17/11/2026); termos detalhados dizem que a primeira tentativa deve ser concluída ANTES de 17/11, portanto 16/11 é a referência conservadora. Reprovação elegível dá retake gratuito de 04/01 a 07/04/2027. Cisco apenas CCST Networking/Cybersecurity/IT Specialist; CompTIA não consta. AWS tem 50% na primeira tentativa para exames participantes e exclui ANS, MLA, SAP, DVA e betas.",
+      "descricao": "Pearson Global Retake: inscrição prévia e primeira prova paga em programa participante (período divulgado 29/09–17/11/2026); termos detalhados dizem que a primeira tentativa deve ser concluída ANTES de 17/11, portanto 16/11 é a referência conservadora. Reprovação elegível dá retake gratuito de 04/01 a 07/04/2027. Cisco apenas CCST Networking/Cybersecurity/IT Specialist; CompTIA não consta. AWS tem 50% na primeira tentativa para exames participantes e exclui ANS, MLA, SAP, DVA e betas.",
       "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
       "origem": "Pearson VUE",
-      "brasil": "Termos globais não excluem Brasil, mas resgate e disponibilidade devem ser confirmados no checkout Pearson VUE",
+      "brasil": "Condições globais não excluem Brasil; adesão, exame participante, código e elegibilidade individual devem ser confirmados no agendamento. Há divergência entre o cabeçalho (até 17/11) e os termos detalhados ('prior to November 17') para primeira tentativa.",
       "beneficio": "Retake gratuito condicionado; primeira prova paga; AWS elegíveis 50% na primeira tentativa",
       "inscricao_ate": "2026-11-17",
       "voucher_ate": "2027-04-07",
-      "verificado_em": "2026-10-24",
+      "verificado_em": "2026-11-02",
       "evidencias": [
         "https://www.pearsonvue.com/us/en/test-takers/free-retake.html"
       ],
@@ -3569,11 +3569,11 @@
       "descricao": "Exame piloto gratuito ISC2 AI Security para candidatos selecionados; manifestação de interesse deve ocorrer ANTES de 04/11/2026 (03/11 como último dia conservador). Limite aproximado de 3.000 participantes; prova presencial em inglês e experiência exigida. Requisitos: quatro anos de experiência cumulativa remunerada em cibersegurança ou IA, com condições específicas de substituição; inscrição não garante vaga nem certificação. Prova em Pearson Professional Center, não online.",
       "url": "https://www.isc2.org/new-ai-certification",
       "origem": "ISC2",
-      "brasil": "Participação global anunciada, mas disponibilidade de Pearson Professional Center elegível no Brasil e seleção individual não confirmadas.",
+      "brasil": "Interesse aberto globalmente antes de 04/11/2026; seleção, quatro anos de experiência (com exceções) e centro Pearson Professional Center elegível no Brasil não confirmados individualmente.",
       "beneficio": "Exame piloto gratuito somente para candidatos selecionados; não garante certificação",
       "inscricao_ate": "2026-11-03",
       "voucher_ate": null,
-      "verificado_em": "2026-10-29",
+      "verificado_em": "2026-11-02",
       "evidencias": [
         "https://www.isc2.org/new-ai-certification"
       ],
@@ -4377,18 +4377,18 @@
       "tipo": "Evento e capacitação",
       "grupo": "Evento e capacitação",
       "status": "Vigente",
-      "resumo": "4 a 6/11/2026; evento gratuito sobre soberania de IA, governança de dados, infraestrutura, nuvem e aplicações. Inscrição online via Teams dá direito a certificado de participação; vagas presenciais em Brasília esgotadas.",
-      "descricao": "Evento público brasileiro, gratuito, aberto a estudantes e profissionais. Inscrições online até o encerramento. Certificado para inscritos que participarem via Teams; YouTube sem certificado. Não é certificação profissional por exame.",
+      "resumo": "4–6/11/2026, Brasília e online; evento Serpro gratuito. A fonte oficial informa inscrição online até o início do evento, sem horário exato de fechamento; certificado somente para participantes inscritos via Teams ou presencialmente, não via YouTube.",
+      "descricao": "4–6/11/2026, Brasília e online; evento Serpro gratuito. A fonte oficial informa inscrição online até o início do evento, sem horário exato de fechamento; certificado somente para participantes inscritos via Teams ou presencialmente, não via YouTube. Presencial sujeito a 100 vagas por dia e esgotamento; disponibilidade atual de assentos não foi testada.",
       "url": "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
       "origem": "Serpro",
-      "brasil": "Elegibilidade confirmada: aberto ao público brasileiro; participação online gratuita. Presencial esgotado.",
+      "brasil": "Aberto a estudantes e público geral; Teams mediante inscrição, presencial condicionado a vagas por dia.",
       "beneficio": "Participação online e certificado gratuitos; nenhuma prova profissional ou voucher",
-      "inscricao_ate": "2026-11-06",
+      "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-31",
+      "verificado_em": "2026-11-02",
       "evidencias": [
-        "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
-        "https://www7.serpro.gov.br/menu/noticias/noticias-2026/a-poucos-dias-da-semana-de-ia-serpro-soberania-pauta-debate-sobre-o-futuro-dos-servicos-publicos"
+        "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro",
+        "https://campanhas.serpro.gov.br/semana-de-ia-serpro/"
       ],
       "certificado_curso": "Certificado de participação (Teams ou presencial, condicionado à presença)"
     },
@@ -4537,6 +4537,75 @@
         "https://www.ibm.com/br-pt/products/z/education"
       ],
       "certificado_curso": "Badges IBM Z Xplore, não certificação profissional por exame"
+    },
+    {
+      "id": "rt-201",
+      "nome": "AWS Educate — formação gratuita em cloud, redes e laboratórios",
+      "fabricante": "AWS",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Programa contínuo e gratuito da AWS com cursos, laboratórios reais em S3, EC2, VPC e RDS e badges digitais em atividades elegíveis; sem cartão de crédito e aberto a participantes a partir de 13 anos.",
+      "descricao": "AWS Educate oferece acesso gratuito, via e-mail e sem cartão de crédito, a cursos e laboratórios de nuvem, incluindo redes (Amazon VPC), computação (EC2), armazenamento (S3) e bancos (RDS). É formação com badges digitais em trilhas elegíveis, não certificação AWS por exame profissional. Job Board disponível para alunos com 18 anos ou mais.",
+      "url": "https://aws.amazon.com/pt/education/awseducate/",
+      "origem": "AWS",
+      "brasil": "Página oficial brasileira confirma acesso global aberto a qualquer pessoa, a partir de 13 anos; matrícula individual não realizada.",
+      "beneficio": "Formação e laboratórios gratuitos; badges em atividades elegíveis; exame de certificação AWS não incluído.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-11-02",
+      "evidencias": [
+        "https://aws.amazon.com/pt/education/awseducate/",
+        "https://aws.amazon.com/pt/getting-started/cloud-essentials/"
+      ],
+      "certificado_curso": "Badges digitais em atividades elegíveis; não equivale a AWS Certification."
+    },
+    {
+      "id": "rt-202",
+      "nome": "Microsoft — desconto acadêmico para exames de certificação",
+      "fabricante": "Microsoft",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Campanha de desconto",
+      "grupo": "Campanha de desconto",
+      "status": "Vigente",
+      "resumo": "Preço acadêmico para exames Microsoft Certification em países elegíveis, incluindo Brasil, mediante perfil Microsoft Learn de estudante e verificação da matrícula. Percentual e valor final dependem do exame e checkout.",
+      "descricao": "A Microsoft informa preços acadêmicos para exames de certificação na maioria dos países, exceto Índia e China. O candidato precisa marcar Student no perfil Microsoft Learn e verificar a condição acadêmica. Não é voucher universal gratuito; percentual e preço final não foram confirmados e não são estimados. Exames são certificações profissionais, benefício é desconto.",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/student-discounts",
+      "origem": "Microsoft Learn",
+      "brasil": "Brasil não consta entre os países excluídos (Índia e China); desconto condicionado à validação estudantil individual no perfil Learn.",
+      "beneficio": "Desconto acadêmico condicionado; não é exame gratuito; percentual não publicado na página consultada.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-11-02",
+      "evidencias": [
+        "https://learn.microsoft.com/en-us/credentials/certifications/student-discounts",
+        "https://learn.microsoft.com/en-us/training/student-hub/credentials"
+      ],
+      "certificado_curso": null
+    },
+    {
+      "id": "rt-203",
+      "nome": "Microsoft Applied Skills — classes, propriedades e métodos em C#",
+      "fabricante": "Microsoft",
+      "categoria": "Programação Orientada a Objetos",
+      "tipo": "Credencial prática",
+      "grupo": "Credencial prática",
+      "status": "Vigente",
+      "resumo": "Credencial prática Microsoft de nível iniciante em C#: classes, objetos, propriedades e métodos; avaliação interativa em laboratório e espera de 72h para nova tentativa.",
+      "descricao": "Credencial Microsoft Applied Skills individualizada, voltada à construção de classes, objetos, propriedades e métodos em C#. A página oficial oferece avaliação prática interativa no Microsoft Learn; exige conhecimento básico de C# e VS Code. Não equivale à certificação profissional por exame Pearson VUE. Avaliação Applied Skills gratuita; necessidade de conta Microsoft Learn. Espera de 72 horas para reiniciar o laboratório.",
+      "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-classes-properties-and-methods-in-c-sharp/",
+      "origem": "Microsoft Learn",
+      "brasil": "Avaliação online em inglês; acesso à plataforma e conta Microsoft Learn, sem elegibilidade regional adicional anunciada.",
+      "beneficio": "Avaliação prática e credencial Applied Skills gratuitas; não é exame de certificação profissional.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-11-02",
+      "evidencias": [
+        "https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-classes-properties-and-methods-in-c-sharp/",
+        "https://learn.microsoft.com/en-us/training/student-hub/credentials"
+      ],
+      "certificado_curso": "Microsoft Applied Skills (credencial prática verificada, não certificação baseada em exame)."
     }
   ]
 }
