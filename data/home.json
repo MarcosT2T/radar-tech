@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-01",
+  "atualizado_em": "2026-11-02",
   "analises": [
     {
       "data": "2026-10-23",
@@ -1592,6 +1592,100 @@
         "https://www.ibm.com/br-pt/products/z/resources/zxplore",
         "https://learn.microsoft.com/en-us/training/topics/ignite/microsoft-ignite-2026-certification-registration",
         "https://ciee.org.br/quero-me-preparar/google-tech/google-tech-inscricao/"
+      ]
+    },
+    {
+      "data": "2026-11-02",
+      "titulo": "Radar Tech — 02/11/2026: AWS Educate, desconto estudantil Microsoft e Applied Skills C#",
+      "resumo": "Pesquisa em fontes oficiais de Microsoft, AWS, Cisco, Oracle, ISC2, CompTIA, Databricks, Linux Foundation, GitHub, DIO, IBM e provedores brasileiros. Três oportunidades já existentes no mercado, mas inéditas no catálogo, foram confirmadas: AWS Educate com cursos/laboratórios gratuitos e badges elegíveis; desconto acadêmico Microsoft condicionado à verificação estudantil, sem percentual garantido; e Microsoft Applied Skills em classes e métodos C# com avaliação prática. O catálogo passou de 200 para 203 registros, com três registros revisados: Pearson Global Retake (conflito entre prazo divulgado 17/11 e termos 'antes de 17/11'), II Semana de IA Serpro (inscrição online até início do evento, sem horário exato) e piloto ISC2 AI Security (interesse antes de 04/11, seleção e experiência obrigatórias). Databricks Advanced Learning Festival inicia 10/11 com desconto condicionado de 50%, não exame gratuito. Não foi identificada nova campanha universal de exame profissional 100% gratuito com adesão aberta nesta pesquisa; trata-se de ausência de novidade confirmada nessa modalidade, não falha de pesquisa.",
+      "destaques": [
+        {
+          "titulo": "AWS Educate — formação e laboratórios gratuitos",
+          "tipo": "Programa de formação",
+          "descricao": "Acesso gratuito com e-mail e sem cartão de crédito; laboratórios de redes VPC, EC2, S3 e RDS e badges digitais em atividades elegíveis. Aberto a partir de 13 anos; não inclui exame AWS Certification.",
+          "url": "https://aws.amazon.com/pt/education/awseducate/"
+        },
+        {
+          "titulo": "Microsoft — desconto acadêmico para certificações",
+          "tipo": "Campanha de desconto",
+          "descricao": "Brasil elegível em princípio; exige perfil de estudante e verificação acadêmica no Microsoft Learn. Percentual e preço final não informados; não é voucher de prova gratuita.",
+          "url": "https://learn.microsoft.com/en-us/credentials/certifications/student-discounts"
+        },
+        {
+          "titulo": "Microsoft Applied Skills — POO em C#",
+          "tipo": "Credencial prática",
+          "descricao": "Avaliação interativa de classes, objetos, propriedades e métodos C#, com credencial Microsoft após aprovação. Diferente de exame de certificação profissional.",
+          "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-classes-properties-and-methods-in-c-sharp/"
+        },
+        {
+          "titulo": "ISC2 AI Security — último prazo conservador 03/11",
+          "tipo": "Exame piloto condicionado",
+          "descricao": "Manifestação de interesse antes de 04/11/2026; seleção de até aproximadamente 3.000 candidatos, experiência profissional e prova presencial em inglês. Vagas brasileiras não verificadas.",
+          "url": "https://www.isc2.org/new-ai-certification"
+        },
+        {
+          "titulo": "Serpro — II Semana de IA em Brasília e online",
+          "tipo": "Evento e capacitação",
+          "descricao": "4–6/11/2026; participação gratuita. Certificado apenas para inscritos que participem pelo Teams ou presencialmente; inscrição online anunciada até o início do evento.",
+          "url": "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro"
+        },
+        {
+          "titulo": "Pearson Global Retake — cuidado com prazo da primeira prova",
+          "tipo": "Campanha de voucher",
+          "descricao": "Retake gratuito condicionado após primeira prova paga e reprovação. Cabeçalho anuncia 17/11, mas termos exigem tentativa inicial antes de 17/11; referência conservadora 16/11. Cisco apenas CCST; CompTIA não listado.",
+          "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html"
+        },
+        {
+          "titulo": "Databricks Advanced Learning Festival — começa 10/11",
+          "tipo": "Campanha de desconto",
+          "descricao": "De 10/11 a 08/12/2026: conclusão integral de trilha elegível concede 50% de desconto no exame profissional; envio previsto 14/12. Exame continua pago.",
+          "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 200,
+        "novos_registros": 3,
+        "registros_revisados": 3,
+        "catalogo_total": 203,
+        "analises_anteriores_preservadas": 24,
+        "analises_total": 25,
+        "ids_novos": [
+          "rt-201",
+          "rt-202",
+          "rt-203"
+        ],
+        "ids_revisados": [
+          "rt-117",
+          "rt-194",
+          "rt-159"
+        ],
+        "nova_campanha_universal_de_exame_gratuito_confirmada": false
+      },
+      "observacoes": [
+        "As três adições são inéditas no catálogo, não lançamentos datados de 02/11/2026.",
+        "Certificação profissional exige exame; Applied Skills é avaliação prática; AWS Educate é formação com badges elegíveis; descontos e vouchers são campanhas condicionadas.",
+        "Sem nova campanha universal gratuita confirmada nas fontes consultadas; pesquisa executada com resultados, portanto não é falha de pesquisa.",
+        "Nenhuma matrícula, verificação de elegibilidade pessoal, disponibilidade de centro de prova ou preço no checkout foi executada.",
+        "ISC2 AI Security requer seleção e experiência; manifestação deve ocorrer antes de 04/11/2026.",
+        "A página Pearson apresenta discrepância de linguagem sobre 17/11: tratar 16/11 como último dia conservador para concluir a primeira prova.",
+        "Serpro anuncia inscrição online até o início do evento; sem horário exato, por isso não foi atribuído prazo artificial ao campo inscricao_ate.",
+        "Microsoft Ignite 2026 oferece exame gratuito apenas presencialmente em San Francisco; não foi classificado como voucher remoto para candidatos no Brasil."
+      ],
+      "fontes": [
+        "https://aws.amazon.com/pt/education/awseducate/",
+        "https://aws.amazon.com/pt/getting-started/cloud-essentials/",
+        "https://learn.microsoft.com/en-us/credentials/certifications/student-discounts",
+        "https://learn.microsoft.com/en-us/training/student-hub/credentials",
+        "https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-classes-properties-and-methods-in-c-sharp/",
+        "https://www.isc2.org/new-ai-certification",
+        "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro",
+        "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://learn.microsoft.com/en-us/training/topics/ignite/microsoft-ignite-2026-certification-registration",
+        "https://www.isc2.org/landing/1mcc",
+        "https://skillsbuild.org/events",
+        "https://www.netacad.com/pt/catalogs/learn"
       ]
     }
   ]
