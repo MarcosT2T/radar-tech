@@ -1687,6 +1687,97 @@
         "https://skillsbuild.org/events",
         "https://www.netacad.com/pt/catalogs/learn"
       ]
+    },
+    {
+      "data": "2026-11-02",
+      "titulo": "Radar Tech — 02/11 (complemento): 12 cursos MEC em POO, redes, IA e desenvolvimento",
+      "resumo": "Pesquisa adicional identificou 12 turmas 2026B do MEC Aprenda Mais, ainda ausentes do catálogo, com inscrição pela plataforma brasileira, acesso gratuito, ensino autoinstrucional em português e conclusão até 31/01/2027. Os cursos oferecem certificados de conclusão após requisitos, não certificações profissionais por exame. A seleção prioriza redes I/II, localização sem fio, POO Python, análise de software, redes neurais I/II, React, Node.js, Scrum, segurança e estrutura de dados. Catálogo: 203 para 215. Verificação também abrangeu Microsoft, CompTIA, AWS, Cisco, Oracle, Google, IBM e Red Hat: nenhuma campanha inédita de voucher profissional gratuito com elegibilidade brasileira foi confirmada nesta rodada; página oficial CompTIA não ficou acessível para validar versões, preços e Academic Store.",
+      "destaques": [
+        {
+          "titulo": "Redes de Computadores I e II",
+          "tipo": "Curso com certificado",
+          "descricao": "Duas turmas de 30h, cobrindo protocolos, topologias, roteamento, switching, redes sem fio e IP; conclusão até 31/01/2027.",
+          "url": "https://aprendamais.mec.gov.br/course/info.php?id=3478"
+        },
+        {
+          "titulo": "Programação com Python: do Objeto ao Banco de Dados",
+          "tipo": "Curso com certificado",
+          "descricao": "20h de orientação a objetos e banco de dados em Python; gratuito e em português.",
+          "url": "https://aprendamais.mec.gov.br/course/info.php?id=3460"
+        },
+        {
+          "titulo": "Análise e Projeto de Software",
+          "tipo": "Curso com certificado",
+          "descricao": "20h sobre análise orientada a objetos, prototipação e projeto; IFRS.",
+          "url": "https://aprendamais.mec.gov.br/course/info.php?id=1655"
+        },
+        {
+          "titulo": "Inteligência Artificial I e II — Redes Neurais",
+          "tipo": "Curso com certificado",
+          "descricao": "80h combinadas, com Perceptron, Adaline, MLP, CNN, Kohonen e LSTM; IFTM.",
+          "url": "https://aprendamais.mec.gov.br/course/info.php?id=3366"
+        },
+        {
+          "titulo": "Localização de Dispositivos em Redes Sem Fio",
+          "tipo": "Curso com certificado",
+          "descricao": "20h sobre localização em redes sem fio e machine learning; IFPE.",
+          "url": "https://aprendamais.mec.gov.br/course/info.php?id=3153"
+        },
+        {
+          "titulo": "Node.js e React — desenvolvimento web",
+          "tipo": "Curso com certificado",
+          "descricao": "Duas turmas de 40h cada sobre APIs REST com Express e interfaces React, incluindo integração com dados.",
+          "url": "https://aprendamais.mec.gov.br/course/info.php?id=3545"
+        },
+        {
+          "titulo": "Scrum, Segurança da Informação e Estrutura de Dados",
+          "tipo": "Curso com certificado",
+          "descricao": "Turmas de 40h, 20h e 20h; gestão ágil, fundamentos de software de segurança e algoritmos.",
+          "url": "https://aprendamais.mec.gov.br/course/info.php?id=3014"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 203,
+        "novos_registros": 12,
+        "catalogo_total": 215,
+        "ids_novos": [
+          "rt-204",
+          "rt-205",
+          "rt-206",
+          "rt-207",
+          "rt-208",
+          "rt-209",
+          "rt-210",
+          "rt-211",
+          "rt-212",
+          "rt-213",
+          "rt-214",
+          "rt-215"
+        ],
+        "nova_campanha_universal_de_exame_gratuito_confirmada": false
+      },
+      "observacoes": [
+        "As turmas são inéditas no Radar Tech, não necessariamente lançadas em 02/11/2026.",
+        "MEC Aprenda Mais é plataforma oficial brasileira aberta à comunidade, com acesso gratuito e certificação de curso condicionada ao cumprimento das atividades e prazo mínimo após inscrição.",
+        "A conclusão de todas as turmas listadas deve ocorrer até 31/01/2027. O prazo de matrícula não foi especificado nas páginas; nenhuma matrícula foi executada.",
+        "Cursos e certificados de conclusão não equivalem a certificações profissionais Microsoft, CompTIA, Cisco ou AWS.",
+        "As páginas oficiais da CompTIA não foram acessíveis nesta rodada; não foram publicados preços, descontos ou cronogramas não verificáveis."
+      ],
+      "fontes": [
+        "https://aprendamais.mec.gov.br/",
+        "https://aprendamais.mec.gov.br/course/info.php?id=1655",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3460",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3478",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3479",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3153",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3366",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3367",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3571",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3545",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3014",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3503",
+        "https://aprendamais.mec.gov.br/course/info.php?id=3287"
+      ]
     }
   ]
 }
