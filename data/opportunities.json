@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-02",
-  "nota": "02/11/2026 (complemento): 12 turmas MEC Aprenda Mais 2026B adicionadas, com conclusão até 31/01/2027, cursos gratuitos com certificados (não certificações profissionais). Inscrição individual não executada; nenhum voucher novo de exame profissional CompTIA/Microsoft confirmado nesta rodada. 02/11/2026: adicionados AWS Educate, desconto acadêmico Microsoft e Applied Skills C# (3 registros novos); revisados Pearson Global Retake, Semana de IA Serpro e ISC2 AI Security (3 registros). Não foi confirmada nova campanha universal de exame profissional gratuito; pesquisar não equivale a validar matrícula ou checkout. Benefícios condicionados preservados.",
+  "atualizado_em": "2026-11-03",
+  "nota": "03/11/2026: nenhuma nova oferta confirmada nas fontes oficiais consultadas nesta rodada; pesquisa executada com êxito (não confundir ausência de novidade com falha). Revalidados Pearson Global Retake (divergência de datas; 16/11 conservador), ISC2 AI Security (interesse antes de 04/11) e Databricks Advanced Learning Festival (10/11–08/12; desconto de 50% condicionado). Sem novos registros ou promessa de gratuidade universal. 02/11/2026 (complemento): 12 turmas MEC Aprenda Mais 2026B adicionadas, com conclusão até 31/01/2027, cursos gratuitos com certificados (não certificações profissionais). Inscrição individual não executada; nenhum voucher novo de exame profissional CompTIA/Microsoft confirmado nesta rodada. 02/11/2026: adicionados AWS Educate, desconto acadêmico Microsoft e Applied Skills C# (3 registros novos); revisados Pearson Global Retake, Semana de IA Serpro e ISC2 AI Security (3 registros). Não foi confirmada nova campanha universal de exame profissional gratuito; pesquisar não equivale a validar matrícula ou checkout. Benefícios condicionados preservados.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -2611,14 +2611,14 @@
       "grupo": "Campanha de voucher",
       "status": "Vigente",
       "resumo": "Pearson Global Retake: inscrição prévia e primeira prova paga em programa participante (período divulgado 29/09–17/11/2026); termos detalhados dizem que a primeira tentativa deve ser concluída ANTES de 17/11, portanto 16/11 é a referência conservadora. Reprovação elegível dá retake gratuito de 04/01 a 07/04/2027. Cisco apenas CCST Networking/Cybersecurity/IT Specialist; CompTIA não consta. AWS tem 50% na primeira tentativa para exames participantes e exclui ANS, MLA, SAP, DVA e betas.",
-      "descricao": "Pearson Global Retake: inscrição prévia e primeira prova paga em programa participante (período divulgado 29/09–17/11/2026); termos detalhados dizem que a primeira tentativa deve ser concluída ANTES de 17/11, portanto 16/11 é a referência conservadora. Reprovação elegível dá retake gratuito de 04/01 a 07/04/2027. Cisco apenas CCST Networking/Cybersecurity/IT Specialist; CompTIA não consta. AWS tem 50% na primeira tentativa para exames participantes e exclui ANS, MLA, SAP, DVA e betas.",
+      "descricao": "Campanha Pearson Global Retake: opt-in e primeira prova paga em programa participante. Página promocional indica 29/09–17/11/2026, mas cláusula específica exige primeira tentativa concluída ANTES de 17/11; 16/11 é o limite conservador. Reprovação elegível permite uma segunda tentativa gratuita entre 04/01 e 07/04/2027. Exige idade mínima de 18 anos. Cisco: somente CCST Networking, Cybersecurity e IT Specialist. CompTIA não consta na lista de participantes. AWS: exames participantes recebem 50% de desconto na primeira prova; excluídos ANS, MLA, SAP, DVA e betas. A elegibilidade individual e o checkout não foram testados.",
       "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
       "origem": "Pearson VUE",
       "brasil": "Condições globais não excluem Brasil; adesão, exame participante, código e elegibilidade individual devem ser confirmados no agendamento. Há divergência entre o cabeçalho (até 17/11) e os termos detalhados ('prior to November 17') para primeira tentativa.",
       "beneficio": "Retake gratuito condicionado; primeira prova paga; AWS elegíveis 50% na primeira tentativa",
       "inscricao_ate": "2026-11-17",
       "voucher_ate": "2027-04-07",
-      "verificado_em": "2026-11-02",
+      "verificado_em": "2026-11-03",
       "evidencias": [
         "https://www.pearsonvue.com/us/en/test-takers/free-retake.html"
       ],
@@ -3566,14 +3566,14 @@
       "grupo": "Campanha de voucher",
       "status": "Vigente",
       "resumo": "Exame piloto gratuito ISC2 AI Security para candidatos selecionados; manifestação de interesse deve ocorrer ANTES de 04/11/2026 (03/11 como último dia conservador). Limite aproximado de 3.000 participantes; prova presencial em inglês e experiência exigida.",
-      "descricao": "Exame piloto gratuito ISC2 AI Security para candidatos selecionados; manifestação de interesse deve ocorrer ANTES de 04/11/2026 (03/11 como último dia conservador). Limite aproximado de 3.000 participantes; prova presencial em inglês e experiência exigida. Requisitos: quatro anos de experiência cumulativa remunerada em cibersegurança ou IA, com condições específicas de substituição; inscrição não garante vaga nem certificação. Prova em Pearson Professional Center, não online.",
+      "descricao": "ISC2 AI Security: manifestação de interesse ANTES de 04/11/2026, com 03/11 como último dia conservador. Exame piloto gratuito apenas para candidatos selecionados (aproximadamente 3.000), presencial em inglês em Pearson Professional Center autorizado. Exige experiência profissional conforme critérios ISC2; manifestação não garante seleção nem certificação. Disponibilidade de centro elegível no Brasil não testada.",
       "url": "https://www.isc2.org/new-ai-certification",
       "origem": "ISC2",
       "brasil": "Interesse aberto globalmente antes de 04/11/2026; seleção, quatro anos de experiência (com exceções) e centro Pearson Professional Center elegível no Brasil não confirmados individualmente.",
       "beneficio": "Exame piloto gratuito somente para candidatos selecionados; não garante certificação",
       "inscricao_ate": "2026-11-03",
       "voucher_ate": null,
-      "verificado_em": "2026-11-02",
+      "verificado_em": "2026-11-03",
       "evidencias": [
         "https://www.isc2.org/new-ai-certification"
       ],
@@ -4095,7 +4095,7 @@
       "beneficio": "Voucher de 50% para exame profissional, condicionado a trilha concluída no período; 20% em Academy Labs.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-30",
+      "verificado_em": "2026-11-03",
       "evidencias": [
         "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
       ],
