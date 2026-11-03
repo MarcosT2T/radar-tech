@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-02",
+  "atualizado_em": "2026-11-03",
   "analises": [
     {
       "data": "2026-10-23",
@@ -1777,6 +1777,49 @@
         "https://aprendamais.mec.gov.br/course/info.php?id=3014",
         "https://aprendamais.mec.gov.br/course/info.php?id=3503",
         "https://aprendamais.mec.gov.br/course/info.php?id=3287"
+      ]
+    },
+    {
+      "data": "2026-11-03",
+      "titulo": "Radar Tech — 03/11/2026: revisão de prazos sem novas ofertas confirmadas",
+      "resumo": "Em 03/11/2026, a revisão das fontes oficiais não confirmou novas oportunidades para adicionar ao catálogo; trata-se de ausência de novidades confirmadas na pesquisa realizada, não de falha de execução. Foram revalidadas três oportunidades existentes: o piloto ISC2 AI Security aceita manifestações de interesse antes de 04/11, com seleção e exame presencial em inglês; a Pearson Global Retake exige primeira tentativa paga e apresenta divergência entre a data promocional de 17/11 e a cláusula de conclusão antes dessa data (16/11 como referência conservadora); e o Databricks Advanced Learning Festival ocorre de 10/11 a 08/12, concedendo 50% de desconto em exame após conclusão integral de trilha elegível. Não foi confirmado novo voucher universal de exame profissional gratuito. Cursos e badges não foram confundidos com certificações profissionais.",
+      "destaques": [
+        {
+          "titulo": "ISC2 — piloto AI Security: prazo imediato",
+          "descricao": "Manifestação de interesse antes de 04/11; prova piloto gratuita apenas para selecionados, presencial em inglês. Não garante certificação.",
+          "url": "https://www.isc2.org/new-ai-certification",
+          "tipo": "Campanha"
+        },
+        {
+          "titulo": "Pearson VUE Global Retake — condições revalidadas",
+          "descricao": "Primeiro exame pago; eventual retake gratuito. Termos exigem primeira tentativa antes de 17/11; 16/11 é referência conservadora. Programas e exames têm exclusões.",
+          "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+          "tipo": "Campanha"
+        },
+        {
+          "titulo": "Databricks Advanced Learning Festival",
+          "descricao": "De 10/11 a 08/12; trilha elegível integralmente concluída no período habilita desconto de 50% em certificação, não exame gratuito.",
+          "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+          "tipo": "Campanha"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 215,
+        "novos_registros": 0,
+        "registros_revisados": 3,
+        "ausencia_de_novidades_confirmadas": true,
+        "pesquisa_executada": true
+      },
+      "observacoes": [
+        "Ausência de novas ofertas confirmadas nesta amostra de fontes oficiais não equivale a indisponibilidade geral do mercado.",
+        "ISC2: interesse não garante seleção, centro no Brasil ou certificação; não foi realizado cadastro.",
+        "Pearson: divergência textual de prazo preservada e explicitada; elegibilidade e checkout não testados.",
+        "Databricks: desconto condicionado, sem exame gratuito; nenhuma inscrição realizada."
+      ],
+      "fontes": [
+        "https://www.isc2.org/new-ai-certification",
+        "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
       ]
     }
   ]
