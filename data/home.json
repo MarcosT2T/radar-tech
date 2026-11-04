@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-03",
+  "atualizado_em": "2026-11-04",
   "analises": [
     {
       "data": "2026-10-23",
@@ -1818,6 +1818,57 @@
       ],
       "fontes": [
         "https://www.isc2.org/new-ai-certification",
+        "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
+      ]
+    },
+    {
+      "data": "2026-11-04",
+      "titulo": "Radar Tech — 04/11/2026: piloto ISC2 encerrado; evento Serpro em andamento",
+      "resumo": "Em 04/11/2026, a pesquisa de fontes oficiais não identificou novas ofertas confirmadas para acrescentar ao catálogo: ausência de novidades nesta amostra, não falha de pesquisa. O catálogo permanece com 215 registros. Quatro registros foram revalidados. A campanha de manifestação de interesse no exame piloto ISC2 AI Security foi marcada Encerrada, pois o prazo oficial exigia inscrição antes de 04/11; o exame gratuito continua restrito a selecionados. A II Semana de IA Serpro acontece de 04 a 06/11, gratuita, presencial em Brasília e online; certificado apenas para inscritos participantes no presencial ou Teams, não no YouTube. A Pearson Global Retake mantém primeira prova paga e retake condicional, com divergência nos termos sobre 17/11 (16/11 como referência conservadora). O Databricks Advanced Learning Festival começa em 10/11 e concede 50% de desconto em certificação após conclusão integral de trilha elegível até 08/12. Não foi confirmada campanha universal nova de exame profissional gratuito.",
+      "destaques": [
+        {
+          "titulo": "ISC2 AI Security — prazo de interesse encerrado",
+          "descricao": "Formulário exigia manifestação antes de 04/11/2026. Exame piloto gratuito apenas para selecionados; não é certificação automaticamente concedida.",
+          "url": "https://www.isc2.org/new-ai-certification",
+          "tipo": "Campanha"
+        },
+        {
+          "titulo": "Serpro — II Semana de IA, 04 a 06/11",
+          "descricao": "Evento gratuito em Brasília e online. Certificado para inscritos que participarem presencialmente ou no Teams; YouTube não concede certificado.",
+          "url": "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro",
+          "tipo": "Programa de formação"
+        },
+        {
+          "titulo": "Pearson VUE — Global Retake",
+          "descricao": "Primeira tentativa paga; segunda gratuita se elegível. Termos contradizem cabeçalho sobre 17/11: considerar 16/11 como referência conservadora.",
+          "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+          "tipo": "Campanha"
+        },
+        {
+          "titulo": "Databricks — Advanced Learning Festival",
+          "descricao": "10/11 a 08/12; conclusão integral de trilha elegível permite desconto de 50% no exame, que permanece pago.",
+          "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+          "tipo": "Campanha"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 215,
+        "novos_registros": 0,
+        "registros_revisados": 4,
+        "ausencia_de_novidades_confirmadas": true,
+        "pesquisa_executada": true
+      },
+      "observacoes": [
+        "Sem novidades confirmadas nesta amostra de fontes oficiais; não equivale à inexistência de ofertas no mercado.",
+        "ISC2: prazo estritamente anterior a 04/11; seleção, local de prova e elegibilidade individual não verificados.",
+        "Pearson: divergência textual entre cabeçalho e termos; benefício não é primeira tentativa gratuita.",
+        "Serpro: certificado não é certificação profissional; cadastro e presença não testados.",
+        "Databricks: desconto condicionado, não gratuidade; nenhuma matrícula executada."
+      ],
+      "fontes": [
+        "https://www.isc2.org/new-ai-certification",
+        "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro",
         "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
         "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
       ]
