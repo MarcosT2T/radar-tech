@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-04",
-  "nota": "04/11/2026: pesquisa de fontes oficiais realizada, sem novas oportunidades confirmadas para inclusão nesta amostra; ausência de novidades não é falha de pesquisa. ISC2 AI Security Pilot marcado Encerrada para novas manifestações (prazo estritamente antes de 04/11). Revalidados Pearson Global Retake (primeiro exame pago, termos contraditórios sobre 17/11), Databricks Advanced Learning Festival (10/11–08/12, desconto condicionado de 50%) e II Semana de IA Serpro (04–06/11, gratuita, certificado somente para inscritos participantes no presencial/Teams). Matrículas e elegibilidade individual não testadas. 03/11/2026: nenhuma nova oferta confirmada nas fontes oficiais consultadas nesta rodada; pesquisa executada com êxito (não confundir ausência de novidade com falha). Revalidados Pearson Global Retake (divergência de datas; 16/11 conservador), ISC2 AI Security (interesse antes de 04/11) e Databricks Advanced Learning Festival (10/11–08/12; desconto de 50% condicionado). Sem novos registros ou promessa de gratuidade universal. 02/11/2026 (complemento): 12 turmas MEC Aprenda Mais 2026B adicionadas, com conclusão até 31/01/2027, cursos gratuitos com certificados (não certificações profissionais). Inscrição individual não executada; nenhum voucher novo de exame profissional CompTIA/Microsoft confirmado nesta rodada. 02/11/2026: adicionados AWS Educate, desconto acadêmico Microsoft e Applied Skills C# (3 registros novos); revisados Pearson Global Retake, Semana de IA Serpro e ISC2 AI Security (3 registros). Não foi confirmada nova campanha universal de exame profissional gratuito; pesquisar não equivale a validar matrícula ou checkout. Benefícios condicionados preservados.",
+  "atualizado_em": "2026-11-05",
+  "nota": "05/11/2026: pesquisa de fontes oficiais sem novas ofertas confirmadas; 2 registros revalidados (Pearson, Databricks, Serpro). DIO Universia exige confirmação de elegibilidade; não adicionado. 04/11/2026: pesquisa de fontes oficiais realizada, sem novas oportunidades confirmadas para inclusão nesta amostra; ausência de novidades não é falha de pesquisa. ISC2 AI Security Pilot marcado Encerrada para novas manifestações (prazo estritamente antes de 04/11). Revalidados Pearson Global Retake (primeiro exame pago, termos contraditórios sobre 17/11), Databricks Advanced Learning Festival (10/11–08/12, desconto condicionado de 50%) e II Semana de IA Serpro (04–06/11, gratuita, certificado somente para inscritos participantes no presencial/Teams). Matrículas e elegibilidade individual não testadas. 03/11/2026: nenhuma nova oferta confirmada nas fontes oficiais consultadas nesta rodada; pesquisa executada com êxito (não confundir ausência de novidade com falha). Revalidados Pearson Global Retake (divergência de datas; 16/11 conservador), ISC2 AI Security (interesse antes de 04/11) e Databricks Advanced Learning Festival (10/11–08/12; desconto de 50% condicionado). Sem novos registros ou promessa de gratuidade universal. 02/11/2026 (complemento): 12 turmas MEC Aprenda Mais 2026B adicionadas, com conclusão até 31/01/2027, cursos gratuitos com certificados (não certificações profissionais). Inscrição individual não executada; nenhum voucher novo de exame profissional CompTIA/Microsoft confirmado nesta rodada. 02/11/2026: adicionados AWS Educate, desconto acadêmico Microsoft e Applied Skills C# (3 registros novos); revisados Pearson Global Retake, Semana de IA Serpro e ISC2 AI Security (3 registros). Não foi confirmada nova campanha universal de exame profissional gratuito; pesquisar não equivale a validar matrícula ou checkout. Benefícios condicionados preservados.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -2618,7 +2618,7 @@
       "beneficio": "Retake gratuito condicionado; primeira prova paga; AWS elegíveis 50% na primeira tentativa",
       "inscricao_ate": "2026-11-17",
       "voucher_ate": "2027-04-07",
-      "verificado_em": "2026-11-04",
+      "verificado_em": "2026-11-05",
       "evidencias": [
         "https://www.pearsonvue.com/us/en/test-takers/free-retake.html"
       ],
@@ -4095,7 +4095,7 @@
       "beneficio": "Voucher de 50% para exame profissional, condicionado a trilha concluída no período; 20% em Academy Labs.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-11-04",
+      "verificado_em": "2026-11-05",
       "evidencias": [
         "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
       ],
