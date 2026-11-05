@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-04",
+  "atualizado_em": "2026-11-05",
   "analises": [
     {
       "data": "2026-10-23",
@@ -1871,6 +1871,58 @@
         "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro",
         "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
         "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
+      ]
+    },
+    {
+      "data": "2026-11-05",
+      "titulo": "Radar Tech — revalidação de campanhas e formação (05/11/2026)",
+      "resumo": "Em 05/11/2026, a pesquisa em fontes oficiais e a comparação com o catálogo não identificaram nova oferta suficientemente confirmada para inclusão. Ausência de novidades confirmadas nesta amostra não é falha de pesquisa. Foram revalidadas a campanha Pearson Global Retake (primeira prova paga; retake condicionado; 16/11 como limite conservador pela divergência nos termos; AWS elegíveis têm 50% na primeira tentativa), o Databricks Advanced Learning Festival (10/11–08/12, desconto de 50% condicionado à conclusão integral de trilha) e a II Semana de IA Serpro (04–06/11, gratuita, certificado apenas para participantes inscritos no presencial ou Teams). A página DIO Universia Fundamentos de IA Generativa foi encontrada, mas indica acesso exclusivo a inscritos de outra formação; elegibilidade e disponibilidade atuais não foram confirmadas, portanto não foi adicionada. Nenhuma nova campanha universal de exame profissional 100% gratuito foi confirmada.",
+      "destaques": [
+        {
+          "titulo": "Pearson Global Retake — atenção aos termos",
+          "descricao": "Primeira prova paga e retake gratuito condicional. Para AWS elegíveis, 50% na primeira prova; os termos contradizem o prazo anunciado de 17/11, portanto 16/11 é referência conservadora.",
+          "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+          "tipo": "Campanha"
+        },
+        {
+          "titulo": "Databricks Advanced Learning Festival",
+          "descricao": "10/11 a 08/12: concluir integralmente trilha elegível para receber 50% de desconto em exame de certificação; exame não é gratuito.",
+          "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+          "tipo": "Campanha"
+        },
+        {
+          "titulo": "II Semana de IA Serpro",
+          "descricao": "Evento gratuito de 04 a 06/11 em Brasília e online; certificado apenas para inscritos que participem presencialmente ou pelo Teams.",
+          "url": "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro",
+          "tipo": "Programa de formação"
+        },
+        {
+          "titulo": "DIO Universia — elegibilidade não confirmada",
+          "descricao": "Página anuncia bolsa, mas descreve acesso exclusivo a participantes de outra formação. Não foi cadastrada como oportunidade aberta sem comprovação adicional.",
+          "url": "https://www.dio.me/bootcamp/universia-fundamentos-de-ia-generativa-2026",
+          "tipo": "A confirmar"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_total": 215,
+        "novos_registros": 0,
+        "registros_revalidados": 2,
+        "ids_revalidados": [
+          "rt-117",
+          "rt-182"
+        ]
+      },
+      "observacoes": [
+        "Pesquisa executada; ausência de novidades confirmadas não equivale a falha de pesquisa.",
+        "Nenhuma matrícula, checkout ou verificação individual de elegibilidade foi realizada.",
+        "Certificação profissional, badge, curso preparatório e campanha permanecem categorias distintas.",
+        "Cobertura amostral, não auditoria exaustiva de todos os fabricantes."
+      ],
+      "fontes": [
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+        "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+        "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro",
+        "https://www.dio.me/bootcamp/universia-fundamentos-de-ia-generativa-2026"
       ]
     }
   ]
