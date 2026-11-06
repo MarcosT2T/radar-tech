@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-05",
-  "nota": "05/11/2026: pesquisa de fontes oficiais sem novas ofertas confirmadas; 2 registros revalidados (Pearson, Databricks, Serpro). DIO Universia exige confirmação de elegibilidade; não adicionado. 04/11/2026: pesquisa de fontes oficiais realizada, sem novas oportunidades confirmadas para inclusão nesta amostra; ausência de novidades não é falha de pesquisa. ISC2 AI Security Pilot marcado Encerrada para novas manifestações (prazo estritamente antes de 04/11). Revalidados Pearson Global Retake (primeiro exame pago, termos contraditórios sobre 17/11), Databricks Advanced Learning Festival (10/11–08/12, desconto condicionado de 50%) e II Semana de IA Serpro (04–06/11, gratuita, certificado somente para inscritos participantes no presencial/Teams). Matrículas e elegibilidade individual não testadas. 03/11/2026: nenhuma nova oferta confirmada nas fontes oficiais consultadas nesta rodada; pesquisa executada com êxito (não confundir ausência de novidade com falha). Revalidados Pearson Global Retake (divergência de datas; 16/11 conservador), ISC2 AI Security (interesse antes de 04/11) e Databricks Advanced Learning Festival (10/11–08/12; desconto de 50% condicionado). Sem novos registros ou promessa de gratuidade universal. 02/11/2026 (complemento): 12 turmas MEC Aprenda Mais 2026B adicionadas, com conclusão até 31/01/2027, cursos gratuitos com certificados (não certificações profissionais). Inscrição individual não executada; nenhum voucher novo de exame profissional CompTIA/Microsoft confirmado nesta rodada. 02/11/2026: adicionados AWS Educate, desconto acadêmico Microsoft e Applied Skills C# (3 registros novos); revisados Pearson Global Retake, Semana de IA Serpro e ISC2 AI Security (3 registros). Não foi confirmada nova campanha universal de exame profissional gratuito; pesquisar não equivale a validar matrícula ou checkout. Benefícios condicionados preservados.",
+  "atualizado_em": "2026-11-06",
+  "nota": "06/11/2026: adicionados 3 registros (rt-216 Microsoft Ignite presencial com exame Microsoft/GitHub 100% descontado, rt-217 Santander/LSE AI Power Skills 750 vagas e rt-218 curso gratuito Copilot Microsoft 365); 17 registros revalidados; rt-145 Santander+DIO marcado Encerrada após expirar o prazo de 03/11. DIO DP-700 mantém 100 vouchers condicionais, não garantidos; Microsoft Ignite exige presença em San Francisco e passe presencial pago; não há voucher universal remoto confirmado. 05/11/2026: pesquisa de fontes oficiais sem novas ofertas confirmadas; 2 registros revalidados (Pearson, Databricks, Serpro). DIO Universia exige confirmação de elegibilidade; não adicionado. 04/11/2026: pesquisa de fontes oficiais realizada, sem novas oportunidades confirmadas para inclusão nesta amostra; ausência de novidades não é falha de pesquisa. ISC2 AI Security Pilot marcado Encerrada para novas manifestações (prazo estritamente antes de 04/11). Revalidados Pearson Global Retake (primeiro exame pago, termos contraditórios sobre 17/11), Databricks Advanced Learning Festival (10/11–08/12, desconto condicionado de 50%) e II Semana de IA Serpro (04–06/11, gratuita, certificado somente para inscritos participantes no presencial/Teams). Matrículas e elegibilidade individual não testadas. 03/11/2026: nenhuma nova oferta confirmada nas fontes oficiais consultadas nesta rodada; pesquisa executada com êxito (não confundir ausência de novidade com falha). Revalidados Pearson Global Retake (divergência de datas; 16/11 conservador), ISC2 AI Security (interesse antes de 04/11) e Databricks Advanced Learning Festival (10/11–08/12; desconto de 50% condicionado). Sem novos registros ou promessa de gratuidade universal. 02/11/2026 (complemento): 12 turmas MEC Aprenda Mais 2026B adicionadas, com conclusão até 31/01/2027, cursos gratuitos com certificados (não certificações profissionais). Inscrição individual não executada; nenhum voucher novo de exame profissional CompTIA/Microsoft confirmado nesta rodada. 02/11/2026: adicionados AWS Educate, desconto acadêmico Microsoft e Applied Skills C# (3 registros novos); revisados Pearson Global Retake, Semana de IA Serpro e ISC2 AI Security (3 registros). Não foi confirmada nova campanha universal de exame profissional gratuito; pesquisar não equivale a validar matrícula ou checkout. Benefícios condicionados preservados.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -78,10 +78,11 @@
       "beneficio": "Foundations e OCI Architect Associate gratuitos; demais exames consultar",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-23",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
-        "https://www.oracle.com/br/education/certification/"
+        "https://www.oracle.com/br/education/certification/",
+        "https://www.oracle.com/br/education/training/"
       ],
       "grupo": "Certificação oficial",
       "resumo": "Catálogo Oracle com certificações gratuitas e pagas; consultar cada exame.",
@@ -163,7 +164,7 @@
       "beneficio": "Certificações gratuitas confirmadas; consultar exames individuais",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-26",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://graphacademy.neo4j.com/certifications",
         "https://graphacademy.neo4j.com/certifications/neo4j-certification",
@@ -2610,15 +2611,15 @@
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
       "status": "Vigente",
-      "resumo": "Pearson Global Retake: inscrição prévia e primeira prova paga em programa participante (período divulgado 29/09–17/11/2026); termos detalhados dizem que a primeira tentativa deve ser concluída ANTES de 17/11, portanto 16/11 é a referência conservadora. Reprovação elegível dá retake gratuito de 04/01 a 07/04/2027. Cisco apenas CCST Networking/Cybersecurity/IT Specialist; CompTIA não consta. AWS tem 50% na primeira tentativa para exames participantes e exclui ANS, MLA, SAP, DVA e betas.",
-      "descricao": "Campanha Pearson Global Retake: opt-in e primeira prova paga em programa participante. Página promocional indica 29/09–17/11/2026, mas cláusula específica exige primeira tentativa concluída ANTES de 17/11; 16/11 é o limite conservador. Reprovação elegível permite uma segunda tentativa gratuita entre 04/01 e 07/04/2027. Exige idade mínima de 18 anos. Cisco: somente CCST Networking, Cybersecurity e IT Specialist. CompTIA não consta na lista de participantes. AWS: exames participantes recebem 50% de desconto na primeira prova; excluídos ANS, MLA, SAP, DVA e betas. A elegibilidade individual e o checkout não foram testados.",
+      "resumo": "Pearson Global Retake: opt-in e primeira tentativa paga em programa participante. O período geral é 29/09–17/11/2026, mas os termos exigem conclusão da primeira tentativa antes de 17/11 (16/11 é o último dia conservador). Retake elegível gratuito de 04/01 a 07/04/2027. AWS participantes recebem 50% na primeira prova, com exclusões ANS, MLA, SAP, DVA e beta; Cisco apenas CCST Cybersecurity, Networking e IT Specialist; Microsoft exclui ESI; CompTIA não aparece na lista.",
+      "descricao": "Campanha Pearson Global Retake: exige opt-in, código recebido por e-mail e primeira prova paga. Embora o período promocional geral termine em 17/11/2026, os termos dizem que a primeira tentativa deve ser concluída antes de 17/11; portanto, 16/11 é o limite conservador. Reprovação elegível permite uma tentativa gratuita do mesmo exame entre 04/01 e 07/04/2027. Para AWS participantes há 50% de desconto na primeira tentativa, mas ficam excluídos ANS, MLA, SAP, DVA e exames beta. Cisco: somente CCST Cybersecurity, CCST Networking e CCST IT Specialist. Microsoft: ESI excluído. CompTIA não consta entre os programas participantes. Elegibilidade individual e checkout não testados.",
       "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
       "origem": "Pearson VUE",
       "brasil": "Condições globais não excluem Brasil; adesão, exame participante, código e elegibilidade individual devem ser confirmados no agendamento. Há divergência entre o cabeçalho (até 17/11) e os termos detalhados ('prior to November 17') para primeira tentativa.",
       "beneficio": "Retake gratuito condicionado; primeira prova paga; AWS elegíveis 50% na primeira tentativa",
       "inscricao_ate": "2026-11-17",
       "voucher_ate": "2027-04-07",
-      "verificado_em": "2026-11-05",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://www.pearsonvue.com/us/en/test-takers/free-retake.html"
       ],
@@ -2640,11 +2641,13 @@
       "beneficio": "Participação gratuita e certificado de participação; seleção limitada",
       "inscricao_ate": "2026-11-09",
       "voucher_ate": null,
-      "verificado_em": "2026-10-24",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075"
       ],
-      "certificado_curso": "Certificado de participação até 19/12/2026"
+      "certificado_curso": "Certificado de participação até 19/12/2026",
+      "inicio_em": "2026-11-07",
+      "fim_em": "2026-12-12"
     },
     {
       "id": "rt-119",
@@ -2986,10 +2989,11 @@
       "beneficio": "Curso e certificado gratuitos",
       "inscricao_ate": "2026-12-31",
       "voucher_ate": null,
-      "verificado_em": "2026-10-25",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://www.santanderopenacademy.com/en/index.html",
-        "https://www.publicnow.com/view/CAB26884821887177AFDEDC3E803F2CA8C7F15DB"
+        "https://www.publicnow.com/view/CAB26884821887177AFDEDC3E803F2CA8C7F15DB",
+        "https://app.santanderopenacademy.com/en/course/master-ai-with-gemini"
       ],
       "certificado_curso": "Certificado de conclusão Santander Open Academy"
     },
@@ -3223,19 +3227,18 @@
       "tipo": "Preparação e simulados",
       "grupo": "Preparação e simulados",
       "status": "Vigente",
-      "resumo": "Quatro workshops gratuitos de 09 a 12/11/2026 sobre engenharia de dados no Microsoft Fabric e preparação DP-700; chance condicionada de um entre 100 vouchers para exame oficial.",
-      "descricao": "A DIO oferece inscrição gratuita e quatro workshops ao vivo sobre arquitetura, ingestão, segurança, operação e otimização no Fabric. O exame DP-700 é certificação profissional Microsoft Certified: Fabric Data Engineer Associate; voucher não é garantido. A Microsoft atualizou o conteúdo do exame em 19/10/2026 e disponibiliza prova em português brasileiro. Regulamento de distribuição dos 100 vouchers não detalhado na página pública consultada.",
+      "resumo": "Aceleração gratuita DIO/Microsoft para o exame profissional DP-700, com quatro workshops ao vivo de 09 a 12/11/2026 sobre arquitetura, segurança, ingestão, transformação, operação, deploy e otimização no Microsoft Fabric. A página mantém matrícula gratuita e anuncia chance de ganhar um entre 100 vouchers integrais do exame; voucher não garantido e critérios de seleção não detalhados na página pública.",
+      "descricao": "Preparação gratuita com quatro workshops ao vivo (09, 10, 11 e 12/11) conduzidos por instrutores DIO/Microsoft. O exame DP-700 concede Microsoft Certified: Fabric Data Engineer Associate. A DIO anuncia 100 vouchers de exame gratuitos, mas a obtenção é condicional e não garantida; critérios específicos de seleção e data de distribuição não foram publicados na página consultada. A página continuava com botão de matrícula gratuita em 06/11. Não foi realizada inscrição.",
       "url": "https://www.dio.me/acceleration/microsoft-dp-700-certification",
       "origem": "DIO e Microsoft",
       "brasil": "Inscrição DIO com telefone +55; exame Microsoft disponível em português brasileiro e agendável pela Pearson VUE. Regras específicas de elegibilidade aos vouchers precisam ser conferidas.",
-      "beneficio": "Preparação gratuita; possibilidade de 100 vouchers de exame gratuito, sujeitos a seleção",
+      "beneficio": "Preparação gratuita; chance de um entre 100 vouchers integrais DP-700, sujeito a seleção; exame não é garantido.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-26",
+      "verificado_em": "2026-11-06",
       "evidencias": [
-        "https://www.dio.me/es/acceleration/microsoft-dp-700-certification",
-        "https://learn.microsoft.com/pt-br/credentials/certifications/fabric-data-engineer-associate/",
-        "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-700"
+        "https://www.dio.me/acceleration/microsoft-dp-700-certification",
+        "https://learn.microsoft.com/pt-br/credentials/certifications/fabric-data-engineer-associate/"
       ],
       "certificado_curso": "Certificado de participação DIO conforme conclusão; certificação Microsoft depende de aprovação no exame",
       "inicio_em": "2026-11-09",
@@ -3250,20 +3253,19 @@
       "categoria": "Dados e Inteligência Artificial",
       "tipo": "Programa de formação",
       "grupo": "Programa de formação",
-      "status": "A confirmar",
-      "resumo": "15 mil bolsas anunciadas para formação online em assistentes de IA; prazo divulgado anteriormente até 03/11/2026. A página atual exige JavaScript e não permitiu verificar nesta rodada a continuidade das inscrições.",
-      "descricao": "Programa Santander Open Academy com DIO para criar assistente pessoal de IA, planejamento com Notion, engenharia de prompts e projeto de portfólio. Seleção prevista para 04/11, formação entre 24/11/2026 e 24/01/2027. Certificado de conclusão do curso, não certificação profissional por exame. Verificação de 31/10: página de matrícula dinâmica não confirmou disponibilidade atual; manter A confirmar até consulta autenticada.",
+      "status": "Encerrada",
+      "resumo": "Programa Santander + DIO anunciou 15 mil bolsas para formação online em assistentes de IA, com início previsto em 24/11/2026. O prazo de inscrição cadastrado e divulgado era 03/11/2026 e já expirou; a página dinâmica não confirmou prorrogação ou reabertura. Não aceitar novas adesões como vigentes.",
+      "descricao": "Ciclo de 15 mil bolsas Santander Open Academy/DIO para criação de assistente de IA, com Notion, engenharia de prompts e projeto de portfólio. O prazo de inscrição divulgado era 03/11/2026 e expirou. A página dinâmica não permitiu confirmar prorrogação ou nova janela. Status Encerrada para novas inscrições; não foi possível validar individualmente a situação de candidatos previamente selecionados.",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
       "origem": "Santander Open Academy e DIO",
       "brasil": "Programa direcionado ao público brasileiro, 100% online; inscrição gratuita sem exigência de ser cliente Santander; bolsa sujeita a seleção.",
-      "beneficio": "15 mil bolsas de curso gratuito com certificado de conclusão",
+      "beneficio": "15 mil bolsas de formação gratuita anunciadas; prazo de inscrição 03/11/2026 expirado, sem reabertura confirmada.",
       "inscricao_ate": "2026-11-03",
       "voucher_ate": null,
-      "verificado_em": "2026-10-31",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://app.santanderopenacademy.com/pt-BR/program/crie-seu-assistente-de-ia",
-        "https://dio-me.keepo.bio/",
-        "https://vcia.abril.com.br/vida-pessoal/santander-e-dio-lancam-curso-gratuito-para-criacao-de-assistentes-de-ia-para-planejamento-pessoal-e-profissional/"
+        "https://www.dio.me/"
       ],
       "certificado_curso": "Certificado de conclusão DIO/Santander, sujeito a conclusão da formação",
       "inicio_em": "2026-11-24",
@@ -3409,21 +3411,22 @@
       "categoria": "Dados e Inteligência Artificial",
       "grupo": "Campanha de voucher",
       "status": "Vigente",
-      "resumo": "Oferta global Red Hat: 50% de desconto no curso AI267LS de OpenShift AI, incluindo uma tentativa do exame oficial EX267. Válida até 31/12/2026; não é exame gratuito isolado.",
+      "resumo": "Red Hat AI267LS: 50% de desconto no preço sugerido local até 31/12/2026. A compra do curso Red Hat Learning Subscription AI267LS inclui uma tentativa do exame profissional EX267. Não é exame gratuito isolado; desconto não cumulativo.",
       "url": "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai",
       "beneficio": "50% de desconto sobre preço local do AI267LS; 1 tentativa do EX267 incluída",
       "brasil": "Oferta global, página oficial pt-BR; compra e valor final em reais não testados",
       "inscricao_ate": "2026-12-31",
       "certificado_curso": "Certificação Red Hat EX267 apenas mediante aprovação no exame",
       "evidencias": [
-        "https://docs.redhat.com/en/documentation/red_hat_learning_subscription/1-latest/html/terms_and_conditions_for_ai267ls/index",
-        "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai"
+        "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai",
+        "https://www.redhat.com/pt-br/services/training/ai267-developing-and-deploying-ai/ml-applications-on-red-hat-openshift-ai",
+        "https://docs.redhat.com/pt-br/documentation/red_hat_learning_subscription/1-latest/html/terms_and_conditions_for_ai267ls/index"
       ],
       "tipo": "Campanha de voucher",
-      "descricao": "Oferta global Red Hat: 50% de desconto no curso AI267LS de OpenShift AI, incluindo uma tentativa do exame oficial EX267. Válida até 31/12/2026; não é exame gratuito isolado.",
+      "descricao": "Oferta global Red Hat para o curso Developing and Deploying AI/ML Applications on Red Hat OpenShift AI (AI267LS): 50% de desconto sobre o preço sugerido local até 31/12/2026. A compra do curso inclui uma tentativa do exame oficial EX267, Red Hat Certified Developer in AI. Desconto aplicado no checkout e não cumulativo com outras ofertas. Preço final brasileiro não testado.",
       "origem": "Red Hat",
       "voucher_ate": null,
-      "verificado_em": "2026-10-27"
+      "verificado_em": "2026-11-06"
     },
     {
       "id": "rt-153",
@@ -4041,20 +4044,23 @@
       "tipo": "Evento e capacitação",
       "grupo": "Evento e capacitação",
       "status": "Vigente",
-      "resumo": "Laboratório virtual de 90 minutos com IBM Bob em 10/11/2026 às 8h ET: análise de dados, treinamento de modelo e criação de aplicação Streamlit. Gratuito na plataforma IBM SkillsBuild; certificado específico não informado.",
-      "descricao": "Laboratório virtual de 90 minutos com IBM Bob em 10/11/2026 às 8h ET: análise de dados, treinamento de modelo e criação de aplicação Streamlit. Gratuito na plataforma IBM SkillsBuild; certificado específico não informado.",
+      "resumo": "Workshop virtual IBM SkillsBuild de 90 minutos em 10/11/2026, 8h ET/13h GMT, em inglês e aberto a estudantes universitários e adultos. Laboratório prático com IBM Bob para preparar dados reais, treinar/avaliar modelo de previsão de partidas de tênis e criar app Streamlit. Certificado individual não anunciado.",
+      "descricao": "Sessão online prática de 90 minutos. Participantes usam IBM Bob para preparar e analisar um conjunto de dados real, construir, treinar e avaliar um modelo de machine learning para prever resultados de tênis e criar uma aplicação web em Streamlit. Público indicado: estudantes universitários e adultos. Idioma inglês. A página oferece inscrição; não anuncia certificado individual.",
       "url": "https://skillsbuild.org/events/tennis-data-ai-predictions",
       "origem": "IBM",
       "brasil": "Evento virtual para estudantes universitários e adultos; sem exclusão brasileira identificada; cadastro pode impor condições.",
       "beneficio": "Workshop prático gratuito; sem certificado individual confirmado",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-31",
+      "verificado_em": "2026-11-06",
       "evidencias": [
-        "https://skillsbuild.org/events/tennis-data-ai-predictions"
+        "https://skillsbuild.org/events/tennis-data-ai-predictions",
+        "https://skillsbuild.org/"
       ],
       "certificado_curso": null,
-      "evento_em": "2026-11-10"
+      "evento_em": "2026-11-10",
+      "inicio_em": "2026-11-10",
+      "fim_em": "2026-11-10"
     },
     {
       "id": "rt-181",
@@ -4087,15 +4093,15 @@
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
       "status": "Vigente",
-      "resumo": "Nova edição anunciada para 10/11 a 08/12/2026. Concluir integralmente ao menos uma trilha elegível dentro do período dá direito a 50% de desconto em uma certificação Databricks e 20% na assinatura anual Academy Labs; incentivos previstos para 14/12/2026. Exame não é gratuito.",
-      "descricao": "Nova edição anunciada para 10/11 a 08/12/2026. Concluir integralmente ao menos uma trilha elegível dentro do período dá direito a 50% de desconto em uma certificação Databricks e 20% na assinatura anual Academy Labs; incentivos previstos para 14/12/2026. Exame não é gratuito.",
+      "resumo": "Databricks Advanced Learning Festival de 10/11 a 08/12/2026. Concluir todos os módulos de ao menos uma trilha elegível durante a janela habilita 50% de desconto em uma certificação Databricks e 20% na assinatura anual Academy Labs. Incentivos enviados em 14/12 para o e-mail associado à Customer Academy; WebAssessor deve usar o mesmo e-mail. Exame não é gratuito.",
+      "descricao": "Campanha global Databricks. Para receber o benefício, conclua todos os módulos de pelo menos uma learning pathway elegível entre 10/11 e 08/12/2026, incluindo introduções e todos os componentes marcados como completos. Benefícios: 50% em uma certificação Databricks e 20% em assinatura anual Academy Labs. Incentivos previstos para 14/12/2026 no e-mail Customer Academy; o cadastro WebAssessor deve usar o mesmo e-mail ou adicioná-lo como secundário. Não é exame gratuito.",
       "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
       "origem": "Databricks",
       "brasil": "Evento global via Databricks Customer Academy; confirmar acesso à trilha e regras de resgate para conta individual brasileira.",
       "beneficio": "Voucher de 50% para exame profissional, condicionado a trilha concluída no período; 20% em Academy Labs.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-11-05",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
       ],
@@ -4169,7 +4175,7 @@
       "beneficio": "Inscrição em programa educacional; não é voucher nem exame de certificação.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-30",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://skillsbuild.org/events/kickstart-november"
       ],
@@ -4283,15 +4289,15 @@
       "tipo": "Curso com certificado",
       "grupo": "Curso com certificado",
       "status": "Vigente",
-      "resumo": "Turma virtual gratuita em inglês de 30/11 a 13/12, com duas sessões ao vivo e atividades sobre IA generativa para síntese de documentos, análise de dados, automação de tarefas e decisões. Credencial digital IBM ao concluir.",
-      "descricao": "Turma virtual gratuita em inglês de 30/11 a 13/12, com duas sessões ao vivo e atividades sobre IA generativa para síntese de documentos, análise de dados, automação de tarefas e decisões. Credencial digital IBM ao concluir.",
+      "resumo": "Coorte gratuita IBM SkillsBuild de 30/11 a 13/12/2026, em inglês, aberta a adultos e universitários. Conteúdo autoinstrucional em sete áreas de produtividade com IA e duas sessões ao vivo; certificado digital AI Skills for Everyday Productivity após conclusão.",
+      "descricao": "Formação online IBM SkillsBuild para adultos e estudantes universitários. Inclui sete áreas práticas de IA generativa para comunicação, síntese, aceleração de fluxos, prototipagem, análise de dados, apoio à decisão e aprendizagem, além de duas sessões ao vivo. Idioma inglês; duração estimada de uma semana; certificado digital IBM SkillsBuild após conclusão. Não é certificação profissional por exame.",
       "url": "https://skillsbuild.org/events/ai-for-everyone",
       "origem": "IBM SkillsBuild",
       "brasil": "Turma virtual para adultos e universitários; não há restrição explícita ao Brasil na página pública. Elegibilidade final e inscrição não foram testadas.",
-      "beneficio": "Acesso educacional gratuito e credencial digital IBM após cumprimento dos requisitos; não é exame de certificação profissional.",
+      "beneficio": "Curso online gratuito com certificado digital IBM SkillsBuild, condicionado à conclusão.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-30",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://skillsbuild.org/events/ai-for-everyone",
         "https://skillsbuild.org/"
@@ -4378,19 +4384,21 @@
       "grupo": "Evento e capacitação",
       "status": "Vigente",
       "resumo": "4–6/11/2026, Brasília e online; evento Serpro gratuito. A fonte oficial informa inscrição online até o início do evento, sem horário exato de fechamento; certificado somente para participantes inscritos via Teams ou presencialmente, não via YouTube.",
-      "descricao": "4–6/11/2026, Brasília e online; evento Serpro gratuito. A fonte oficial informa inscrição online até o início do evento, sem horário exato de fechamento; certificado somente para participantes inscritos via Teams ou presencialmente, não via YouTube. Presencial sujeito a 100 vagas por dia e esgotamento; disponibilidade atual de assentos não foi testada.",
+      "descricao": "4–6/11/2026, Brasília e online; evento Serpro gratuito e aberto ao público, com inscrição obrigatória. A página oficial informa que inscrições seguem até o encerramento do evento, sem horário exato. Certificado para inscritos que participem presencialmente ou pelo Teams; YouTube é aberto sem inscrição e não concede certificado. Último dia do evento: 06/11/2026. Presencial sujeito a 100 vagas e disponibilidade não testada.",
       "url": "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
       "origem": "Serpro",
       "brasil": "Aberto a estudantes e público geral; Teams mediante inscrição, presencial condicionado a vagas por dia.",
       "beneficio": "Participação online e certificado gratuitos; nenhuma prova profissional ou voucher",
-      "inscricao_ate": null,
+      "inscricao_ate": "2026-11-06",
       "voucher_ate": null,
-      "verificado_em": "2026-11-04",
+      "verificado_em": "2026-11-06",
       "evidencias": [
-        "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro",
-        "https://campanhas.serpro.gov.br/semana-de-ia-serpro/"
+        "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
+        "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro"
       ],
-      "certificado_curso": "Certificado de participação (Teams ou presencial, condicionado à presença)"
+      "certificado_curso": "Certificado de participação (Teams ou presencial, condicionado à presença)",
+      "inicio_em": "2026-11-04",
+      "fim_em": "2026-11-06"
     },
     {
       "id": "rt-195",
@@ -4408,11 +4416,10 @@
       "beneficio": "Participação gratuita; certificado individual não confirmado",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-31",
+      "verificado_em": "2026-11-06",
       "evidencias": [
-        "https://www.gov.br/cgu/pt-br/assuntos/noticias/semana-dados-br-promove-debates-sobre-o-universo-dos-dados-e-da-inteligencia-artificial",
-        "https://redeparcerias.sistema.gov.br/evento_visualizacao/147",
-        "https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/semana-dados-br/semana-dados-br-2026"
+        "https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/semana-dados-br",
+        "https://redeparcerias.sistema.gov.br/evento_visualizacao/147"
       ],
       "certificado_curso": "Não confirmado"
     },
@@ -4432,7 +4439,7 @@
       "beneficio": "Inscrição e curso gratuitos; diploma técnico após aprovação. Não é voucher de certificação profissional.",
       "inscricao_ate": "2026-11-22",
       "voucher_ate": null,
-      "verificado_em": "2026-11-01",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
         "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027",
@@ -4457,9 +4464,10 @@
       "beneficio": "Inscrição e curso gratuitos; diploma técnico condicionado à conclusão. Sem voucher para exames profissionais.",
       "inscricao_ate": "2026-11-22",
       "voucher_ate": null,
-      "verificado_em": "2026-11-01",
+      "verificado_em": "2026-11-06",
       "evidencias": [
         "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027",
         "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1"
       ],
       "certificado_curso": "Diploma de Técnico em Manutenção e Suporte em Informática (após conclusão)",
@@ -4498,18 +4506,18 @@
       "tipo": "Evento e capacitação",
       "grupo": "Evento e capacitação",
       "status": "Vigente",
-      "resumo": "Conferência global online gratuita em 18/11/2026, das 8h às 16h30 ET, com 7 trilhas técnicas e possibilidade de obter até cinco badges digitais IBM, sujeitos às regras de participação.",
-      "descricao": "Evento IBM Z/LinuxONE com temas de IA e dados, modernização, segurança resistente à computação quântica, aplicações e operações. IBM confirma evento gratuito, virtual e aberto globalmente. Os cinco badges são oportunidades de credenciais digitais, não cinco certificações profissionais automáticas; regras de concessão devem ser conferidas no cadastro.",
+      "resumo": "Conferência virtual IBM Z Day 2026, gratuita e aberta globalmente, em 18/11/2026 das 8h às 16h30 ET. Sete trilhas técnicas sobre IA, IBM Z/LinuxONE, cloud híbrida, modernização e segurança quântica; IBM anuncia possibilidade de até cinco badges digitais, sujeitos às regras das trilhas. Badges não são cinco certificações profissionais.",
+      "descricao": "Evento global online de um dia, gratuito e aberto a qualquer pessoa interessada em computação corporativa. Conteúdo técnico sobre IA, cloud híbrida, modernização, segurança quantum-safe e IBM Z/LinuxONE. IBM divulga sete trilhas e até cinco badges digitais conforme critérios de participação; não equivale a cinco exames de certificação profissional.",
       "url": "https://ibm.biz/ibmzday-2026",
       "origem": "IBM",
       "brasil": "Confirmado: conferência global virtual e gratuita aberta a todos; residentes no Brasil podem acompanhar remotamente. Inscrição individual não concluída.",
-      "beneficio": "Inscrição e participação gratuitas; até cinco badges digitais conforme critérios do evento",
+      "beneficio": "Participação virtual gratuita; até cinco badges digitais condicionados às regras das trilhas.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-11-01",
+      "verificado_em": "2026-11-06",
       "evidencias": [
-        "https://community.ibm.com/community/user/blogs/natalie-carrillo1/2026/10/05/ibm-z-and-linuxone-community-newsletter-october-2026",
-        "https://www.ibm.com/br-pt/think/perspectives/a-roadmap-ahead-tap-into-innovation-today-while-preparing-for-whats-next"
+        "https://community.ibm.com/zsystems/advocacy/opportunities/amplify-ibm-zday-2026/",
+        "https://community.ibm.com/community/user/blogs/natalie-carrillo1/2026/10/05/ibm-z-and-linuxone-community-newsletter-october-2026"
       ],
       "certificado_curso": "Até cinco badges IBM condicionados aos critérios das trilhas",
       "inicio_em": "2026-11-18",
@@ -4894,6 +4902,84 @@
         "https://aprendamais.mec.gov.br/"
       ],
       "certificado_curso": "Certificado de curso MEC Aprenda Mais, não certificação profissional."
+    },
+    {
+      "id": "rt-216",
+      "nome": "Microsoft Ignite 2026 — um exame Microsoft ou GitHub gratuito presencial",
+      "fabricante": "Microsoft / GitHub",
+      "categoria": "Cloud e Infraestrutura",
+      "tipo": "Campanha de voucher",
+      "grupo": "Campanha de voucher",
+      "status": "Vigente",
+      "resumo": "Participantes presenciais do Microsoft Ignite 2026 podem realizar um exame Microsoft ou GitHub sem custo (100% de desconto), uma vez por pessoa, no centro de testes do evento em San Francisco, entre 16 e 20/11. Exige inscrição presencial no Ignite; não há resgate remoto. O passe Conference está anunciado por US$ 2.325; passe digital gratuito não qualifica.",
+      "descricao": "Oferta oficial de um exame Microsoft Certification ou GitHub Certification por pessoa, presencialmente no Microsoft Ignite 2026. Janela de resgate/teste: 16–20/11/2026, no Moscone Center West, San Francisco. Exames elegíveis incluem prefixos AB, AI, AZ, DA, DP, MB, MD, MS, PL, SC e GH, exceto beta conforme regras. Exige estar registrado para participar do Ignite presencialmente; desconto de 100% aplicado no checkout do exame. A página do evento anuncia passe Conference por US$ 2.325 e passe Hub-only por US$ 1.625; não foi confirmado se Hub-only habilita o exame. O passe digital gratuito não qualifica. Não inclui ingresso, viagem ou hospedagem.",
+      "url": "https://learn.microsoft.com/pt-br/training/topics/ignite/microsoft-ignite-2026-certification-registration",
+      "origem": "Microsoft Learn / Microsoft Ignite",
+      "brasil": "Brasil não aparece na lista explícita de países excluídos, mas a oferta não é remota: exige presença física em San Francisco e inscrição presencial. Passe Conference anunciado por US$ 2.325; o passe digital gratuito não habilita o exame. Disponibilidade de ingressos/assentos e elegibilidade do passe Hub-only não testadas.",
+      "beneficio": "Um exame Microsoft ou GitHub com 100% de desconto, somente presencial no evento; ingresso e deslocamento não incluídos.",
+      "inscricao_ate": null,
+      "voucher_ate": "2026-11-20",
+      "verificado_em": "2026-11-06",
+      "evidencias": [
+        "https://learn.microsoft.com/pt-br/training/topics/ignite/microsoft-ignite-2026-certification-registration",
+        "https://ignite.microsoft.com/en-US/home"
+      ],
+      "certificado_curso": null,
+      "inicio_em": "2026-11-16",
+      "fim_em": "2026-11-20",
+      "elegibilidade": "Registro presencial no Microsoft Ignite 2026; um exame por pessoa; teste no centro do evento em San Francisco; exames Microsoft/GitHub elegíveis, não beta."
+    },
+    {
+      "id": "rt-217",
+      "nome": "Santander Open Academy + LSE — AI Power Skills for Professionals (750 bolsas)",
+      "fabricante": "Santander Open Academy / London School of Economics",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Programa online gratuito de seis semanas, com 750 vagas e seleção, para profissionais residentes no Brasil e em outros países elegíveis. Inscrições até 23/11/2026 às 23h59 (horário de Madrid); curso de 17/02 a 06/04/2027, em português, inglês ou espanhol, com certificado digital Santander/LSE após conclusão.",
+      "descricao": "AI Power Skills for Professionals é uma formação online de seis semanas organizada pelo Santander Open Academy com a London School of Economics e GetSmarter. Aborda fundamentos de IA e LLMs, avaliação crítica de resultados, redesenho de fluxos de trabalho e criação de workflows agentic. São 750 vagas com processo seletivo. Brasil está explicitamente listado entre os países elegíveis. Requisitos: 18 anos ou mais, residência em país elegível, cadastro na plataforma e conclusão do teste de aptidão. Fase 1: inscrição até 23/11/2026 às 23h59 (Madrid); teste até 24/11; convocação da fase 2 em 01/12. Fase 2: carta de motivação de até 300 palavras e CV/LinkedIn até 18/12; resultados finais previstos para 19/01/2027. Curso de 17/02 a 06/04/2027. Não exige graduação, experiência prévia ou background técnico. Certificado digital de conclusão emitido em conjunto por Santander e LSE, condicionado à conclusão. Não é certificação profissional por exame.",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/ai-power-skills-for-professionals",
+      "origem": "Santander Open Academy / LSE / GetSmarter",
+      "brasil": "Brasil explicitamente listado entre os países elegíveis; exige residência no país, 18+, cadastro e teste de aptidão. Idiomas: português, inglês e espanhol.",
+      "beneficio": "Formação online gratuita; 750 vagas com seleção; certificado digital Santander/LSE após conclusão.",
+      "inscricao_ate": "2026-11-23",
+      "voucher_ate": null,
+      "verificado_em": "2026-11-06",
+      "evidencias": [
+        "https://app.santanderopenacademy.com/de/program/ai-power-skills-for-professionals",
+        "https://app.santanderopenacademy.com/pt-BR/program/ai-power-skills-for-professionals"
+      ],
+      "certificado_curso": "Certificado digital de conclusão emitido em conjunto por Santander e LSE, condicionado à conclusão.",
+      "inicio_em": "2027-02-17",
+      "fim_em": "2027-04-06",
+      "fuso_horario_prazo": "Europe/Madrid",
+      "elegibilidade": "18+; residência em país elegível (Brasil incluído); cadastro Santander Open Academy; teste de aptidão e etapas de seleção."
+    },
+    {
+      "id": "rt-218",
+      "nome": "Santander Open Academy — Copilot: Master AI in Microsoft 365",
+      "fabricante": "Santander Open Academy / Microsoft",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso com certificado",
+      "grupo": "Curso com certificado",
+      "status": "Vigente",
+      "resumo": "Curso online gratuito de oito horas sobre Microsoft Copilot em Word, PowerPoint, Excel, Outlook, Teams e Forms. Aberto a maiores de 16 anos de qualquer país, em português, inglês ou espanhol, com vagas ilimitadas e certificado após conclusão; inscrições até 31/12/2026.",
+      "descricao": "Curso autoinstrucional Santander Open Academy sobre uso do Microsoft Copilot no ecossistema Microsoft 365, incluindo Word, PowerPoint, Excel, Outlook, Teams e Microsoft Forms. Gratuito, online, oito horas letivas, para pessoas com 16 anos ou mais de qualquer país de residência. Vagas ilimitadas com acesso direto após cadastro; idiomas português, inglês e espanhol. Certificado de conclusão após cumprir o curso. Não é Microsoft Certification, Applied Skills ou voucher de exame profissional.",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/copilot-master-ai-microsoft-365",
+      "origem": "Santander Open Academy",
+      "brasil": "Qualquer país de residência, incluindo Brasil; 16+; curso disponível em português; vagas ilimitadas com cadastro direto.",
+      "beneficio": "Curso gratuito de 8h com certificado de conclusão; não inclui exame ou voucher Microsoft.",
+      "inscricao_ate": "2026-12-31",
+      "voucher_ate": null,
+      "verificado_em": "2026-11-06",
+      "evidencias": [
+        "https://app.santanderopenacademy.com/en/course/copilot-master-ai-microsoft-365",
+        "https://app.santanderopenacademy.com/pt-BR/course/copilot-master-ai-microsoft-365"
+      ],
+      "certificado_curso": "Certificado de conclusão Santander Open Academy após finalizar o curso; não é certificação profissional Microsoft.",
+      "fim_em": "2026-12-31",
+      "elegibilidade": "16+; qualquer país de residência; cadastro direto na Santander Open Academy."
     }
   ]
 }
