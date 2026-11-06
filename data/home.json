@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-05",
+  "atualizado_em": "2026-11-06",
   "analises": [
     {
       "data": "2026-10-23",
@@ -1923,6 +1923,167 @@
         "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
         "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro",
         "https://www.dio.me/bootcamp/universia-fundamentos-de-ia-generativa-2026"
+      ]
+    },
+    {
+      "data": "2026-11-06",
+      "titulo": "Radar Tech — 06/11/2026: bolsas Santander/LSE, exame Ignite presencial e novas formações em IA",
+      "resumo": "Em 06/11/2026, foram adicionadas três oportunidades confirmadas ao Radar Tech (215 → 218): Santander Open Academy + LSE AI Power Skills for Professionals, com 750 vagas gratuitas e Brasil explicitamente elegível; um exame Microsoft ou GitHub com 100% de desconto no Microsoft Ignite, exclusivamente presencial em San Francisco e condicionado a ingresso presencial pago; e o curso gratuito Copilot: Master AI in Microsoft 365, de oito horas, com certificado. Foram revalidados 17 registros e o Santander + DIO Crie seu Assistente de IA foi marcado Encerrada após expirar o prazo de 03/11. Destaques próximos: aceleração DIO DP-700 (09–12/11, chance de 100 vouchers não garantidos), hackathon PMI-DF (inscrições até 09/11), Databricks Festival (10/11–08/12, 50% condicionado), Pearson Global Retake (primeira prova paga; retake condicional), Red Hat AI267LS (50% no curso com EX267 incluído), IFB (170 vagas técnicas em Brasília/Taguatinga até 22/11) e Semana Dados BR (23–26/11 em Brasília). Não foi confirmada campanha universal e remota de exame profissional gratuito; o benefício Microsoft Ignite é presencial e oneroso para quem não já estiver no evento.",
+      "destaques": [
+        {
+          "titulo": "Santander + LSE — AI Power Skills for Professionals (750 bolsas)",
+          "descricao": "Formação online gratuita de seis semanas; Brasil está na lista de países elegíveis. Exige 18+, teste e seleção. Inscrições até 23/11/2026 às 23h59 de Madrid; aulas de 17/02 a 06/04/2027 e certificado digital Santander/LSE após conclusão.",
+          "url": "https://app.santanderopenacademy.com/pt-BR/program/ai-power-skills-for-professionals",
+          "tipo": "Programa de formação"
+        },
+        {
+          "titulo": "Microsoft Ignite — um exame Microsoft ou GitHub sem custo, somente presencial",
+          "descricao": "Desconto de 100% em um exame entre 16 e 20/11, mas exige participação presencial em San Francisco. O passe Conference está anunciado por US$ 2.325; o passe digital gratuito não qualifica. Não é voucher remoto para quem permanece no Brasil.",
+          "url": "https://learn.microsoft.com/pt-br/training/topics/ignite/microsoft-ignite-2026-certification-registration",
+          "tipo": "Campanha de voucher"
+        },
+        {
+          "titulo": "Santander Open Academy — Copilot: Master AI in Microsoft 365",
+          "descricao": "Curso gratuito de 8h, em português, para maiores de 16 anos de qualquer país; vagas ilimitadas e certificado após conclusão. Aberto até 31/12/2026; não é certificação Microsoft.",
+          "url": "https://app.santanderopenacademy.com/pt-BR/course/copilot-master-ai-microsoft-365",
+          "tipo": "Curso com certificado"
+        },
+        {
+          "titulo": "DIO + Microsoft — aceleração DP-700 e 100 vouchers condicionais",
+          "descricao": "Quatro workshops gratuitos de 09 a 12/11 sobre Microsoft Fabric. A DIO anuncia chance de ganhar um dos 100 vouchers integrais DP-700; não é garantido e os critérios de seleção não estão detalhados na página pública.",
+          "url": "https://www.dio.me/acceleration/microsoft-dp-700-certification",
+          "tipo": "Curso preparatório / campanha"
+        },
+        {
+          "titulo": "Hackathon PMI-DF — Impacto Social, IA e Gestão de Projetos",
+          "descricao": "Inscrições até 09/11 às 23h59. Gratuito e online para estudantes de graduação/pós do Brasil, 18+, em equipes de 4–5; seleção das 15 primeiras equipes elegíveis. Hackathon em 12/12 e certificado até 19/12.",
+          "url": "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075",
+          "tipo": "Programa de formação / desafio"
+        },
+        {
+          "titulo": "Pearson VUE Global Retake — primeira prova paga, retake condicional",
+          "descricao": "Para programas participantes, a primeira tentativa é paga e deve ser concluída antes de 17/11 (16/11 como último dia conservador); retake gratuito entre 04/01 e 07/04/2027. AWS elegíveis têm 50% na primeira tentativa, com exclusões; Cisco só CCST; Microsoft exclui ESI.",
+          "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+          "tipo": "Campanha"
+        },
+        {
+          "titulo": "Databricks Advanced Learning Festival",
+          "descricao": "10/11 a 08/12: concluir todos os módulos de uma trilha elegível habilita 50% de desconto em uma certificação e 20% na assinatura anual Academy Labs. Incentivos previstos para 14/12; exame não é gratuito.",
+          "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+          "tipo": "Campanha de voucher"
+        },
+        {
+          "titulo": "Red Hat AI267LS — 50% no curso e uma tentativa EX267 incluída",
+          "descricao": "Desconto de 50% no curso AI267LS até 31/12/2026; a compra inclui uma tentativa do exame profissional EX267. Não é exame gratuito isolado; preço local e checkout não testados.",
+          "url": "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai",
+          "tipo": "Campanha de desconto"
+        },
+        {
+          "titulo": "IFB Brasília/Taguatinga — 170 vagas técnicas gratuitas em TI",
+          "descricao": "130 vagas em Desenvolvimento de Sistemas (Brasília) e 40 em Manutenção e Suporte em Informática (Taguatinga); inscrições gratuitas até 22/11. Ensino Médio concluído; seleção por sorteio. Formação técnica, não certificação de fabricante.",
+          "url": "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+          "tipo": "Programa de formação"
+        },
+        {
+          "titulo": "CGU/Enap — Semana Dados BR 2026",
+          "descricao": "Evento gratuito e presencial em Brasília, 23–26/11, com inscrições reabertas. Temas incluem governança de dados, IA, segurança cibernética, interoperabilidade e proteção de dados; certificado individual não confirmado.",
+          "url": "https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/semana-dados-br",
+          "tipo": "Evento e capacitação"
+        },
+        {
+          "titulo": "Serpro — II Semana de IA: último dia em 06/11",
+          "descricao": "Evento gratuito em Brasília e online. Inscrições até o encerramento hoje; certificado para inscritos presenciais ou via Teams, não para espectadores do YouTube.",
+          "url": "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
+          "tipo": "Evento e capacitação"
+        },
+        {
+          "titulo": "IBM Z Day 2026 — conferência virtual gratuita e badges",
+          "descricao": "18/11, 8h–16h30 ET, sete trilhas técnicas sobre IA, cloud híbrida, segurança e IBM Z/LinuxONE; possibilidade de até cinco badges digitais conforme critérios. Não são cinco certificações profissionais.",
+          "url": "https://community.ibm.com/zsystems/advocacy/opportunities/amplify-ibm-zday-2026/",
+          "tipo": "Evento e capacitação"
+        },
+        {
+          "titulo": "Neo4j GraphAcademy — exames gratuitos",
+          "descricao": "Certificações GraphAcademy online-proctored com prova e retentativas gratuitas; a página específica Graph Data Science confirma exame de 60 minutos, 50 questões e 80% para aprovação. Não é campanha temporária.",
+          "url": "https://graphacademy.neo4j.com/certifications",
+          "tipo": "Certificação profissional"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 215,
+        "novos_registros": 3,
+        "catalogo_total": 218,
+        "analises_anteriores_preservadas": 29,
+        "analises_total": 30,
+        "ids_novos": [
+          "rt-216",
+          "rt-217",
+          "rt-218"
+        ],
+        "ids_revisados": [
+          "rt-004",
+          "rt-008",
+          "rt-117",
+          "rt-118",
+          "rt-133",
+          "rt-144",
+          "rt-145",
+          "rt-152",
+          "rt-180",
+          "rt-182",
+          "rt-185",
+          "rt-190",
+          "rt-194",
+          "rt-195",
+          "rt-196",
+          "rt-197",
+          "rt-199"
+        ],
+        "registros_encerrados": [
+          "rt-145"
+        ],
+        "ausencia_de_novidades_confirmadas": false,
+        "pesquisa_executada": true,
+        "nova_campanha_universal_remota_de_exame_profissional_gratuito_confirmada": false,
+        "campanha_presencial_de_exame_100pct_confirmada": true
+      },
+      "observacoes": [
+        "As três novas entradas são oportunidades inéditas no catálogo; não significam que todos os programas tenham sido lançados em 06/11.",
+        "Santander/LSE: formação e certificado digital de conclusão, não certificação profissional por exame; Brasil explicitamente elegível, 18+, 750 vagas com seleção.",
+        "Copilot Master AI: curso e certificado de conclusão, não Microsoft Certification nem Applied Skills.",
+        "Microsoft Ignite: oferta de exame 100% descontado apenas para participante presencial em San Francisco; passe Conference anunciado por US$ 2.325, passe digital gratuito não qualifica; assentos e disponibilidade do passe não foram testados.",
+        "DIO DP-700: preparação gratuita; os 100 vouchers são uma possibilidade sujeita a seleção, não benefício garantido. Critérios detalhados não estão na página pública.",
+        "Hackathon PMI-DF: 18+, estudante de graduação/pós no Brasil, equipe de 4–5; apenas 15 primeiras equipes elegíveis; inscrição até 09/11 às 23h59.",
+        "Pearson: primeira tentativa paga e retake gratuito condicionado; termos exigem concluir a primeira tentativa antes de 17/11, portanto 16/11 é o último dia conservador. AWS participantes recebem 50% na primeira prova, com exclusões; Cisco limitado a CCST; Microsoft exclui ESI.",
+        "Databricks: desconto de 50% após conclusão integral de uma trilha elegível; exame permanece pago.",
+        "Red Hat AI267LS: compra do curso com 50% de desconto inclui uma tentativa EX267; não é exame gratuito isolado.",
+        "IFB: 170 vagas técnicas de TI em Brasília e Taguatinga, inscrição até 22/11, uma inscrição por pessoa e Ensino Médio concluído para as modalidades subsequentes.",
+        "Serpro: 06/11 é o último dia do evento; certificado somente para inscritos presenciais ou via Teams, não para YouTube.",
+        "Santander + DIO Crie seu Assistente de IA: prazo anunciado de 03/11 expirado; página dinâmica não confirmou prorrogação, então novas adesões foram marcadas Encerrada.",
+        "Nenhuma matrícula, inscrição, compra, checkout, reserva de assento ou verificação individual de elegibilidade foi executada.",
+        "Ausência de nova campanha universal remota de exame gratuito não equivale a falha de pesquisa; a pesquisa foi executada com sucesso em fontes oficiais e páginas de organizadores."
+      ],
+      "fontes": [
+        "https://app.santanderopenacademy.com/de/program/ai-power-skills-for-professionals",
+        "https://app.santanderopenacademy.com/pt-BR/program/ai-power-skills-for-professionals",
+        "https://app.santanderopenacademy.com/en/course/copilot-master-ai-microsoft-365",
+        "https://app.santanderopenacademy.com/pt-BR/course/copilot-master-ai-microsoft-365",
+        "https://learn.microsoft.com/pt-br/training/topics/ignite/microsoft-ignite-2026-certification-registration",
+        "https://ignite.microsoft.com/en-US/home",
+        "https://www.dio.me/acceleration/microsoft-dp-700-certification",
+        "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075",
+        "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+        "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027",
+        "https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/semana-dados-br",
+        "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
+        "https://community.ibm.com/zsystems/advocacy/opportunities/amplify-ibm-zday-2026/",
+        "https://skillsbuild.org/events/tennis-data-ai-predictions",
+        "https://skillsbuild.org/events/ai-for-everyone",
+        "https://graphacademy.neo4j.com/certifications",
+        "https://www.oracle.com/br/education/training/"
       ]
     }
   ]
