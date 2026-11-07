@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-06",
+  "atualizado_em": "2026-11-07",
   "analises": [
     {
       "data": "2026-10-23",
@@ -2084,6 +2084,154 @@
         "https://skillsbuild.org/events/ai-for-everyone",
         "https://graphacademy.neo4j.com/certifications",
         "https://www.oracle.com/br/education/training/"
+      ]
+    },
+    {
+      "data": "2026-11-07",
+      "titulo": "Radar Tech — 07/11/2026: AI-103, Neo4j, novas vagas IFB e atualização ISC2",
+      "resumo": "Em 07/11/2026, a pesquisa em fontes oficiais e páginas dos organizadores adicionou seis registros ao Radar Tech (218 → 224): certificação profissional Microsoft AI-103 e bootcamp gratuito DIO/Microsoft, cujo voucher de exame é limitado aos 250 primeiros colocados que concluírem até 10/01/2027; dois cursos técnicos integrados gratuitos do IFB (Informática para Internet, 76 vagas, e Desenvolvimento de Sistemas Educacionais, 32 vagas), com inscrições até 22/11; Hackathon PMI-DF gratuito, com inscrições até 09/11; e workshop voluntário ISC2 AI Security previsto para 2027, mantido A confirmar por falta de datas e critérios completos. O bootcamp DIO/Neo4j foi revalidado e passou de A confirmar para Vigente, com 5.000 vagas gratuitas anunciadas; não inclui voucher do exame. O evento Serpro foi marcado Encerrada após 06/11. O piloto de exame ISC2 continua Encerrada para novas candidaturas; a ISC2 informou seleção de mais de 3.000 candidatos, com provas entre meados de dezembro e 24/01/2027. Pearson Global Retake mantém primeira prova paga e retake condicional, com 16/11 como limite conservador; Databricks Festival começa 10/11 e concede 50% condicionado à conclusão de trilha. Não foi confirmada campanha universal remota de exame profissional 100% gratuito; a oferta DIO AI-103 é competitiva e não garantida.",
+      "destaques": [
+        {
+          "titulo": "Microsoft AI-103 — certificação profissional e preparação oficial",
+          "descricao": "A Microsoft confirma a credencial Azure AI Apps and Agents Developer Associate pelo exame AI-103, supervisionado, 120 minutos e disponível em Português (Brasil). A preparação oficial cobre Python, Microsoft Foundry, agentes, visão computacional, texto e extração de informação; preço depende da região.",
+          "url": "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/",
+          "tipo": "Certificação profissional"
+        },
+        {
+          "titulo": "DIO + Microsoft — Bootcamp AI-103 e até 250 vouchers",
+          "descricao": "Bootcamp gratuito, sem pré-requisito para entrada, com vídeo-aulas, simulados, Pocket Guides e mentorias. Os 250 primeiros colocados do ranking que concluírem até 10/01/2027 recebem voucher gratuito; não é garantido a todos.",
+          "url": "https://www.dio.me/bootcamp/microsoft-certificacao-ai-103",
+          "tipo": "Curso preparatório / campanha de voucher"
+        },
+        {
+          "titulo": "DIO + Neo4j — bootcamp gratuito com matrícula ativa",
+          "descricao": "A página anuncia 5.000 vagas gratuitas; exibia mais de 2.673 alunos com bolsa no momento da verificação. Inclui Neo4j Aura, Desktop, Docker, Cypher, grafos, Python, GraphRAG e mentorias. Prepara para Neo4j Certified Professional, mas não inclui voucher do exame.",
+          "url": "https://www.dio.me/bootcamp/neo4j-certification",
+          "tipo": "Programa de formação"
+        },
+        {
+          "titulo": "IFB — Informática para Internet e Desenvolvimento de Sistemas Educacionais",
+          "descricao": "Duas ofertas integradas ao Ensino Médio: 76 vagas em Informática para Internet no campus Brasília e 32 em Desenvolvimento de Sistemas Educacionais no campus São Sebastião. Cursos e inscrições gratuitos; inscrições até 22/11, sorteio 24/11 e resultado 26/11.",
+          "url": "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+          "tipo": "Programa de formação"
+        },
+        {
+          "titulo": "PMI-DF — Hackathon Impacto Social, IA e Gestão de Projetos",
+          "descricao": "Hackathon 100% online e gratuito para estudantes de graduação/pós, 18+, em equipes de 4–5. Inscrições até 09/11 às 23h59; seleção das 15 primeiras equipes elegíveis; hackathon em 12/12 e certificados até 19/12.",
+          "url": "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075",
+          "tipo": "Programa de formação / desafio"
+        },
+        {
+          "titulo": "ISC2 — workshop voluntário de definição do padrão AI Security em 2027",
+          "descricao": "A ISC2 procura profissionais experientes em cibersegurança para workshop de 2,5 dias em 2027, definindo critérios de aprovação da nova certificação. Datas, seleção e elegibilidade brasileira ainda não estão detalhadas; status A confirmar.",
+          "url": "https://www.isc2.org/Insights/2026/11/isc2-ai-security-certification-development-next-phase",
+          "tipo": "Programa de participação profissional"
+        },
+        {
+          "titulo": "Databricks Advanced Learning Festival",
+          "descricao": "10/11 a 08/12: concluir todos os módulos de uma trilha elegível habilita 50% de desconto em uma certificação e 20% na assinatura anual Academy Labs; incentivos previstos para 14/12. O exame permanece pago.",
+          "url": "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+          "tipo": "Campanha de voucher"
+        },
+        {
+          "titulo": "Pearson VUE Global Retake",
+          "descricao": "Opt-in e primeira tentativa paga; retake gratuito entre 04/01 e 07/04/2027 se elegível. Os termos exigem concluir a primeira prova antes de 17/11; 16/11 é o limite conservador. Programas e exames excluídos variam.",
+          "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+          "tipo": "Campanha"
+        },
+        {
+          "titulo": "Oracle Race to Certification e trilhas Foundations",
+          "descricao": "Programa gratuito de trilhas, cursos, webinars e preparação. A Oracle confirma cursos e exames gratuitos Foundations e OCI Architect Associate; exames Professional podem ser pagos. Conferir cada credencial individualmente.",
+          "url": "https://www.oracle.com/br/education/certification/race-to-certification/",
+          "tipo": "Curso preparatório / programa de formação"
+        }
+      ],
+      "alteracoes": {
+        "catalogo_anterior": 218,
+        "novos_registros": 6,
+        "catalogo_total": 224,
+        "analises_anteriores_preservadas": 30,
+        "analises_total": 31,
+        "ids_novos": [
+          "rt-219",
+          "rt-220",
+          "rt-221",
+          "rt-222",
+          "rt-223",
+          "rt-224"
+        ],
+        "ids_revisados": [
+          "rt-004",
+          "rt-028",
+          "rt-029",
+          "rt-030",
+          "rt-031",
+          "rt-108",
+          "rt-117",
+          "rt-144",
+          "rt-152",
+          "rt-159",
+          "rt-171",
+          "rt-172",
+          "rt-182",
+          "rt-194",
+          "rt-195",
+          "rt-196",
+          "rt-197",
+          "rt-216"
+        ],
+        "status_alterados": [
+          {
+            "id": "rt-108",
+            "de": "A confirmar",
+            "para": "Vigente"
+          },
+          {
+            "id": "rt-194",
+            "de": "Vigente",
+            "para": "Encerrada"
+          }
+        ],
+        "registros_encerrados": [
+          "rt-194"
+        ],
+        "ausencia_de_novidades_confirmadas": false,
+        "pesquisa_executada": true,
+        "campanha_universal_remota_exame_profissional_100pct_gratuito_confirmada": false
+      },
+      "observacoes": [
+        "AI-103: a certificação profissional Microsoft é distinta do bootcamp DIO; o curso preparatório é gratuito, mas o voucher é limitado aos 250 primeiros colocados do ranking que concluírem até 10/01/2027. A Microsoft recomenda experiência em Python para o exame.",
+        "DIO Neo4j: página ativa, 5.000 vagas gratuitas anunciadas; o bootcamp prepara para Neo4j Certified Professional, mas não oferece voucher do exame.",
+        "IFB: as duas novas vagas são cursos técnicos integrados ao Ensino Médio, destinados a quem concluiu o Ensino Fundamental; não são certificações de fabricante. Inscrição única por pessoa no edital.",
+        "PMI-DF: certificado de participação exige inscrição de cada integrante e participação; a seleção limita-se às 15 primeiras equipes que atendam aos requisitos.",
+        "ISC2: as inscrições para o exame piloto fecharam antes de 04/11; mais de 3.000 candidatos serão selecionados, com base em experiência e proximidade de centros Pearson. O novo workshop de standard-setting em 2027 é uma oportunidade separada e permanece A confirmar.",
+        "Serpro: II Semana de IA terminou em 06/11; status atualizado para Encerrada.",
+        "Pearson: a página resume o período até 17/11, mas os termos detalhados exigem conclusão antes de 17/11; 16/11 é a referência conservadora. Primeira prova paga.",
+        "Databricks: desconto de 50% depende da conclusão integral de trilha elegível entre 10/11 e 08/12; não é exame gratuito.",
+        "Oracle: Race to Certification é preparação gratuita; gratuidade do exame depende da certificação individual. Foundations e OCI Architect Associate têm oferta gratuita confirmada; não generalizar para Professional.",
+        "Nenhuma matrícula, inscrição, compra, checkout ou verificação individual de elegibilidade foi executada.",
+        "Ausência de campanha universal remota de exame profissional gratuito não significa falha de pesquisa; a pesquisa foi executada em páginas oficiais e dos organizadores."
+      ],
+      "fontes": [
+        "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/",
+        "https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/ai-103",
+        "https://www.dio.me/bootcamp/microsoft-certificacao-ai-103",
+        "https://www.dio.me/bootcamp/neo4j-certification",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48829-cronograma-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075",
+        "https://www.isc2.org/Insights/2026/11/isc2-ai-security-certification-development-next-phase",
+        "https://forms.cloud.microsoft/r/KQYBXf9xFB",
+        "https://www.isc2.org/new-ai-certification",
+        "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
+        "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328",
+        "https://www.oracle.com/br/education/certification/race-to-certification/",
+        "https://www.oracle.com/br/education/certification/",
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://www.redhat.com/pt-br/services/training/ex267-red-hat-certified-specialist-openshift-ai",
+        "https://learn.microsoft.com/pt-br/training/topics/ignite/microsoft-ignite-2026-certification-registration",
+        "https://campanhas.serpro.gov.br/semana-de-ia-serpro/"
       ]
     }
   ]
