@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-06",
-  "nota": "06/11/2026: adicionados 3 registros (rt-216 Microsoft Ignite presencial com exame Microsoft/GitHub 100% descontado, rt-217 Santander/LSE AI Power Skills 750 vagas e rt-218 curso gratuito Copilot Microsoft 365); 17 registros revalidados; rt-145 Santander+DIO marcado Encerrada após expirar o prazo de 03/11. DIO DP-700 mantém 100 vouchers condicionais, não garantidos; Microsoft Ignite exige presença em San Francisco e passe presencial pago; não há voucher universal remoto confirmado. 05/11/2026: pesquisa de fontes oficiais sem novas ofertas confirmadas; 2 registros revalidados (Pearson, Databricks, Serpro). DIO Universia exige confirmação de elegibilidade; não adicionado. 04/11/2026: pesquisa de fontes oficiais realizada, sem novas oportunidades confirmadas para inclusão nesta amostra; ausência de novidades não é falha de pesquisa. ISC2 AI Security Pilot marcado Encerrada para novas manifestações (prazo estritamente antes de 04/11). Revalidados Pearson Global Retake (primeiro exame pago, termos contraditórios sobre 17/11), Databricks Advanced Learning Festival (10/11–08/12, desconto condicionado de 50%) e II Semana de IA Serpro (04–06/11, gratuita, certificado somente para inscritos participantes no presencial/Teams). Matrículas e elegibilidade individual não testadas. 03/11/2026: nenhuma nova oferta confirmada nas fontes oficiais consultadas nesta rodada; pesquisa executada com êxito (não confundir ausência de novidade com falha). Revalidados Pearson Global Retake (divergência de datas; 16/11 conservador), ISC2 AI Security (interesse antes de 04/11) e Databricks Advanced Learning Festival (10/11–08/12; desconto de 50% condicionado). Sem novos registros ou promessa de gratuidade universal. 02/11/2026 (complemento): 12 turmas MEC Aprenda Mais 2026B adicionadas, com conclusão até 31/01/2027, cursos gratuitos com certificados (não certificações profissionais). Inscrição individual não executada; nenhum voucher novo de exame profissional CompTIA/Microsoft confirmado nesta rodada. 02/11/2026: adicionados AWS Educate, desconto acadêmico Microsoft e Applied Skills C# (3 registros novos); revisados Pearson Global Retake, Semana de IA Serpro e ISC2 AI Security (3 registros). Não foi confirmada nova campanha universal de exame profissional gratuito; pesquisar não equivale a validar matrícula ou checkout. Benefícios condicionados preservados.",
+  "atualizado_em": "2026-11-07",
+  "nota": "07/11/2026: adicionados 6 registros (rt-219 Microsoft AI-103, rt-220 DIO AI-103 com 250 vouchers condicionais, rt-221 IFB Informática para Internet, rt-222 IFB Desenvolvimento de Sistemas Educacionais, rt-223 Hackathon PMI-DF e rt-224 workshop ISC2 AI Security em A confirmar). Revalidados 18 registros; rt-108 DIO/Neo4j passou de A confirmar para Vigente com 5.000 vagas gratuitas anunciadas; rt-194 Semana de IA Serpro passou para Encerrada após 06/11; rt-159 piloto ISC2 permanece Encerrada, com janela de exame dos selecionados atualizada; nova fase ISC2 de standard-setting registrada separadamente como A confirmar. IFB 2027/1 tem mais 108 vagas de TI em cursos integrados, além das 170 vagas de TI já cadastradas. Nenhuma campanha universal remota de exame profissional 100% gratuito foi confirmada; DIO AI-103 oferece vouchers competitivos, não garantidos. 06/11/2026: adicionados 3 registros (rt-216 Microsoft Ignite presencial com exame Microsoft/GitHub 100% descontado, rt-217 Santander/LSE AI Power Skills 750 vagas e rt-218 curso gratuito Copilot Microsoft 365); 17 registros revalidados; rt-145 Santander+DIO marcado Encerrada após expirar o prazo de 03/11. DIO DP-700 mantém 100 vouchers condicionais, não garantidos; Microsoft Ignite exige presença em San Francisco e passe presencial pago; não há voucher universal remoto confirmado. 05/11/2026: pesquisa de fontes oficiais sem novas ofertas confirmadas; 2 registros revalidados (Pearson, Databricks, Serpro). DIO Universia exige confirmação de elegibilidade; não adicionado. 04/11/2026: pesquisa de fontes oficiais realizada, sem novas oportunidades confirmadas para inclusão nesta amostra; ausência de novidades não é falha de pesquisa. ISC2 AI Security Pilot marcado Encerrada para novas manifestações (prazo estritamente antes de 04/11). Revalidados Pearson Global Retake (primeiro exame pago, termos contraditórios sobre 17/11), Databricks Advanced Learning Festival (10/11–08/12, desconto condicionado de 50%) e II Semana de IA Serpro (04–06/11, gratuita, certificado somente para inscritos participantes no presencial/Teams). Matrículas e elegibilidade individual não testadas. 03/11/2026: nenhuma nova oferta confirmada nas fontes oficiais consultadas nesta rodada; pesquisa executada com êxito (não confundir ausência de novidade com falha). Revalidados Pearson Global Retake (divergência de datas; 16/11 conservador), ISC2 AI Security (interesse antes de 04/11) e Databricks Advanced Learning Festival (10/11–08/12; desconto de 50% condicionado). Sem novos registros ou promessa de gratuidade universal. 02/11/2026 (complemento): 12 turmas MEC Aprenda Mais 2026B adicionadas, com conclusão até 31/01/2027, cursos gratuitos com certificados (não certificações profissionais). Inscrição individual não executada; nenhum voucher novo de exame profissional CompTIA/Microsoft confirmado nesta rodada. 02/11/2026: adicionados AWS Educate, desconto acadêmico Microsoft e Applied Skills C# (3 registros novos); revisados Pearson Global Retake, Semana de IA Serpro e ISC2 AI Security (3 registros). Não foi confirmada nova campanha universal de exame profissional gratuito; pesquisar não equivale a validar matrícula ou checkout. Benefícios condicionados preservados.",
   "oportunidades": [
     {
       "id": "rt-001",
@@ -71,21 +71,21 @@
       "categoria": "Cloud e Infraestrutura",
       "tipo": "Certificação oficial",
       "status": "Vigente",
-      "descricao": "Portal Oracle de certificações. Foundations e OCI Architect Associate possuem treinamento e exame gratuitos conforme anúncio oficial de 2026; outras trilhas podem ser pagas.",
+      "descricao": "Portal Oracle University. O programa Race to Certification oferece gratuitamente trilhas de aprendizagem, cursos, webinars e preparação. Separadamente, a Oracle confirma cursos e exames gratuitos para Foundations e OCI Architect Associate; cursos Professional podem exigir assinatura paga e exames devem ser verificados individualmente.",
       "url": "https://mylearn.oracle.com/",
       "origem": "Oracle",
       "brasil": "Conferir elegibilidade e condições no portal oficial",
-      "beneficio": "Foundations e OCI Architect Associate gratuitos; demais exames consultar",
+      "beneficio": "Preparação Race to Certification gratuita; cursos e exames Foundations e OCI Architect Associate gratuitos; outras trilhas consultar individualmente.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-11-06",
+      "verificado_em": "2026-11-07",
       "evidencias": [
-        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://www.oracle.com/br/education/certification/race-to-certification/",
         "https://www.oracle.com/br/education/certification/",
-        "https://www.oracle.com/br/education/training/"
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
       ],
       "grupo": "Certificação oficial",
-      "resumo": "Catálogo Oracle com certificações gratuitas e pagas; consultar cada exame.",
+      "resumo": "Oracle Race to Certification: programa gratuito de trilhas e preparação. Foundations e OCI Architect Associate têm curso e exame gratuitos na política de 2026; demais certificações e treinamentos podem ser pagos.",
       "certificado_curso": null
     },
     {
@@ -607,9 +607,10 @@
       "beneficio": "Curso e certificação gratuitos",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-23",
+      "verificado_em": "2026-11-07",
       "evidencias": [
-        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://www.oracle.com/br/education/certification/"
       ],
       "certificado_curso": null
     },
@@ -629,9 +630,10 @@
       "beneficio": "Curso e certificação gratuitos",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-23",
+      "verificado_em": "2026-11-07",
       "evidencias": [
-        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://www.oracle.com/br/education/certification/"
       ],
       "certificado_curso": null
     },
@@ -651,9 +653,10 @@
       "beneficio": "Curso e certificação gratuitos",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-23",
+      "verificado_em": "2026-11-07",
       "evidencias": [
-        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://www.oracle.com/br/education/certification/"
       ],
       "certificado_curso": null
     },
@@ -673,9 +676,10 @@
       "beneficio": "Curso e certificação gratuitos",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-23",
+      "verificado_em": "2026-11-07",
       "evidencias": [
-        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://www.oracle.com/br/education/certification/"
       ],
       "certificado_curso": null
     },
@@ -2410,20 +2414,20 @@
       "categoria": "Dados e Inteligência Artificial",
       "tipo": "Programa de formação",
       "grupo": "Programa de formação",
-      "status": "A confirmar",
-      "resumo": "Preparação para Neo4j Certified Professional, Cypher, grafos, Docker e GraphRAG. A página apresenta matrícula gratuita, mas a disponibilidade efetiva da vaga e a data-limite não foram validadas após login.",
-      "descricao": "Preparação para Neo4j Certified Professional, Cypher, grafos, Docker e GraphRAG. A página apresenta matrícula gratuita, mas a disponibilidade efetiva da vaga e a data-limite não foram validadas após login.",
+      "status": "Vigente",
+      "resumo": "Bootcamp gratuito DIO/Neo4j com matrícula ativa e 5.000 vagas anunciadas; preparação prática para Neo4j Certified Professional, Cypher, grafos, Python e GraphRAG. Não inclui voucher de exame.",
+      "descricao": "Bootcamp gratuito DIO em parceria com Neo4j. A página oficial está com matrícula gratuita ativa e anuncia 5.000 vagas; no momento da verificação, exibia mais de 2.673 alunos com bolsa gratuita. Conteúdo: Neo4j Aura, Desktop, Docker, Cypher, modelagem e importação de grafos com Python, busca vetorial, GraphRAG e mentorias. Prepara para Neo4j Certified Professional, mas não inclui voucher do exame.",
       "url": "https://www.dio.me/bootcamp/neo4j-certification",
       "origem": "DIO",
-      "brasil": "Programa divulgado ao público brasileiro; disponibilidade real depende de cadastro e vagas",
-      "beneficio": "Bolsa de formação anunciada; matrícula/limite de vagas a confirmar",
+      "brasil": "Página em português com formulário brasileiro (+55); matrícula gratuita anunciada. Disponibilidade individual depende da conclusão do cadastro e das vagas.",
+      "beneficio": "Formação gratuita e certificado DIO conforme conclusão; nenhum voucher para o exame Neo4j foi anunciado.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-24",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://www.dio.me/bootcamp/neo4j-certification"
       ],
-      "certificado_curso": "Certificado DIO divulgado; emissão condicionada à conclusão"
+      "certificado_curso": "Certificado de conclusão DIO conforme requisitos do bootcamp; não substitui a credencial Neo4j Certified Professional."
     },
     {
       "id": "rt-109",
@@ -2611,15 +2615,15 @@
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
       "status": "Vigente",
-      "resumo": "Pearson Global Retake: opt-in e primeira tentativa paga em programa participante. O período geral é 29/09–17/11/2026, mas os termos exigem conclusão da primeira tentativa antes de 17/11 (16/11 é o último dia conservador). Retake elegível gratuito de 04/01 a 07/04/2027. AWS participantes recebem 50% na primeira prova, com exclusões ANS, MLA, SAP, DVA e beta; Cisco apenas CCST Cybersecurity, Networking e IT Specialist; Microsoft exclui ESI; CompTIA não aparece na lista.",
-      "descricao": "Campanha Pearson Global Retake: exige opt-in, código recebido por e-mail e primeira prova paga. Embora o período promocional geral termine em 17/11/2026, os termos dizem que a primeira tentativa deve ser concluída antes de 17/11; portanto, 16/11 é o limite conservador. Reprovação elegível permite uma tentativa gratuita do mesmo exame entre 04/01 e 07/04/2027. Para AWS participantes há 50% de desconto na primeira tentativa, mas ficam excluídos ANS, MLA, SAP, DVA e exames beta. Cisco: somente CCST Cybersecurity, CCST Networking e CCST IT Specialist. Microsoft: ESI excluído. CompTIA não consta entre os programas participantes. Elegibilidade individual e checkout não testados.",
+      "resumo": "Pearson Global Retake: opt-in e primeira tentativa paga em programa participante. O período geral é 29/09–17/11/2026, mas os termos detalhados exigem conclusão da primeira tentativa antes de 17/11 (16/11 é o último dia conservador). Retake elegível gratuito de 04/01 a 07/04/2027. AWS participantes recebem 50% na primeira prova, com exclusões ANS, MLA, SAP, DVA e beta; Cisco apenas CCST; Microsoft exclui ESI; CompTIA não aparece na lista.",
+      "descricao": "Campanha Pearson Global Retake: exige opt-in, código recebido por e-mail e primeira prova paga. A página apresenta o período geral até 17/11/2026, mas os termos também dizem que a primeira tentativa deve ser concluída antes de 17/11; por segurança, 16/11 é o limite conservador. Reprovação elegível permite uma tentativa gratuita do mesmo exame entre 04/01 e 07/04/2027. Para AWS participantes há 50% de desconto na primeira tentativa, mas ficam excluídos ANS, MLA, SAP, DVA e exames beta. Cisco: somente CCST Cybersecurity, CCST Networking e CCST IT Specialist. Microsoft: ESI excluído. CompTIA não consta entre os programas participantes. Elegibilidade individual e checkout não testados.",
       "url": "https://www.pearsonvue.com/us/en/test-takers/free-retake.html",
       "origem": "Pearson VUE",
       "brasil": "Condições globais não excluem Brasil; adesão, exame participante, código e elegibilidade individual devem ser confirmados no agendamento. Há divergência entre o cabeçalho (até 17/11) e os termos detalhados ('prior to November 17') para primeira tentativa.",
       "beneficio": "Retake gratuito condicionado; primeira prova paga; AWS elegíveis 50% na primeira tentativa",
       "inscricao_ate": "2026-11-17",
       "voucher_ate": "2027-04-07",
-      "verificado_em": "2026-11-06",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://www.pearsonvue.com/us/en/test-takers/free-retake.html"
       ],
@@ -3227,15 +3231,15 @@
       "tipo": "Preparação e simulados",
       "grupo": "Preparação e simulados",
       "status": "Vigente",
-      "resumo": "Aceleração gratuita DIO/Microsoft para o exame profissional DP-700, com quatro workshops ao vivo de 09 a 12/11/2026 sobre arquitetura, segurança, ingestão, transformação, operação, deploy e otimização no Microsoft Fabric. A página mantém matrícula gratuita e anuncia chance de ganhar um entre 100 vouchers integrais do exame; voucher não garantido e critérios de seleção não detalhados na página pública.",
-      "descricao": "Preparação gratuita com quatro workshops ao vivo (09, 10, 11 e 12/11) conduzidos por instrutores DIO/Microsoft. O exame DP-700 concede Microsoft Certified: Fabric Data Engineer Associate. A DIO anuncia 100 vouchers de exame gratuitos, mas a obtenção é condicional e não garantida; critérios específicos de seleção e data de distribuição não foram publicados na página consultada. A página continuava com botão de matrícula gratuita em 06/11. Não foi realizada inscrição.",
+      "resumo": "Preparação gratuita para DP-700 em quatro workshops ao vivo de 09–12/11; a DIO anuncia chance de um dos 100 vouchers integrais, sujeito a seleção e não garantido.",
+      "descricao": "Aceleração gratuita DIO/Microsoft para o exame profissional DP-700, com quatro workshops ao vivo de 09 a 12/11/2026 sobre arquitetura, segurança, ingestão, transformação, operação, deploy e otimização no Microsoft Fabric. A página oficial continua anunciando matrícula gratuita e chance de ganhar um entre 100 vouchers integrais do exame; voucher não garantido e critérios de seleção não detalhados na página pública. Não foi realizada inscrição.",
       "url": "https://www.dio.me/acceleration/microsoft-dp-700-certification",
       "origem": "DIO e Microsoft",
       "brasil": "Inscrição DIO com telefone +55; exame Microsoft disponível em português brasileiro e agendável pela Pearson VUE. Regras específicas de elegibilidade aos vouchers precisam ser conferidas.",
       "beneficio": "Preparação gratuita; chance de um entre 100 vouchers integrais DP-700, sujeito a seleção; exame não é garantido.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-11-06",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://www.dio.me/acceleration/microsoft-dp-700-certification",
         "https://learn.microsoft.com/pt-br/credentials/certifications/fabric-data-engineer-associate/"
@@ -3426,7 +3430,7 @@
       "descricao": "Oferta global Red Hat para o curso Developing and Deploying AI/ML Applications on Red Hat OpenShift AI (AI267LS): 50% de desconto sobre o preço sugerido local até 31/12/2026. A compra do curso inclui uma tentativa do exame oficial EX267, Red Hat Certified Developer in AI. Desconto aplicado no checkout e não cumulativo com outras ofertas. Preço final brasileiro não testado.",
       "origem": "Red Hat",
       "voucher_ate": null,
-      "verificado_em": "2026-11-06"
+      "verificado_em": "2026-11-07"
     },
     {
       "id": "rt-153",
@@ -3568,17 +3572,18 @@
       "tipo": "Campanha de voucher",
       "grupo": "Campanha de voucher",
       "status": "Encerrada",
-      "resumo": "Prazo para manifestação de interesse no piloto ISC2 AI Security encerrado (formulário exigia envio antes de 04/11/2026). Exame gratuito apenas para selecionados; certificação futura condicionada à validação do programa e requisitos de experiência.",
-      "descricao": "ISC2 AI Security: manifestação de interesse ANTES de 04/11/2026, com 03/11 como último dia conservador. Exame piloto gratuito apenas para candidatos selecionados (aproximadamente 3.000), presencial em inglês em Pearson Professional Center autorizado. Exige experiência profissional conforme critérios ISC2; manifestação não garante seleção nem certificação. Disponibilidade de centro elegível no Brasil não testada.",
+      "resumo": "A manifestação de interesse para o piloto ISC2 AI Security encerrou antes de 04/11/2026. Em 06/11, a ISC2 informou que mais de 3.000 candidatos serão selecionados entre os voluntários, com base em experiência profissional e proximidade de centros Pearson; notificações previstas ainda em novembro e prova piloto de meados de dezembro até 24/01/2027. Este registro trata somente da seleção para o exame piloto, não do novo workshop de definição de padrão registrado separadamente.",
+      "descricao": "A manifestação de interesse para o piloto ISC2 AI Security precisava ser enviada antes de 04/11/2026 e está encerrada. Em 06/11, a ISC2 informou que mais de 3.000 candidatos serão selecionados entre os voluntários, considerando experiência profissional e proximidade de Pearson Professional Centers; os selecionados serão notificados ainda em novembro e poderão realizar o exame presencial entre meados de dezembro de 2026 e 24/01/2027. O exame piloto é gratuito somente para selecionados, em inglês, e não garante a certificação operacional futura.",
       "url": "https://www.isc2.org/new-ai-certification",
       "origem": "ISC2",
-      "brasil": "Interesse aberto globalmente antes de 04/11/2026; seleção, quatro anos de experiência (com exceções) e centro Pearson Professional Center elegível no Brasil não confirmados individualmente.",
-      "beneficio": "Exame piloto gratuito somente para candidatos selecionados; não garante certificação",
+      "brasil": "Seleção global, mas escolha depende de experiência profissional e proximidade de Pearson Professional Center; disponibilidade de centro elegível no Brasil não confirmada.",
+      "beneficio": "Exame piloto gratuito somente para candidatos selecionados; novas manifestações de interesse encerradas.",
       "inscricao_ate": "2026-11-03",
       "voucher_ate": null,
-      "verificado_em": "2026-11-04",
+      "verificado_em": "2026-11-07",
       "evidencias": [
-        "https://www.isc2.org/new-ai-certification"
+        "https://www.isc2.org/new-ai-certification",
+        "https://www.isc2.org/Insights/2026/11/isc2-ai-security-certification-development-next-phase"
       ],
       "certificado_curso": "Certificação futura apenas se piloto validado, exame aprovado e experiência comprovada",
       "prazo_manifestacao": "Antes de 04/11/2026",
@@ -3845,11 +3850,12 @@
       "beneficio": "Curso e exame Foundations gratuitos segundo política oficial Oracle 2026",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-29",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://blogs.oracle.com/oracleuniversity/oracle-multicloud-foundations-associate-training-and-certification-now-available",
         "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
-        "https://mylearn.oracle.com/ou/exam-unproctored/oracle-multicloud-foundations-associate-1z0-1144-26/166469/282133"
+        "https://mylearn.oracle.com/ou/exam-unproctored/oracle-multicloud-foundations-associate-1z0-1144-26/166469/282133",
+        "https://www.oracle.com/br/education/certification/"
       ],
       "certificado_curso": "Certificação oficial Oracle após aprovação"
     },
@@ -3869,9 +3875,10 @@
       "beneficio": "Curso e exame gratuitos; consultar código vigente no MyLearn",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-10-29",
+      "verificado_em": "2026-11-07",
       "evidencias": [
-        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available"
+        "https://blogs.oracle.com/oracleuniversity/oci-certification-learning-paths-and-exams-2026-updates-now-available",
+        "https://www.oracle.com/br/education/certification/"
       ],
       "certificado_curso": "Certificação oficial Oracle após aprovação"
     },
@@ -4101,7 +4108,7 @@
       "beneficio": "Voucher de 50% para exame profissional, condicionado a trilha concluída no período; 20% em Academy Labs.",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-11-06",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328"
       ],
@@ -4382,16 +4389,16 @@
       "categoria": "IA e Ciência de Dados",
       "tipo": "Evento e capacitação",
       "grupo": "Evento e capacitação",
-      "status": "Vigente",
-      "resumo": "4–6/11/2026, Brasília e online; evento Serpro gratuito. A fonte oficial informa inscrição online até o início do evento, sem horário exato de fechamento; certificado somente para participantes inscritos via Teams ou presencialmente, não via YouTube.",
-      "descricao": "4–6/11/2026, Brasília e online; evento Serpro gratuito e aberto ao público, com inscrição obrigatória. A página oficial informa que inscrições seguem até o encerramento do evento, sem horário exato. Certificado para inscritos que participem presencialmente ou pelo Teams; YouTube é aberto sem inscrição e não concede certificado. Último dia do evento: 06/11/2026. Presencial sujeito a 100 vagas e disponibilidade não testada.",
+      "status": "Encerrada",
+      "resumo": "Evento Serpro concluído em 06/11/2026. A II Semana de IA foi gratuita, em Brasília e online; certificado somente para inscritos que participaram presencialmente ou via Teams, não para espectadores do YouTube.",
+      "descricao": "A II Semana de IA Serpro ocorreu de 04 a 06/11/2026 e está encerrada. Evento gratuito em Brasília e online. A regra oficial concedia certificado aos inscritos que participaram presencialmente ou pelo Teams; a transmissão aberta no YouTube não concedia certificado.",
       "url": "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
       "origem": "Serpro",
       "brasil": "Aberto a estudantes e público geral; Teams mediante inscrição, presencial condicionado a vagas por dia.",
-      "beneficio": "Participação online e certificado gratuitos; nenhuma prova profissional ou voucher",
+      "beneficio": "Evento e participação encerrados; certificado somente conforme presença e inscrição realizadas durante o evento.",
       "inscricao_ate": "2026-11-06",
       "voucher_ate": null,
-      "verificado_em": "2026-11-06",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
         "https://www.serpro.gov.br/menu/noticias/noticias-2026/segunda-semana-ia-serpro"
@@ -4416,7 +4423,7 @@
       "beneficio": "Participação gratuita; certificado individual não confirmado",
       "inscricao_ate": null,
       "voucher_ate": null,
-      "verificado_em": "2026-11-06",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://www.gov.br/cgu/pt-br/acesso-a-informacao/institucional/eventos/semana-dados-br",
         "https://redeparcerias.sistema.gov.br/evento_visualizacao/147"
@@ -4439,11 +4446,12 @@
       "beneficio": "Inscrição e curso gratuitos; diploma técnico após aprovação. Não é voucher de certificação profissional.",
       "inscricao_ate": "2026-11-22",
       "voucher_ate": null,
-      "verificado_em": "2026-11-06",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
         "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027",
-        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1"
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48829-cronograma-selecao-para-cursos-tecnicos-2027-1"
       ],
       "certificado_curso": "Diploma de Técnico em Desenvolvimento de Sistemas (formação formal, condicionado à conclusão)",
       "inicio_em": "2027-01-27"
@@ -4464,11 +4472,12 @@
       "beneficio": "Inscrição e curso gratuitos; diploma técnico condicionado à conclusão. Sem voucher para exames profissionais.",
       "inscricao_ate": "2026-11-22",
       "voucher_ate": null,
-      "verificado_em": "2026-11-06",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
         "https://www.ifb.edu.br/estude-no-ifb/noticias/48842-ifb-lanca-edital-com-mais-de-2-mil-vagas-de-cursos-tecnicos-para-o-primeiro-semestre-de-2027",
-        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1"
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48829-cronograma-selecao-para-cursos-tecnicos-2027-1"
       ],
       "certificado_curso": "Diploma de Técnico em Manutenção e Suporte em Informática (após conclusão)",
       "inicio_em": "2027-01-27"
@@ -4919,7 +4928,7 @@
       "beneficio": "Um exame Microsoft ou GitHub com 100% de desconto, somente presencial no evento; ingresso e deslocamento não incluídos.",
       "inscricao_ate": null,
       "voucher_ate": "2026-11-20",
-      "verificado_em": "2026-11-06",
+      "verificado_em": "2026-11-07",
       "evidencias": [
         "https://learn.microsoft.com/pt-br/training/topics/ignite/microsoft-ignite-2026-certification-registration",
         "https://ignite.microsoft.com/en-US/home"
@@ -4980,6 +4989,162 @@
       "certificado_curso": "Certificado de conclusão Santander Open Academy após finalizar o curso; não é certificação profissional Microsoft.",
       "fim_em": "2026-12-31",
       "elegibilidade": "16+; qualquer país de residência; cadastro direto na Santander Open Academy."
+    },
+    {
+      "id": "rt-219",
+      "nome": "Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)",
+      "fabricante": "Microsoft",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Certificação oficial",
+      "grupo": "Certificação oficial",
+      "status": "Vigente",
+      "resumo": "Certificação profissional Microsoft para desenvolver, gerenciar e implantar aplicações e agentes de IA no Azure com Microsoft Foundry. Exame AI-103 supervisionado de 120 minutos, disponível em Português (Brasil); preço varia conforme país/região.",
+      "descricao": "A credencial valida competências para planejar e gerenciar soluções de IA no Azure, implementar IA generativa e agentes, visão computacional, análise de texto e extração de informações. O exame AI-103 é supervisionado, tem duração de 120 minutos e está disponível em Português (Brasil). A Microsoft recomenda experiência de desenvolvimento com Python e familiaridade com IA geral, generativa e serviços Azure. Preço depende do país/região de realização; não foi presumida gratuidade nem voucher universal.",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/",
+      "origem": "Microsoft Learn",
+      "brasil": "A página oficial lista Português (Brasil); preço baseado no país/região do exame. Verificar preço e disponibilidade no agendamento Pearson VUE.",
+      "beneficio": "Certificação profissional oficial; exame pago conforme preço regional. Eventuais vouchers dependem de campanhas externas e seleção.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-11-07",
+      "evidencias": [
+        "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/",
+        "https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/ai-103"
+      ],
+      "certificado_curso": null,
+      "exame": "AI-103",
+      "duracao_exame_minutos": 120,
+      "elegibilidade": "Experiência de desenvolvimento de aplicativos com Python e familiaridade com IA geral, IA generativa e serviços Azure; confirmar requisitos atualizados na página oficial."
+    },
+    {
+      "id": "rt-220",
+      "nome": "DIO + Microsoft — Bootcamp Certificação AI-103 (até 250 vouchers condicionais)",
+      "fabricante": "Microsoft / DIO",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Curso preparatório",
+      "grupo": "Curso preparatório",
+      "status": "Vigente",
+      "resumo": "Bootcamp gratuito para preparação integral do exame AI-103, sem pré-requisito de entrada, com cursos, pocket guides, simulados e mentorias ao vivo. Os 250 primeiros colocados do ranking que concluírem até 10/01/2027 recebem voucher gratuito; benefício competitivo, não garantido.",
+      "descricao": "Bootcamp gratuito Microsoft/DIO para estudar todos os domínios do exame AI-103: planejamento e gestão de soluções de IA, IA generativa e agentes, visão computacional, análise de texto e extração de informações. Inclui vídeo-aulas, Pocket Guides, simulados por módulo e mentorias ao vivo com Microsoft Certified Trainer. A DIO informa que os 250 primeiros colocados do ranking que concluírem o bootcamp até 10/01/2027 recebem voucher do exame sem custo. A entrada no bootcamp não exige pré-requisitos; isso não elimina a experiência em Python recomendada pela Microsoft para o exame. Voucher não garantido a todos.",
+      "url": "https://www.dio.me/bootcamp/microsoft-certificacao-ai-103",
+      "origem": "Microsoft e DIO",
+      "brasil": "Página em português e cadastro DIO com telefone brasileiro; exame AI-103 inclui Português (Brasil). A distribuição do voucher é competitiva pelo ranking.",
+      "beneficio": "Curso preparatório gratuito; até 250 vouchers gratuitos para os primeiros colocados que concluírem até 10/01/2027; não garantido.",
+      "inscricao_ate": null,
+      "voucher_ate": "2027-01-10",
+      "verificado_em": "2026-11-07",
+      "evidencias": [
+        "https://www.dio.me/bootcamp/microsoft-certificacao-ai-103",
+        "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-103/",
+        "https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/ai-103"
+      ],
+      "certificado_curso": "Certificado de conclusão DIO conforme requisitos do bootcamp; não substitui a certificação profissional Microsoft.",
+      "fim_em": "2027-01-10",
+      "voucher_garantido": false,
+      "elegibilidade": "Inscrição no bootcamp DIO; não há pré-requisito para entrar. Para voucher, estar entre os 250 primeiros do ranking e concluir até 10/01/2027."
+    },
+    {
+      "id": "rt-221",
+      "nome": "IFB 2027/1 — Técnico em Informática para Internet (76 vagas)",
+      "fabricante": "Instituto Federal de Brasília",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "76 vagas gratuitas no curso técnico integrado em Informática para Internet, campus Brasília, turno matutino, seis semestres. Inscrições até 22/11/2026; sorteio eletrônico em 24/11 e resultado em 26/11.",
+      "descricao": "Curso técnico integrado ao Ensino Médio, campus Brasília, 76 vagas, seis semestres e turno matutino. Destinado a quem concluiu o Ensino Fundamental e cursará o Ensino Médio integrado à formação técnica. Curso e inscrição gratuitos; seleção por sorteio eletrônico. Inscrições online de 23/10 a 22/11/2026; sorteio em 24/11 e resultado em 26/11. Não é certificação profissional de fabricante.",
+      "url": "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+      "origem": "IFB",
+      "brasil": "Oferta presencial no campus Brasília (DF); modalidade integrada ao Ensino Médio, para quem concluiu o Ensino Fundamental. Uma inscrição por pessoa por edital.",
+      "beneficio": "Curso técnico público gratuito e diploma após conclusão; sem voucher de certificação profissional.",
+      "inscricao_ate": "2026-11-22",
+      "voucher_ate": null,
+      "verificado_em": "2026-11-07",
+      "evidencias": [
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48829-cronograma-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1"
+      ],
+      "certificado_curso": "Diploma de Técnico em Informática para Internet, condicionado à conclusão do curso integrado.",
+      "inicio_em": null,
+      "fim_em": null,
+      "elegibilidade": "Concluintes do Ensino Fundamental que ingressarão no Ensino Médio integrado; conferir edital e ações afirmativas."
+    },
+    {
+      "id": "rt-222",
+      "nome": "IFB 2027/1 — Técnico em Desenvolvimento de Sistemas Educacionais (32 vagas)",
+      "fabricante": "Instituto Federal de Brasília",
+      "categoria": "Desenvolvimento e DevOps",
+      "tipo": "Programa de formação",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "32 vagas gratuitas no curso técnico integrado em Desenvolvimento de Sistemas Educacionais, campus São Sebastião, período integral, seis semestres. Inscrições até 22/11/2026; sorteio em 24/11 e resultado em 26/11.",
+      "descricao": "Curso técnico integrado ao Ensino Médio, campus São Sebastião, 32 vagas, seis semestres e turno integral (matutino/vespertino). Destinado a quem concluiu o Ensino Fundamental e cursará o Ensino Médio integrado à formação técnica. Curso e inscrição gratuitos; seleção por sorteio eletrônico. Inscrições online de 23/10 a 22/11/2026; sorteio em 24/11 e resultado em 26/11. Não é certificação profissional de fabricante.",
+      "url": "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+      "origem": "IFB",
+      "brasil": "Oferta presencial no campus São Sebastião (DF); modalidade integrada ao Ensino Médio, para quem concluiu o Ensino Fundamental. Uma inscrição por pessoa por edital.",
+      "beneficio": "Curso técnico público gratuito e diploma após conclusão; sem voucher de certificação profissional.",
+      "inscricao_ate": "2026-11-22",
+      "voucher_ate": null,
+      "verificado_em": "2026-11-07",
+      "evidencias": [
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48830-quadro-de-vagas-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48829-cronograma-selecao-para-cursos-tecnicos-2027-1",
+        "https://www.ifb.edu.br/estude-no-ifb/noticias/48838-duvidas-frequentes-selecao-para-cursos-tecnicos-2027-1"
+      ],
+      "certificado_curso": "Diploma de Técnico em Desenvolvimento de Sistemas Educacionais, condicionado à conclusão do curso integrado.",
+      "inicio_em": null,
+      "fim_em": null,
+      "elegibilidade": "Concluintes do Ensino Fundamental que ingressarão no Ensino Médio integrado; conferir edital e ações afirmativas."
+    },
+    {
+      "id": "rt-223",
+      "nome": "PMI-DF — Hackathon Impacto Social, IA e Gestão de Projetos 2026",
+      "fabricante": "PMI Brasil / PMI-DF",
+      "categoria": "Dados e Inteligência Artificial",
+      "tipo": "Programa de formação / desafio",
+      "grupo": "Programa de formação",
+      "status": "Vigente",
+      "resumo": "Hackathon gratuito e online para estudantes de graduação ou pós-graduação, maiores de 18 anos, em equipes de 4–5. Inscrições até 09/11/2026 às 23h59; seleção das 15 primeiras equipes elegíveis; desafio em 12/12 e certificados até 19/12.",
+      "descricao": "Edição piloto 2026 organizada pelo PMI Brasil, Student Club PMI-DF e capítulos PMI-DF, PMI-PE e PMI-SE, com apoio de outros capítulos. Maratona educacional 100% online e gratuita para criar protótipos com IA e boas práticas de gestão de projetos para desafios de organizações da sociedade civil. Elegibilidade: estudantes de graduação ou pós-graduação de todo o Brasil, 18+, equipes de 4 a 5 integrantes. Serão selecionadas as 15 primeiras equipes que cumprirem os requisitos. Inscrições de 19/10 a 09/11/2026 às 23h59; resultado em 13/11; hackathon em 12/12; certificados até 19/12. Todos os integrantes devem se inscrever para receber certificado.",
+      "url": "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075",
+      "origem": "PMI-DF / PMI Brasil via Sympla",
+      "brasil": "Aberto a estudantes de graduação e pós-graduação de todo o Brasil; participação online.",
+      "beneficio": "Participação gratuita em hackathon e webinars preparatórios; certificado de participação condicionado à inscrição individual e presença.",
+      "inscricao_ate": "2026-11-09",
+      "voucher_ate": null,
+      "verificado_em": "2026-11-07",
+      "evidencias": [
+        "https://www.sympla.com.br/evento-online/hackathon-impacto-social-ia-e-gestao-de-projetos/3618075"
+      ],
+      "certificado_curso": "Certificado de participação previsto até 19/12/2026; todos os integrantes precisam se inscrever.",
+      "inicio_em": "2026-11-07",
+      "fim_em": "2026-12-12",
+      "elegibilidade": "Estudante de graduação ou pós-graduação, maior de 18 anos, equipe de 4–5; seleção limitada às 15 primeiras equipes elegíveis."
+    },
+    {
+      "id": "rt-224",
+      "nome": "ISC2 — workshop voluntário de definição do padrão da certificação AI Security (2027)",
+      "fabricante": "ISC2",
+      "categoria": "Redes e Cibersegurança",
+      "tipo": "Programa de participação profissional",
+      "grupo": "Programa de participação profissional",
+      "status": "A confirmar",
+      "resumo": "ISC2 procura profissionais de cibersegurança com conhecimento e experiência relevantes para um workshop voluntário de 2,5 dias em 2027, destinado a definir critérios de aprovação da nova certificação AI Security. Datas, elegibilidade geográfica e seleção detalhada ainda não publicadas.",
+      "descricao": "Nova fase de desenvolvimento da certificação ISC2 AI Security. A organização informa que pretende reunir voluntários com conhecimento e experiência relevantes em cibersegurança para um workshop de definição de padrão (standard-setting) de dois dias e meio durante 2027, contribuindo para estabelecer os critérios de aprovação do exame. A página oficial aponta formulário de voluntariado, mas não publica datas exatas, prazo de candidatura, critérios completos de seleção, custos de deslocamento ou confirmação específica de elegibilidade no Brasil. Não é curso, voucher nem exame gratuito.",
+      "url": "https://www.isc2.org/Insights/2026/11/isc2-ai-security-certification-development-next-phase",
+      "origem": "ISC2",
+      "brasil": "ISC2 descreve participação internacional no desenvolvimento, mas elegibilidade específica para residentes no Brasil e eventual apoio de viagem não foram confirmados.",
+      "beneficio": "Participação voluntária em workshop profissional; sem voucher, remuneração ou benefício financeiro anunciados.",
+      "inscricao_ate": null,
+      "voucher_ate": null,
+      "verificado_em": "2026-11-07",
+      "evidencias": [
+        "https://www.isc2.org/Insights/2026/11/isc2-ai-security-certification-development-next-phase",
+        "https://forms.cloud.microsoft/r/KQYBXf9xFB"
+      ],
+      "certificado_curso": null,
+      "elegibilidade": "Profissionais de cibersegurança com conhecimento e experiência relevantes; requisitos e seleção detalhados a confirmar."
     }
   ]
 }
